@@ -1,6 +1,7 @@
 
 # Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction
-This repository contains code for our NAACL2022 paper:  [Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction](https://aclanthology.org/2022.naacl-main.312.pdf)
+This repository contains code for our NAACL2022 paper:  
+[Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction](https://aclanthology.org/2022.naacl-main.312.pdf)
 ## Datasets
 
 The training data comes from four domains: Restaurant(R) 、 Laptop(L) 、 Device(D).  
