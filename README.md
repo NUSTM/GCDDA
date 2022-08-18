@@ -1,4 +1,9 @@
 ## GCDDA
+
+### environment
+transformers==4.2.2
+pytorch==1.10.0
+### code
 1. Firstly, we run the following code to achieve the target pseudo labeled data:
 ```
 cd aeoe
