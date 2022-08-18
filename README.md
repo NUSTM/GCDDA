@@ -4,7 +4,7 @@ This repository contains code for our NAACL2022 paper:
 [Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction](https://aclanthology.org/2022.naacl-main.312.pdf)
 ## Datasets
 
-The training data comes from four domains: Restaurant(R) 、 Laptop(L) 、 Device(D).  
+The training data comes from three domains: Restaurant(R) 、 Laptop(L) 、 Device(D).  
 We follow the previous work and remove the sentences that have no aspects and opinions when device is the source domain.  
 
 The in-domain corpus(used for training BERT-E) come from [yelp](https://www.yelp.com/dataset/challenge) and [amazon reviews](http://jmcauley.ucsd.edu/data/amazon/links.html). 
