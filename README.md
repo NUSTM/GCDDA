@@ -1,5 +1,5 @@
 ## GCDDA
-
+This is our code from the paper Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction
 ### environment
 transformers==4.2.2  
 pytorch==1.10.0  
