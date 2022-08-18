@@ -1,0 +1,1460 @@
+an excellent service####O B-OP B-ASP
+we began with the cheese fondue ( the artisanal blend ) and added apples and kielbasa to dip .####O O O O B-ASP I-ASP O O O O O O O B-ASP O B-ASP O O O
+their whitefish salad is excellent -- all whitefish with a little mayo .####O B-ASP I-ASP O B-OP O O B-ASP O O O B-ASP O
+do not get the go go hamburgers , no matter what the reviews say .####O O O O B-ASP I-ASP I-ASP O O O O O O O O
+i ate here a week ago and found most dishes average at best and too expensive .####O O O O O O O O O B-ASP B-OP O O O O B-OP O
+we did n't look like the other patrons in there so unfortunately i think that may have been part of the problem .####O O O O O O O O O O O O O O O O O O O O O O O
+definitely a neighborhood favorite .####O O O B-OP O
+i got the opportunity to dine at your establishment again a few weeks ago , i was in your upstrairs dining area .####O O O O O O O O O O O O O O O O O O O B-ASP I-ASP I-ASP O
+he served me an uni hand roll , which i never had before , and let me tell you ... it was heaven !####O O O O B-ASP I-ASP I-ASP O O O O O O O O O O O O O O O B-OP O
+been there , done that , and new york , it 's not that big a deal .####O O O O O O O O O O O O O O O O O O
+the food 's dazzling flavors overwhelm the palate , truly embracing the beauty of authentic thai cuisine .####O B-ASP O O B-ASP B-OP O O O O B-OP O O O B-OP B-ASP I-ASP O
+decent wine at reasonable prices .####B-OP B-ASP O B-OP B-ASP O
+you can eat gourmet food at a fast food price .####O O O O B-ASP O O O O B-ASP O
+tuk tuk is one of those comfortable neighborhood joints where you know you will always have a good meal at a fair price .####O O O O O O B-OP O O O O O O O O O O B-OP B-ASP O O B-OP B-ASP O
+the service is a bit slow , but harkens back to my years growing up in napoli , italy where things are not rushed and when you sit down for dinner the table is yours all night .####O B-ASP O O O B-OP O O O O O O O O O O O O O O O O O O O O O O O O B-ASP O B-ASP O O O O O
+but the service is horrid !####O O B-ASP O B-OP O
+i showed it to the manager , and he smilingly apologized and brought us two free desserts ( but did not ask us what we wanted and so brought the last two desserts we would have asked for ) .####O O O O O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the service is great , my soup always arrives nice and hot .####O B-ASP O B-OP O O B-ASP O O B-OP O B-OP O
+ingredients are organic which is a real plus for me .####B-ASP O B-OP O O O O B-OP O O O
+i love this place !####O B-OP O O O
+i 've eaten at all three locations and i always love , love the food , the service is always wonderful and the prices are really reasonable .####O O O O O O O O O O B-OP O B-OP O B-ASP O O B-ASP O O B-OP O O B-ASP O O B-OP O
+i got an excellent piece of cheesecake and we had several other nice pastries .####O O O B-OP O O B-ASP O O O O O B-OP B-ASP O
+another welcome addition to the neighborhood .####O O O O O O O
+we had a wonderful meal at naples 45 a month ago on a visit to nyc .####O O O B-OP B-ASP O O O O O O O O O O O O
+i always get the shabu-shabu dinner and the beef is always fresh .####O O O O B-ASP I-ASP O O B-ASP O O B-OP O
+been there , done that , and new york , it 's not that big a deal .####O O O O O O O O O O O O O O O O O O
+it is not worth for that bucks .####O O O B-OP O O O O
+i was a little leary about mary 's at first - it 's small , crowded and you usually have to wait on line - but i 'm glad i finally tried it .####O O O O B-OP O O O O O O O O B-OP O B-OP O O O O O O O O O O O O B-OP O O O O O
+the food is wonderful , tasty and filling , and the service is professional and friendly .####O B-ASP O B-OP O B-OP O B-OP O O O B-ASP O B-OP O B-OP O
+either that , or the editor 's idea of romance must be sharing a conversation with the next table , while trying to speak louder than the traffic on 57th .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+we try frequenting new restaurants all over the city , but any time that we visit a restaurant other than roth 's we are always disappointed .####O O O O O O O O O O O O O O O O O O O O O O O O O B-OP O
+all conveniently delivered right to the door .####O B-OP B-ASP O O O O O
+my boyfriend and i are avid restaurant goers , and we are always on the lookout for new places and our friend had recommended flatbush farms .####O O O O O O O O O O O O O O O O O O O O O O O O O O O
+moral stay away .####O O O O
+my fiance and i recently wanted to see the city and deceided to take a dinner cruise .####O O O O O O O O O O O O O O O O O O
+we did n't get drink refills and she did n't even offer us the option of dessert .####O O O O B-ASP I-ASP O O O O O O O O O O B-ASP O
+please save yourself the frustration .####O O O O O O
+the servers at flatbush farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .####O B-ASP O O O O O O B-OP O O O O O O O O O O O O O O O O O
+these innovators of french indian fusion do a great job of making dishes as interesting as possible while still being accessible .####O O O B-ASP I-ASP I-ASP O O B-OP O O O B-ASP O B-OP O O O O O B-OP O
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .####O O O O O O O O B-ASP O O O O O B-ASP O B-OP O O O B-OP O B-ASP O O O
+with so many good restaurants on the uws , i do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care .####O O O O O O O O O O O O O B-OP B-ASP O B-OP I-OP B-ASP O O O O O O O O O O O B-OP B-ASP O O B-ASP O O O O O
+short and sweet – seating is great : it 's romantic , cozy and private .####B-OP O B-OP O B-ASP O B-OP O O O B-OP O B-OP O B-OP O
+the service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .####O B-ASP O B-OP O O O O O O O O O O O O O O O O O O O O O O O O O
+just awsome .####O B-OP O
+good french restaurant in an area devoid of decent restaurants unless you 're into eating 4 pound pastrami sandwiches at katz ' deli , or mexican food which is supplied by capable restaurants .####B-OP O O O O O O O B-OP O O O O O O O O B-ASP I-ASP O O O O O O B-ASP I-ASP O O O O O O O
+the jukebox plays everything from italian opera to the strokes .####O B-ASP O O O O O O O O O
+a guaranteeed delight !####O O O O
+nick stef 's is one of the only places worthy of going in the area , so if you happen to be by madison square garden or herald 's square check it out !####O O O O O O O O O B-OP O O O O O O O O O O O O O O O O O O O O O O O O
+my husband and i both ordered the steak , medium .####O O O O O O O B-ASP O B-OP O
+it is one the nicest outdoor restaurants i have ever seen in ny -- i am from italy and this place rivals the ones in my country .####O O O O B-OP O O O O O O O O O O O O O O O O O O O O O O O
+should you happen to be impressed by the cuisine definitely try it .####O O O O O B-OP O O B-ASP O O O O
+the service was very attentive and very generous .####O B-ASP O O B-OP O O B-OP O
+it 's eaten with black vinegar and shredded ginger .####O O O O B-ASP I-ASP O B-ASP I-ASP O
+if it is n't for the food ( a + + + ) , it must be the service or the ambience .####O O O O O O B-ASP O O O O O O O O O O O B-ASP O O B-ASP O
+aside from the rushed service , we were very impressed with the food and the drinks .####O O O B-OP B-ASP O O O O B-OP O O B-ASP O O B-ASP O
+the service is good and the resturant is clean .####O B-ASP O B-OP O O O O B-OP O
+the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if i must recommend a dish it must be the pumkin tortelini .####O O O O O B-ASP O O O O O O O O O O B-OP O O B-ASP O B-OP O O O O B-OP O O O O O O B-ASP I-ASP O
+at first glance this place seems a bit pricey for a hot dog joint , but at bark you do n't just get your average hot dog .####O O O O O O O O B-OP O O B-ASP I-ASP O O O O B-ASP O O O O O O B-OP B-ASP I-ASP O
+the food is great , i love their dumplings , cold sesame noodles , chicken and shrimp dishs .####O B-ASP O B-OP O O B-OP O B-ASP O B-ASP I-ASP I-ASP O B-ASP O B-ASP I-ASP O
+much more reasonably priced too !####O O B-OP B-ASP O O
+the mushroom barley soup is amazing .####O B-ASP I-ASP I-ASP O B-OP O
+these are overpriced and you can get better just around the corner :####O O O O O O O O O O O O O
+i will be returning .####O O O O O
+wow over 100 beers to choose from .####O O O B-ASP O O O O
+however it is the only taiwanese restaurant in town .####O O O O O O O O O O
+we laughed when he finally offered us a dessert menu and we left a 10 percent tip , which was generous , i feel .####O O O O O O O O B-ASP I-ASP O O O O O O B-ASP O O O O O O O O
+great food !####B-OP B-ASP O
+how can hope to stay in business with service like this ?####O O O O O O O O B-ASP O O O
+after reading the great reviews , i invited a die-hard downtown friend of mine to join me at taste .####O O O O O O O O O O O O O O O O O O O O
+another great place to take out-of-towners !####O B-OP O O O O O
+upon entering , we were greeted by the owners , steven and frederick , who went out of their way to be more than gracious hosts .####O O O O O O O O B-ASP O O O O O O O O O O O O O O O B-OP B-ASP O
+i live in the neightborhood and am a regular .####O O O O O O O O O O
+we did n't know if we should order a drink or leave ?####O O O O O O O O O B-ASP O O O
+go here .####O O O
+the staff should be a bit more friendly .####O B-ASP O O O O O B-OP O
+never again !####O O O
+the service was poor , restaurant poorly lit , staff not very attentive and i would have rather eaten at a mcdonald 's than this joint .####O O O O O O O O O O O O O O O O O O O O O O O O O O O
+from beginning appetizers , the scallops were incredible , to the delicious chocolate souffle with rasberry mint sorbet , we were delighted by the taste sensations .####O B-ASP I-ASP O O B-ASP O B-OP O O O B-OP B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-OP O O B-ASP O O
+service was prompt and courteous .####B-ASP O B-OP O B-OP O
+the place is a bistro which means : simple dishes and wine served efficiently in a bustling atmosphere .####O B-ASP O O O O O O B-OP B-ASP O B-ASP B-ASP B-OP O O B-OP B-ASP O
+good food .####B-OP B-ASP O
+you 'll pay at least double at any other italian restaurant in the city , and most still do n't compare .####O O O O O O O O O O O O O O O O O O O O O O
+i recieved prompt service with a smile .####O O B-OP B-ASP O O O O
+it 's no-fuss , fast and delicious .####O O B-OP O B-OP O B-OP O
+priced at upper intermediate range .####O O O O O O
+they have it all -- great price , food , and service .####O O O O O B-OP B-ASP O B-ASP O O B-ASP O
+i 've dined at alain ducasse 's restaurant in monte carlo for half the price for the same excellent dining experience .####O O O O O O O O O O O O O O B-ASP O O O B-OP B-ASP O O
+service was just ok , it is not what you 'd expect for $ 500 .####B-ASP O O B-OP O O O O O O O O O O O O
+always a nice crowd , but never loud .####O O B-OP B-ASP O O O B-OP O
+i ate here for the first time and absolutely loved it !####O O O O O O O O O B-OP O O
+it is obvious that no one in the restaurant has any idea about or experience with japanese cuisine .####O O O O O O O O O O O O O O O O B-ASP I-ASP O
+i was highly disappointed by their service and food .####O O O B-OP O O B-ASP O B-ASP O
+the back garden sitting area is very pleasant , where you can see their personal herb garden .####O B-ASP I-ASP I-ASP I-ASP O O B-OP O O O O O O O O O O
+i was speechless by the horrible food .####O O O O O B-OP B-ASP O
+the staff has been nice , but they seemed really stressed and the unisex bathroom needs to be cleaned more often .####O B-ASP O O B-OP O O O O O B-OP O O B-ASP I-ASP O O O B-OP O O O
+i 've been eating at taj mahal for over twenty years and have found them to be the most excellent of the indian eateries on this block of indian restaurants .####O O O O O O O O O O O O O O O O O O O B-OP O O O O O O O O O O O
+i would go again if i did n't have to pay .####O O O O O O O O O O O O
+very good wine choices .####O B-OP B-ASP I-ASP O
+the food was not fresh , the sauces were bland and very oily .####O B-ASP O O B-OP O O B-ASP O B-OP O O B-OP O
+and you ca n't beat the prices .####O O O O O O O O
+i asked for a simple medium rare steak .####O O O O O O O B-ASP O
+i went to del frisco 's friday night with my boyfriend for an 8:00 reservation .####O O O O O O O O O O O O O O B-ASP O
+ca n't wait wait for my next visit .####O O O O O O O O O
+just moved to the neighborhood and we 've been trying all the west village sushi restaurants .####O O O O O O O O O O O O O O O O O
+my boyfriend and i have been to the minnow four times now and we have consistently been impressed .####O O O O O O O O O O O O O O O O O B-OP O
+this place is classy , chic , the service is warm and hospitable , and the food is outstanding .####O B-ASP O B-OP O B-OP O O B-ASP O B-OP O B-OP O O O B-ASP O B-OP O
+after the main course came , we did n't see our waiter for at least 40 minutes !####O O B-ASP I-ASP O O O O O O O B-ASP O O O O O O
+it was rather pathetic that it took them over an hour to seat us .####O O O B-OP O O O O O O O O O O O
+we love the food , drinks , and atmosphere !####O B-OP O B-ASP O B-ASP O O B-ASP O
+everytime i go there i ca n't pick anything to eat and not because the menu is filled with great things to eat .####O O O O O O O O O O O O O O O B-ASP O O O O O O O O
+this place was reccomended to me by a friend .####O O O O O O O O O O
+i could have drank 4 glasses of water and still been parched - so watch out .####O O O O O B-ASP I-ASP I-ASP O O O B-OP O O O O O
+but for the value , it was a great affordable spot to enjoy a fun night out with small group .####O O O B-ASP O O O O B-OP B-OP O O B-OP O B-OP O O O O O O
+we were seated outside and the waiter spilled red wine and hot tea on myself and my date .####O O O O O O B-ASP O O O O O O O O O O O O
+for some reason the place was empty when we got in and remained so for the entire evening , i do n't understand why but we had a blast and will definately go back the next time we are in the area .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+it 's all about the food !!####O O O O O B-ASP O
+no green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .####O B-ASP I-ASP O O B-ASP O O B-ASP I-ASP O O B-ASP I-ASP O O B-ASP I-ASP O
+not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring .####O O O O B-ASP O B-OP O B-OP O O O B-OP B-ASP I-ASP I-ASP I-ASP O
+my daughter 's wedding reception at water 's edge received the highest compliments from our guests .####O O O O O O B-ASP I-ASP I-ASP O O B-OP I-OP O O O O
+i think this would be a pretty good spot if it were not so overpriced and overrated .####O O O O O O O B-OP O O O O O O B-OP O B-OP O
+been to the one in brooklyn for over 25 years , now i dont have to go over the bridge for the best pizza .... hanx####O O O O O O O O O O O O O O O O O O O O O O B-OP B-ASP O O
+even though the place is not beautiful , the food speaks for itself .####O O O B-ASP O O B-OP O O B-ASP B-OP I-OP I-OP O
+i loved it and would go again .####O O O O O O O O
+excellent lunch buffet for only $ 6.95 .####B-OP B-ASP I-ASP O O O O O
+the place itself is beautiful the bar scene seems to be happening .####O B-ASP O O B-OP O B-ASP I-ASP O O O B-OP O
+has the chef and owner changed ???####O O B-ASP O B-ASP O O
+chance is a small cozy restaurant , with a romantic feel to it , the decor is great .####O O O O B-OP O O O O B-OP O O O O O B-ASP O B-OP O
+it is set far from the small street it 's on , and there is no traffic noise .####O O O O O O O O O O O O O O O O B-ASP I-ASP O
+it is what modern cuisine is all about .####O O O O B-ASP O O O O
+i have been about 4 times and have always had a great meal .####O O O O O O O O O O O B-OP B-ASP O
+told us to sit anywhere , and when we sat he said the table was reserved .####O O O O O O O O O O O O O B-ASP O O O
+overall the food quality was pretty good , though i hear the salmon is much better when it has n't sat cooling in front of the guest .####O O B-ASP O O O B-OP O O O O O O O O O O O O O O O O O O O O O
+two words : free wine .####O O O B-OP B-ASP O
+i will definetly be going back .####O O O O O O O
+good , because hey , it 's more food , but bad because dim sum is supposed to be smaller portions so you can try out more dishes and smaller so that each dish is cheap .####B-OP O O O O O O B-OP B-ASP O O B-OP O B-ASP I-ASP O O O O B-OP B-ASP O O O O O B-OP B-ASP O B-OP O O O B-ASP O B-OP O
+for me dishes a little oily , but overall dining experience good .####O O B-ASP O O B-OP O O O O O O O
+the dish had like 6 pieces of beef in it .####O B-ASP O O O O O B-ASP O O O
+they are served with a free appetizer and the portions are perfect for lunch .####O O B-ASP O O B-OP B-ASP O O B-ASP O B-OP O B-ASP O
+when we were finally seated our waitress came by twice-1 for our order and 2-for our check .####O O O O O O B-ASP O O O O O O O O O B-ASP O
+if you venture off the island of manhattan and ca n't seem to find a great italian restaurant , drive to corona .####O O O O O O O O O O O O O O O O O O O O O B-ASP O
+all of the pizzas are terrific and the price is even better !####O O O B-ASP O B-OP O O O O O O O
+however , the food and service and dramatically lacking .####O O O B-ASP O B-ASP O O B-OP O
+i pray it stays open forever .####O O O O O O O
+no plans to return anytime soon .####O O O O O O O
+i would recommend to ask for a bigger sitting area when you make a reservation ( if possible )####O O O O O O O O O O O O O O O O O O O
+the staff is very good .####O B-ASP O O B-OP O
+i have gone back to siam square many times since and everytime i am very satisfied overall .####O O O O O O O O O O O O O O O B-OP O O
+it is nearly impossible to get a table , so if you ever have the chance to go here for dinner , do not pass it up .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+best pastrami i ever had and great portion without being ridiculous .####B-OP B-ASP O O O O B-OP B-ASP O O B-OP O
+cornelia street looks like a broadway set for west side story and the inside of po is so cool quaint you really ca n't top the setting for a romantic dinner in nyc .####O O O O O O O O O O O O O O O O O O B-OP O O O O O O O B-ASP O O B-OP B-ASP O O O
+the menu is very limited - i think we counted 4 or 5 entrees .####O B-ASP O O B-OP O O O O O O O O O O
+our server was very helpful and friendly .####O B-ASP O O B-OP O B-OP O
+wonderful at holiday time .####O O O O O
+it 's better than being on the roof of sutton place with 19 year old interns jabbing you in the ribs all night .####O O B-OP O O O O O O O O O O O O O O O O O O O O O
+right off the l in brooklyn this is a nice cozy place with good pizza .####O O O O O O O O O B-OP B-OP B-ASP O B-OP B-ASP O
+it 's definately not a place to go if you want to impress someone .####O O O O O B-ASP O O O O O O B-OP O O
+price no more than a jersey deli but way better .####O O O O O O O O O O O
+we replied that we would like to wait 5 more minutes if that was okay .####O O O O O O O O O O O O O O O O
+never once did i leave feeling unwelcome or impressed .####O O O O O O B-OP O B-OP O
+and the owner is simply lovely and friendly .####O O B-ASP O O B-OP O B-OP O
+great food , lt 's of it , more then one person can eat !####B-OP B-ASP O O O O O O O O O O O O O
+when i visited my friend who lives in the upper eastside , she recommended that we go to this restaurant .####O O O O O O O O O O O O O B-OP O O O O O O O
+if the weather is nice , try to snag an outside table .####O O O O O O O O O O O B-ASP O
+dieters stick to salads or indulge in vegetarian platters .####O O O B-ASP O O O B-ASP I-ASP O
+waitstaff are very friendly .####B-ASP O O B-OP O
+it is simply amazing .####O O O B-OP O
+save room for the desserts ! ; - )####O O O O B-ASP O O O O
+worth visiting the 1st ave spot because it is the original store .####B-OP O O B-ASP I-ASP I-ASP O O O O O O O
+a little crowded but they move that line really fast !####O O O O O O O O O O O
+i have been to casimir over 5 times and i have always had a great time there .####O O O O B-ASP O O O O O O O O O B-OP I-OP O O
+harumi sushi has the freshest and most delicious array of sushi in nyc .####O O O O B-OP O B-OP I-OP B-ASP I-ASP I-ASP O O O
+the decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date .####O B-ASP O B-OP O B-OP O O B-ASP I-ASP O O O O O O B-ASP I-ASP O O O B-OP O O O O
+both times i was extremely dissappointed by the service , which was boarderline rude .####O O O O O B-OP O O B-ASP O O O O B-OP O
+the fettucino alfredo was amazing .####O B-ASP I-ASP O B-OP O
+i pray it stays open forever .####O O O O O O O
+all the staff is absolutely professional !!####O O B-ASP O O B-OP O
+the thali was small , thoroughly unremarkable , and $ 14.95 .####O B-ASP O B-OP O O B-OP O O O O O
+they are by far the best past in new york .####O O O O O B-OP O O O O O
+i do suggest to ask to be seated upstairs if you are looking to be a little cozy .####O O O O O O O O B-ASP O O O O O O O O B-OP O
+good variety but nothing surprising .####B-OP B-ASP O B-OP I-OP O
+the table next to us asked if he crushed the grapes himself when their long overdue bottle of wine finally arrived .####O O O O O O O O O O B-ASP O O O B-OP B-OP B-ASP I-ASP I-ASP O O O
+the salads are delicious , both refreshing and very spicy .####O B-ASP O B-OP O O B-OP O O B-OP O
+for $ 600 ( the most we have ever paid ) not even waving a magic wand will ever get us back for a repeat performance .####O O O O O O O O O O O O O O O O O O O O O O O O O O O
+we refused to pay for it because at this point it had nothing to do with the food anymore .####O O O O O O O O O O O O O O O O O O O O
+the buffet had a nice selection .####O B-ASP O O B-OP O O
+the menu prices are a bit expensive for what you get in quality and portion size .####O B-ASP I-ASP O O O B-OP O O O O O B-ASP O B-ASP I-ASP O
+its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .####O B-OP O O O O B-ASP O O O O O O O O O O O O O O O O O O B-ASP O O O B-ASP O O B-OP O
+the portions are huge , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .####O B-ASP O B-OP O O O O O O O O O O O O O O O O O O O O O O O O O O
+i am actually offended to have spent so much money on such a bad experience .####O O O O O O O O O O O O O O O O
+they do n't concern much of customer 's health , just want to make money .####O O O O O O O O O O O O O O O O
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .####O B-ASP O B-OP O O O O O B-ASP O B-OP O B-OP O O B-ASP O O O O O O O B-OP O B-OP O O O O O O O O B-ASP O
+the soup for the udon was soy sauce and water .####O B-ASP I-ASP I-ASP I-ASP O O O O O O
+the waitstaff were very nice and suggested swordfish for my husband he enjoyed his meal .####O B-ASP O O B-OP O O B-ASP O O O O B-OP O B-ASP O
+this little place has a cute interior decor and affordable city prices .####O B-OP B-ASP O O B-OP B-ASP I-ASP O O O O O
+went on a double date with friend and his girlfriend for a few drinks and appetizers .####O O O O O O O O O O O O O B-ASP O B-ASP O
+this place must have cost the owners afortune to build .####O O O O B-ASP O B-ASP O O O O
+on a recent sunday afternoon , a friend and i accidently found this great restaurant on our way to see the pulitzer prize winning play doubt .####O O O O O O O O O O O O O B-OP O O O O O O O O O O O O O
+this place is to be avoided .####O O O O O B-OP O
+and its absolutely delicious .####O O O B-OP O
+people dress in suits or evening gowns as well as shirts jeans .####O O O O O O O O O O O O O
+service is average .####B-ASP O B-OP O
+ingredients are organic which is a real plus for me .####B-ASP O B-OP O O O O B-OP O O O
+but they do .####O O O O
+sometimes tables do n't understand his sense of humor but it 's refreshing to have a server who has personality , professionalism , and respects the privacy of your dinner .####O O O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O O O O
+the portions are large and the servers always surprise us with a different starter .####O B-ASP O B-OP O O O O O O O O O O O
+good music , great food , speedy service affordable prices .####B-OP B-ASP O B-OP B-ASP O B-OP B-ASP B-OP B-ASP O
+i have never been disappointed in the red eye .####O O O O B-OP O O B-ASP I-ASP O
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .####O O O O O O O O O O O O O O B-ASP O B-OP O O O B-OP O B-ASP O O O
+the combination of super-fresh ingredients in the dishes are unusual but really delicious .####O O O B-OP B-ASP O O O O B-OP O O B-OP O
+surprised that a place of this caliber would advertise it as kobe .####O O O O O O O O O O O O O
+when we threatened to leave , we were offered a meager discount even though half the order was missing .####O O O O O O O O O O O O O O O O O O O O
+a gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .####O O O O O B-ASP O O O O B-ASP O O O O O O O O O O O O O O O
+this is one of my favorite restaurants and it is not to be missed .####O O O O O B-OP O O O O O O O B-OP O
+however , the service is absolutely horrible .####O O O B-ASP O O B-OP O
+heartland brewery is a great way to start or finish your day .####O O O O B-OP O O O O O O O O
+three courses - choices include excellent mussels , puff pastry goat cheese and salad with a delicious dressing , and a hanger steak au poivre that is out of this world .####O B-ASP O O O B-OP B-ASP O B-ASP I-ASP I-ASP I-ASP O B-ASP I-ASP I-ASP I-ASP I-ASP O O O B-ASP I-ASP I-ASP I-ASP O O B-OP I-OP I-OP I-OP O
+we arrived and were seated immediately , which made us both happy .####O O O O O O O O O O O O O
+one of my favorite places in manhattan .####O O O B-OP O O O O
+the closest that i got was the cherry marscapone , but they were out of it that day .####O O O O O O O B-ASP I-ASP O O O O O O O O O O
+you wo n't find that anywhere in manhattan .####O O O O O O O O O
+food is great and inexpensive .####B-ASP O B-OP O B-OP O
+the reason there are 4 different results on citysearch for the same place is because they keep trying to start a new thread so they can stock it with positive reviews .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+ummm ... the beer was cold .####O O O B-ASP O B-OP O
+i liked the beer selection !####O B-OP O B-ASP I-ASP O
+ive been here so many times the waiters know my name .####O O O O O O O B-ASP O O O O
+the atmosphere is unheralded , the service impecible , and the food magnificant .####O B-ASP O B-OP O O B-ASP B-OP O O O B-ASP B-OP O
+however , it 's not worth a special trip .####O O O O O B-OP O O O O
+went here last night and had a pleasant experience .####O O O O O O O B-OP O O
+i 'm a friendly person , so i would n't mind had she not been so nasty and gotten so personal .####O O O O O O O O O O O O O O O O O O O O O O
+we love it , and took buses and cabs to get there .####O B-OP O O O O O O O O O O O
+the food 's as good as ever .####O B-ASP O O B-OP O O O
+total hipster-wannabe attitude in an otherwise sweet spot .####O O O O O O B-OP B-ASP O
+you will not be disapointed at all .####O O O O O O O O
+very good service and very good prices .####O B-OP B-ASP O O B-OP B-ASP O
+i discovered applebees when i went away to college in va .####O O O O O O O O O O O O
+my order is on my table even on a busy friday night within 10 minutes ( at the most ) of hanging up the phone .####O O O O O O O O O O O O O O O O O O O O O O O O O O
+try the times square cocktail -- ginger lemonade with vodka ( also available without vodka . )####O O B-ASP I-ASP I-ASP O B-ASP I-ASP I-ASP I-ASP O O O O O O O
+from the appetizers we ate , the dim sum and other variety of foods , it was impossible to criticize the food .####O O B-ASP O O O O B-ASP I-ASP O O O O B-ASP O O O O O O O B-ASP O
+my quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor .####O B-ASP O O O O O O O O O O O O O O O O O O
+the staff there is very attentive and down to earth .####O B-ASP O O O B-OP O B-OP I-OP I-OP O
+who has room for cheesesticks with the best pizza in nyc !####O O O O O O O B-OP B-ASP O O O
+i highly recommend to anyone to give this place a try .####O O B-OP O O O O O B-ASP O O O
+you will be very happy with the experience .####O O O O B-OP O O O O
+bukhara is on my top 5 indian places in nyc####B-ASP O O O B-OP O O O O O
+my entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid , and was unnecessarily heated with a burner .####O B-ASP O B-ASP I-ASP I-ASP I-ASP O O O O B-ASP O O O O O B-ASP O B-ASP O O O B-OP O O O O O
+once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .####O O O O O B-OP B-ASP O B-ASP I-ASP O O O O B-OP O O
+be aware .####O O O
+i really liked the noodle dishes at rice avenue compared to their green curry dish .####O O B-OP O B-ASP I-ASP O O O O O O B-ASP I-ASP I-ASP O
+at 6:30 , we were the third party there .####O O O O O O O O O O
+in short the black sheep distinguishes itself from the midtown pub herd with a look that 's a mix of sports-bar butch and ornate kitsch .####O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O
+i have eaten here a handful of times , for no reason besides sheer convenience .####O O O O O O O O O O O O O O O O
+i would highly recommend this place to everyone for any occasion !####O O O B-OP O O O O O O O O
+the staff was very attentive , the ambience lovely , and the food superb .####O B-ASP O O B-OP O O B-ASP B-OP O O O B-ASP B-OP O
+sure , the setting is nice .####O O O B-ASP O B-OP O
+too bad i had paid an extra $ 2 for the stone bowl .####O B-OP O O O O O O O O O B-ASP I-ASP O
+good food .####B-OP B-ASP O
+i have eaten at saul , many times , the food is always consistently , outrageously good .####O O O O O O O O O O B-ASP O O O O O B-OP O
+our food was great too !####O B-ASP O B-OP O O
+the atmosphere is n't the greatest , but i suppose that 's how they keep the prices down .####O B-ASP O O O B-OP O O O O O O O O O O O O O
+i had the best ravioli ever .####O O O B-OP B-ASP O O
+prices are higher to dine in and their chicken tikka marsala is quite good .####B-ASP O B-OP O O O O O B-ASP I-ASP I-ASP O O B-OP O
+food took some time to prepare , all worth waiting for .####B-ASP O O O O O O O B-OP O O O
+i went with 5 friends and we lingered at the table for a bit and did n't feel rushed at all even though there was a wait .####O O O O O O O O O O B-ASP O O O O O O O B-OP O O O O O O O B-ASP O
+we 've been following chef lyle 's food around new york for 15 years and while remaining classic , his innovations with bistro fare have made us return and return .####O O O O B-ASP O O B-ASP O O O O O O O O O B-OP O O O O B-ASP I-ASP O O O O O O O
+reasonably priced with very fresh sushi .####B-OP B-ASP O O B-OP B-ASP O
+highly recommended !####O O O
+ess-a-bagel ( either by sty-town or midtown ) is by far the best bagel in ny .####O O O O O O O O O O O O B-OP B-ASP O O O
+it 's a little out of our price range for dining there except on special occasions , but we 've eaten there 6 times in the last 2 years .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+we were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally .####O O O O O O O O B-ASP I-ASP I-ASP I-ASP O O O B-OP O O O O O O O O
+good for casual dinner with jeans and sneakers .####B-OP O B-ASP I-ASP O O O O O
+i have tried the various slice joints around the village but this is by far the best one .####O O O O O O O O O O O O O O O O B-OP O O
+the food came out wrong , the waiter was no where to be found and the wine showed up at the end of the meal .####O B-ASP O O B-OP O O B-ASP O O O O O O O O B-ASP O O O O O O O B-ASP O
+i wish i could be refunded !####O O O O O O O
+quite simply it 's like stepping out of manhattan and into a haven of tranquility .####O O O O O O O O O O O O O O O O
+i do n't get it either .####O O O O O O O
+i work near-by , and they have the best oatmeal in the neighborhood - not a packaged or quick-cooked item .####O O O O O O O O B-OP B-ASP O O O O O O O O O O O
+if you like the food and the value you get from some of chinatown restaurants , this is not the place for you .####O O O O O O O O O O O O O O O O O O O O O O O O
+the dishes offered were unique , very tasty and fresh from the lamb sausages , sardines with biscuits , large whole shrimp to the amazing pistachio ice cream ( the best and freshest i 've ever had ) .####O B-ASP O O B-OP O O B-OP O B-OP O O B-ASP I-ASP O B-ASP I-ASP I-ASP O B-ASP I-ASP I-ASP O O B-OP B-ASP I-ASP I-ASP O O B-OP O B-OP O O O O O O
+as a student in nyu i need a place to eat after a hard day of work so usually i just go to any indian restraunt near by .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the place is a little tight and on a cold day , the seating by the entranceway can be pretty drafty .####O B-ASP O O O B-OP O O O O O O O B-ASP O O O O O O B-OP O
+made my dining experience uncomfortable .####O O B-ASP I-ASP B-OP O
+i ordered a chicken teriyaki dish and found that the chicken was extremely dry .####O O O B-ASP I-ASP I-ASP O O O O B-ASP O O B-OP O
+they pray to their food gods to make them into a good pizza like vt 's .####O O O O O O O O O O O B-OP B-ASP O O O O
+it was huge , delicious , fresh , and will be the reason we return .####O O B-OP O B-OP O B-OP O O O O O O O O O
+delicious food , excellent service , and a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch !####B-OP B-ASP O B-OP B-ASP O O O B-OP B-ASP O O O B-OP O O B-ASP O O O O B-ASP I-ASP O O O O B-OP O O B-ASP O
+their tuna tartar appetizer is to die for .####O B-ASP I-ASP I-ASP O O B-OP I-OP O
+everyone i bring here always loves it .####O O O O O B-OP O O
+lloovve this place .####O O O O
+this is one of my favorite restaurants and it is not to be missed .####O O O O O O O O O O O O O O O
+this place was the worst .####O O O O B-OP O
+you will not be missing anything .####O O O O O O O
+we also asked for hooka six times and the waiter kept telling us one minute and never returning with the hooka .####O O O O O O O O O B-ASP O O O O O O O O O O O O
+everything that happened was not even up to mediocre .####O O O O O O O O O O
+it was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .####O O B-OP I-OP O O B-ASP O B-OP O O B-ASP B-OP O O B-ASP O O B-ASP O B-ASP O O B-OP O
+we were told that they were booked solid and no other table was available .####O O O O O O O O O O O B-ASP O B-OP O
+the only concern i have is with the slighly all-business waitstaff who order and throw the food down , rushing you out .####O O O O O O O O O O B-ASP O O O O O B-ASP O O O O O O
+this restaurant is such a great place .####O O O O O B-OP O O
+it 's worthwhile to take a cab to chelsea just for an awesome dinner at my chelsea .####O O B-OP O O O O O O O O O B-OP B-ASP O O O O
+service was prompt and courteous .####B-ASP O B-OP O B-OP O
+very good wine choices .####O B-OP B-ASP I-ASP O
+food is usually very good , though ocasionally i wondered about freshmess of raw vegatables in side orders .####B-ASP O O O B-OP O O O O B-OP O O O B-ASP I-ASP I-ASP I-ASP I-ASP O
+the portion sizes here are huge , and the sushi is good .####O B-ASP I-ASP O O B-OP O O O B-ASP O B-OP O
+you must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .####O O O O B-ASP I-ASP O O B-OP I-OP I-OP I-OP O O B-ASP I-ASP I-ASP O O O
+there restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .####O O O O B-OP O O B-OP O B-ASP O O O B-ASP I-ASP O O O B-OP O
+after all that , they complained to me about the small tip .####O O O O O O O O O O B-OP B-ASP O
+it is thick and slightly soggy .####O O O O O O O
+the waitress came to check in on us every few minutes , and began to clear the plates while half of us were still eating ( a big pet peeve of mine that happens almost everywhere , so i try to ignore it ) .####O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service .####O O O B-ASP O O O O O B-OP B-OP I-OP B-ASP O B-OP B-ASP O
+delicious crab cakes too .####B-OP B-ASP I-ASP O O
+the wait staff is very friendly , if not overly efficient .####O B-ASP I-ASP O O B-OP O O O B-OP I-OP O
+stay away if you 're claustrophobic####O O O O O O
+this food is asian-air fusion .####O B-ASP O O O O
+the view is spectacular , and the food is great .####O B-ASP O B-OP O O O B-ASP O B-OP O
+the staff has always been attentive and kind , and i 've always been amazed at how they 've handled all the various different group sizes that come in .####O B-ASP O O O B-OP O B-OP O O O O O O B-OP O O O O O O O O O O O O O O O
+you can get a completely delish martini in a glass ( that 's about 2-1/2 drinks ) for $ 8.50 ( i recommend the vanilla shanty , mmmm ! ) in a great homey setting with great music .####O O O O O B-OP B-ASP O O O O O O O O O O O O O O O B-OP O B-ASP I-ASP O O O O O O B-OP B-OP B-ASP O B-OP B-ASP O
+i have been coming to this neighborhood spot for years .####O O O O O O O O O O O
+we were also seated promptly at the time of our reservation and the service was very quick and professional .####O O O O B-OP O O O O O B-ASP O O B-ASP O O B-OP O B-OP O
+i highly recommend cafe st. bart 's for their food , the ambience and wonderful service .####O O B-OP O O O O O O B-ASP O O B-ASP O B-OP B-ASP O
+the waitstaff were attentive , polite and helpful - an impressive feat in such close quarters .####O B-ASP O B-OP O B-OP O B-OP O O B-OP O O O O O O
+in mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .####O O O O O O O O B-OP B-ASP O O O O O O O O O O O O B-OP B-ASP O
+i had the lamb special which was perfect .####O O O B-ASP I-ASP O O B-OP O
+over all the looks of the place exceeds the actual meals .####O O O B-ASP O O O B-OP O O B-ASP O
+the problem is just that-it is a sometimes kind of affair .####O O O O O O O O O O O O
+the food at this place is ' gourmet ' indian cuisine .####O B-ASP O O O O B-ASP I-ASP I-ASP I-ASP I-ASP O
+we live in new jersey and whenever we go into new york city we buy bagels to eat hot and then to freeze ( they told me that if i call in the order , they 'd bring it out to the car so i would n't have to look for parking ) .####O O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+this is some really good , inexpensive sushi .####O O O O B-OP O B-OP B-ASP O
+they showed up 15 minutes after the tuna melt .####O O O O O O O B-ASP O O
+service was very good - prompt , attentive and non-intrusive .####B-ASP O O B-OP O B-OP O B-OP O B-OP O
+great sake !####B-OP B-ASP O
+the dim sum servings here are a bit larger than i 'm used to .####O B-ASP I-ASP I-ASP O O O O B-OP O O O O O O
+authentic pakistani food .####B-OP B-ASP I-ASP O
+the dim sum is ok but does n't taste that fresh , and the little dishes do n't look steamy hot as they should ( also note lack of chinese here ) .####O B-ASP I-ASP O B-OP O O O O O B-OP O O O B-ASP I-ASP O O O B-OP I-OP O O O O O O O O O O O O
+if you 'd like to have a nice light meal with an asian accent , long tan is a good place on the slope .####O O O O O O O B-OP O B-ASP O O O O O O O O O B-OP O O O O O
+i recommend the black roasted codfish , it was the best dish of the evening .####O B-OP O B-ASP I-ASP I-ASP O O O O B-OP B-ASP O O O O
+if your favorite chinese food is general tao chicken , then this is not your place .####O O B-OP B-ASP I-ASP O B-ASP I-ASP I-ASP O O O O O O O O
+the food is delicious - from the specials to the regular menu-fare , the dishes are never a disappointment .####O B-ASP O B-OP O O O B-ASP O O B-ASP I-ASP O O B-ASP O O O B-OP O
+price is high but the food is good , so i would come back again .####O O O O O B-ASP O B-OP O O O O O O O O
+im not necessarily fanatical about this place , but it was a fun time for low pirces .####O O O B-OP O O B-ASP O O O O O B-OP O O O O O
+i love going there !####O B-OP O O O
+service was excellent , and the ac worked very well too ( thank god , it was hot ! ) .####B-ASP O B-OP O O O B-ASP O O B-OP O O O O O O O O O O O
+this is n't your corner chinese food takeout .####O O O O O B-ASP I-ASP O O
+i was very disappointed with this restaurant .####O O O B-OP O O B-ASP O
+there is also very limited seating and there can be a substantial wait in getting food at peak times .####O O O O B-OP B-ASP O O O O O B-OP B-ASP O O B-ASP O O O O
+i was there on sat . for my birthday and we had an excellent time .####O O O O O O O O O O O O O O O O
+really cool stauff inside .####O B-OP B-ASP O O
+this should have been done in a back room - away from customers .####O O O O O O O O O O O O O O
+try the lobster teriyaki and the rose special roll .####O O B-ASP I-ASP O O B-ASP I-ASP I-ASP O
+and really large portions .####O O B-OP B-ASP O
+unique apppetizers .####B-OP B-ASP O
+always a nice crowd , but never loud .####O O B-OP B-ASP O O O B-OP O
+cantinetta is a real treasure in a see of mediocre italian restaurants .####O O O O O O O O O O O O O
+terrible , terrible management - deserves to be shut-down .####B-OP O B-OP B-ASP O O O O O O
+great food at reasonable prices , makes for an evening that ca n't be beat !####B-OP B-ASP O B-OP B-ASP O O O O O O O O O O O
+it 's always quiet because it 's awful .####O O O O O O O B-OP O
+not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .####O O O O B-ASP B-OP O O O B-ASP O O O B-OP O O O B-OP O B-OP O O O O O O O O O O B-ASP O B-ASP O
+as soon as i wake up on a saturday or sunday it is the first thing on my mind is when and how i will be getting to fried dumpling .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ASP I-ASP O
+the atmosphere is attractive , but a little uncomfortable .####O B-ASP O B-OP O O O O B-OP O
+they charge $ 6.00 for rice .####O O O O O B-ASP O
+they have a very good chicken with avocado and good tuna as well .####O O O O B-OP B-ASP I-ASP I-ASP O B-OP B-ASP O O O
+it was such a fantastic dining experience , that i returned again the same week .####O O O O B-OP B-ASP I-ASP O O O O O O O O O
+the food was good too .####O B-ASP O B-OP O O
+but this place is a well-oiled machine so they know what they 're doing .####O O O O O O O O O O O O O O O
+this restaurant used to be our regular thursday night dinner location .####O O O O O O O O O B-ASP I-ASP O
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald 's , every place makes things differently while it is understandable that every place is indeed different , there was not a need to be uncourteous to customers and downright rude .####O O O O O O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-OP O O O O O O O O B-OP O O O O B-OP O
+the all-italian staff is warm and engaging from the start .####O O B-ASP O B-OP O B-OP O O O O
+looking around , i saw a room full of new yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .####O O O O O O O O O O O O O B-OP B-ASP O O B-OP B-ASP O O O O O O O O O O O O
+a quintessential slice of nyc pizza .####O B-OP B-ASP I-ASP I-ASP I-ASP O
+even when the chef is not in the house , the food and service are right on target .####O O O B-ASP O O O O O O O B-ASP O B-ASP O B-OP I-OP I-OP O
+i would not have been so disappointed with the portions if the qualities were good enough to make up for it , but they were not !####O O O O O O B-OP O O B-ASP O O B-ASP O B-OP O O O O O O O O O O O O
+i also ordered the change mojito , which was out of this world .####O O O O B-ASP I-ASP O O O B-OP I-OP I-OP I-OP O
+even after they overcharged me the last time i was there .####O O O O O O O O O O O O
+i had a terrific meal , and our server guided us toward a very nice wine in our price range , instead of allowing us to purchase a similarly priced wine that was n't as good .####O O O B-OP B-ASP O O O B-ASP O O O O O B-OP B-ASP O O B-ASP I-ASP O O O O O O O O O B-ASP B-ASP O O O O B-OP O
+i have to agree with the previous reviewer .####O O O O O O O O O
+bravissimo !!####O O
+even though its good seafood , the prices are too high .####O O O B-OP B-ASP O O O O O O O
+a pleasant surprise .####O O O O
+besides , when you have bad service , that 's less money you have to tip .####O O O O O B-OP B-ASP O O O O B-ASP O O O B-ASP O
+unless you are eating in the pizzeria side of this place , and are not in a rush , this place is a bad idea .####O O O O O O O O O O B-ASP O O O O O O O O O B-ASP O O B-OP O O
+be sure to try the seasonal , and always delicious , specials .####O O O O O O O O O B-OP O B-ASP O
+then they somehow made a dry and burnt crust , around a raw and cold inside .####O O O O O B-OP O B-OP B-ASP O O O O O O O O
+also , because it is so thin , it gets cold very quickly and its not that filling .####O O O O O O O O O O B-OP O O O O O O B-OP O
+i was here a few weeks back and we had the worst customer service experience at a restaurant ever .####O O O O O O O O O O O B-OP B-ASP I-ASP O O O O O O
+the pizza was great .####O B-ASP O B-OP O
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went .####B-ASP O B-OP O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O B-OP O O O O O O O O O O O O O
+whoever the jazz duo was , they were on point .####O O O O O O O O O O O
+the design and atmosphere is just as good .####O B-ASP O B-ASP O O O B-OP O
+this place survives on reputation alone .####O B-ASP O O O O O
+less than three minutes passed before i found myself doubled over the toilet .####O O O O O O O O O O O O O O
+very excited to hear that short-term chef jason narone has moved on , he truly was a low point of their sterling track record .####O B-OP O O O O B-ASP O O O O O O O O O O O O O O O O O O
+what came to our table was burned beyond recognition and stringy .####O O O O B-ASP O B-OP O O O B-OP O
+if you like seafood and/or greek food you will love this place though it is not limited to just these things .####O O B-OP B-ASP O B-ASP I-ASP O O B-OP O O O O O O O O O O O O
+after really enjoying ourselves at the bar we sat down at a table and had dinner .####O O B-OP O O O B-ASP O O O O O B-ASP O O B-ASP O
+the food is great .####O B-ASP O B-OP O
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great !####O O O O O O O O O B-ASP O O O O O O O O O B-OP O O O O O O O O O O O O O B-OP O
+the prices were fantastic .####O B-ASP O B-OP O
+the food was bland oily .####O B-ASP O B-OP I-OP O
+they have great rolls , the triple color and norwegetan rolls , are awesome and filling .####O O B-OP B-ASP O O B-ASP I-ASP I-ASP I-ASP I-ASP O O B-OP O B-OP O
+not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !####O O O O B-ASP B-OP O O O O O B-ASP O O O O O O O O O O O B-OP O O O B-ASP O
+the food is consistently wonderful - i 've been coming here for years , and the owner has always been accomodating and friendly .####O B-ASP O O B-OP O O O O O O O O O O O B-ASP O O O B-OP O B-OP O
+i could n't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach .####O O O O O O O O O O O O O O O O O O O
+satisfying .####B-OP O
+there was a long wait for a table outside , but it was a little too hot in the sun anyway so our insde table was very nice .####O O O B-OP B-ASP O O B-ASP O O O O O O O O O O O O O O O B-ASP I-ASP O O B-OP O
+if you do n't mind all that noise then go to the chart house .####O O O O O O O O O O O O O O O
+the only possible drawback to this last point is that as of the date of this posting , the additional menu items are only written in chinese .####O O O B-OP O O O O O O O O O O O O O O O O B-ASP I-ASP O O O O O O
+bukhara grill , the tagline says it all . . " indian spice rave "####B-ASP I-ASP O O O O O O O O O O O O O
+every time i have a special occasion with my boyfriend i have a hard time going anywhere else .####O O O O O O O O O O O O O O O O O O O
+oh and it 's too tiny for families with strollers .####O O O O O B-OP O O O O O
+pizza - the only pizza in nyc that should not have additional toppings - the crust tastes like the best , freshly baked bread !####B-ASP O O O B-ASP O O O O O O O B-ASP O O B-ASP O O O B-OP O B-OP I-OP B-ASP O
+i just have nothing to say about this place that is negative except that it 's not a cheap night out ... but it 's so worth it .####O O O O O O O O O O O O O O O O O O B-OP O O O O O O O B-OP O O
+in any event , this is a place i 'll be sure to stop by again when i 'm in this part of town .####O O O O O O O O O O O O O O O O O O O O O O O O O
+too large for just two people but nothing was left .####O B-OP O O O O O O O O O
+the flavors are great , and the menu is extensive .####O B-ASP O B-OP O O O B-ASP O B-OP O
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others .####O O O O O O O O B-ASP O O O B-OP O O O O
+service was good and food is wonderful .####B-ASP O B-OP O B-ASP O B-OP O
+look , the appetizers were really good .####O O O B-ASP O O B-OP O
+nice family owned traditional restaurant .####B-OP O O B-OP B-ASP O
+the plain slice is great and if you get toppings , the whole slice is topped with them , not sparsely sprinkled on like some places .####O B-ASP I-ASP O B-OP O O O O B-ASP O O O O O O O O O O O O O O O O O
+the service is a little scatty at times but all is forgiven when the food arrives .####O B-ASP O O O B-OP O O O O O B-OP O O B-ASP O O
+i thought going to jimmys would give me a real domincan exprience .####O O O O O O O O O O O O O
+after complaining about the chicken dish , the manager came over to tell us that , no one had ever complained before , and that we just did n't know what the dish was supposed to taste like .####O O O O B-ASP I-ASP O O B-ASP O O O O O O O O O O O O O O O O O O O O O O O B-ASP O O O O O O
+i loved it and would go again .####O B-OP O O O O O O
+will comeback for sure , wish they have it here in la . .####O O O O O O O O O O O O O O
+it took 100 years for parisi to get around to making pizza ( at least i do n't think they ever made it before this year ) ... but it was worth the wait .####O O O O O O O O O O O B-ASP O O O O O O O O O O O O O O O O O O O B-OP O O O
+they were dry , stale and pretty flavorless .####O O B-OP O B-OP O O B-OP O
+patroon features a nice cigar bar and has great staff .####O O O B-OP B-ASP I-ASP O O B-OP B-ASP O
+the spinach is fresh , definately not frozen ...####O B-ASP O B-OP O O O B-OP O
+the food is spectacular , from the appitizers to the main course , and then of course the desserts , ( wow ) you 'll need no more .####O B-ASP O B-OP O O O B-ASP O O B-ASP I-ASP O O O O O O B-ASP O O O O O O O O O O
+i have never better enjoyed humble root vegetables or a mushroom consomme - and this chef accomplishes without fats .####O O O B-OP I-OP O B-ASP I-ASP O O B-ASP I-ASP O O O B-ASP O O O O
+i have been twice to this restaurant .####O O O O O O O O
+get the soup and a nosh ( pastrami sandwich ) for $ 8 and you 're golden .####O O B-ASP O O B-ASP I-ASP I-ASP I-ASP I-ASP O O O O O O O O
+like saying her bread comes from a special bakery when we have seen her buying it dowtown manhathan .####O O O B-ASP O O O O O O O O O O O O O O O
+i try my best to give an accurate description of any establishment visited .####O O O O O O O O O O O O O O
+we love th pink pony .####O B-OP O O O O
+the chicken dinner was real good .####O B-ASP I-ASP O O B-OP O
+i 'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and i all enjoy mizu very much ... and we 're repeat customers .####O O O O O O O O O O O O O O O O O O O O O O O O O B-OP B-ASP O O O O O O O O O
+do yourself a favor and avoid this place at all cost !####O O O O O O O O O O O O
+its an excellent place to relax and the food is one of the best in the city of new york .####O O B-OP B-ASP O O O O B-ASP O O O O B-OP O O O O O O O
+dessert - ca n't be missed , so save room !!!####B-ASP O O O O B-OP O O O O O
+i absolutely suggest this place .####O O O O O O
+i would highly recommend it .####O O O B-OP O O
+the rice to fish ration was also good -- they did n't try to overpack the rice .####O B-ASP I-ASP I-ASP I-ASP O O B-OP O O O O O O B-OP O B-ASP O
+but the best part about ls is the late night atmosphere , delightfully free of the bts .####O O B-OP O O O O O O O B-ASP O B-OP O O O O O
+i would have gotten some cole slaw and a knish if my stomach had more space .####O O O O O B-ASP I-ASP O O B-ASP O O O O O O O
+people dress in suits or evening gowns as well as shirts jeans .####O O O O O O O O O O O O O
+while there are plenty of places to go for a good corned beef sandwich , katz 's has a charm about it .####O O O O O O O O O O B-OP B-ASP I-ASP I-ASP O O O O O B-OP O O O
+everything , from the soft bread , soggy salad , and 50 minute wait time , with an incredibly rude service to deliver below average food .####O O O O B-OP B-ASP O B-OP B-ASP O O O O B-ASP O O O O O B-OP B-ASP O O B-OP I-OP B-ASP O
+the hostess was very pleasant .####O B-ASP O O B-OP O
+also get the onion rings -- best we 've ever had .####O O O B-ASP I-ASP O B-OP O O O O O
+quacamole at pacifico is yummy , as are the wings with chimmichuri .####B-ASP O O O B-OP O O O O B-ASP I-ASP I-ASP O
+we were not disappointed .####O O O B-OP O
+a glass of leaping lizard , a glass of prosecco , and the mussels had everything happy .####O B-ASP I-ASP I-ASP I-ASP O O B-ASP I-ASP I-ASP O O O B-ASP O O B-OP O
+i have tried to make reservations , but both times , the hostess did n't have my name .####O O O O O B-ASP O O O O O O B-ASP O O O O O O
+the shrimp scampi was excellent and the antipasti were plentiful .####O B-ASP I-ASP O B-OP O O B-ASP O B-OP O
+to speak of the park side , words can not describe .####O O O O O O O O O O O O
+to give you an idea of how good we thought it was , we ended up going to ping 's three weekends in a row !!!####O O O O O O O B-OP O O O O O O O O O O O O O O O O O O
+had a great meal there this weekend before heading to the movies !####O O B-OP B-ASP O O O O O O O O O
+great wine selection , gigondas is worth the price , and the house champagne is a great value .####B-OP B-ASP I-ASP O B-ASP O B-OP O B-ASP O O O B-ASP I-ASP O O B-OP O O
+you must try the shrimp appetizers .####O O O O B-ASP I-ASP O
+i would highly recommend it .####O O O O O O
+admittedly , this is not the place for gigantic pieces of fish overflowing the plate ( and thank goodness , in my opinion ) but for simple , elegant sushi there is no better place in new york or anywhere in the us .####O O O O O O O O O O O B-ASP O O O O O O O O O O O O O O B-OP O B-OP B-ASP O O O B-OP O O O O O O O O O O
+staffs are not that friendly , but the taste covers all .####B-ASP O O O B-OP O O O B-ASP O O O
+super yummy pizza !####O B-OP B-ASP O
+this dish is my favorite and i always get it when i go there and never get tired of it .####O B-ASP O O B-OP O O O O O O O O O O O O O O O O
+try their chef 's specials -- they are to die for .####O O B-ASP I-ASP I-ASP O O O O B-OP I-OP O
+where gabriela personaly greets you and recommends you what to eat .####O O O O O O O O O O O O
+the service is pretty good .####O B-ASP O O B-OP O
+oh speaking of bathroom , the mens bathroom was disgusting .####O O O O O O B-ASP I-ASP O B-OP O
+for the quality of food , a little too expensive .####O O B-ASP I-ASP I-ASP O O O O B-OP O
+if you 're daring , try the balsamic vinegar over icecream , it 's wonderful !####O O O O O O O B-ASP I-ASP I-ASP I-ASP O O O B-OP O
+i asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .####O O O O O O O O B-ASP O O O O O O O O O O B-OP B-ASP O
+its not the same if you have to sit inside .####O O O O O O O O O O O
+skip this location and go to the one in soho .####O O O O O O O O O O O
+if you 're looking for a great meal at a decent price , go to del frisco 's !####O O O O O O B-OP B-ASP O O B-OP B-ASP O O O O O O O
+the chicken and falafel platters were nondescript combinations with fresh leaf salad .####O B-ASP I-ASP I-ASP I-ASP O B-OP O O B-ASP I-ASP I-ASP O
+if you 're looking for perfect traditional sushi , go here - if you 're looking for interesting combinations , try sushi of gari 's ( east side ) .####O O O O O B-OP O B-ASP O O O O O O O O O B-OP O O O B-ASP O O O O O O O O
+obviously the chinese translation of this place does not mean big wong , it actually means great prosperity .####O O O O O O O O O O O O O O O O O O O
+the place was n't too hard to find , but it was kind of packed , as soon as my boyfriend and i got our food , the line reached the door .####O B-ASP O O O B-OP O O O O O O O O B-OP O O O O O O O O O O B-ASP O O O O O O O
+sure enough , exactly 30 minutes later we got the call and were seated promptly .####O O O O O O O O O O O O O O B-OP O
+thanks bloom 's for a lovely trip .####O B-ASP I-ASP O O B-OP O O
+ambience is so cute and quaint , good for business although we were there on vacation .####B-ASP O O B-OP O B-OP O B-OP O O O O O O O O O
+the design of the space is good .####O O O O B-ASP O B-OP O
+of course , it is crowded but who cares .####O O O O O O O O O O
+i 'll be back for sure .####O O O O O O O
+quite frankly , this is some of the worst sushi i have ever tried .####O O O O O O O O B-OP B-ASP O O O O O
+you ca n't go wrong here .####O O O O O O O
+for those that go once and do n't enjoy it , all i can say is that they just do n't get it .####O O O O O O O O B-OP O O O O O O O O O O O O O O O
+the most annoying thing , though , is the fact that the servers seem to be trained to drive revenue .####O O B-OP O O O O O O O O O B-ASP O O O O O O O O
+regardless , we 'll be back and ca n't wait to visit in the summer to take advantage of the patio .####O O O O O O O O O O O O O O O O O O O O B-ASP O
+good spreads , great beverage selections and bagels really tasty .####B-OP B-ASP O B-OP B-ASP I-ASP O B-ASP O B-OP O
+( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .####O O O O O B-ASP I-ASP I-ASP O O O B-OP B-ASP I-ASP I-ASP O O B-ASP I-ASP I-ASP O O
+i did n't take a look at the rest menu , but the oysters were fantastic .####O O O O O O O O O B-ASP O O O B-ASP O B-OP O
+i am not the most experienced person when it comes to thai food , but my friend who took me there is .####O O O O O O O O O O O B-ASP I-ASP O O O O O O O O O O
+brava la pizza fresca !####O O O O O
+best taiwanese food in ny !####B-OP B-ASP I-ASP O O O
+great for a romantic evening , or a fun evening with friends ...####O O O O O O O O O O O O O
+outstanding bagels , but you get what you pay for .####B-OP B-ASP O O O O O O O O O
+service was very good and warm .####B-ASP O O B-OP O B-OP O
+awesome####O
+the room is a gorgeous , bi-level space and the long bar perfect for a drink .####O B-ASP O O B-OP O B-ASP I-ASP O O B-ASP I-ASP B-OP O O B-ASP O
+the place 's decor and hidden bathrooms made for a good laugh .####O O O B-ASP O B-ASP I-ASP O O O B-OP O O
+but who says murray 's is anything about service .####O O O O O O O O B-ASP O
+suan has challenged this loyalty .####O O O O O O
+would not go back .####O O O O O
+what a pleasant surprise !####O O B-OP O O
+frites were delicious if a bit on the thick side .####B-ASP O B-OP O O O O O O O O
+result ( red velvet ) : great texture , soft and velvety , nice hint of cocoa .####O O O O O O B-OP B-ASP O B-OP O B-OP O B-OP B-ASP I-ASP I-ASP O
+based on the reviews for dinner , this is a place i would reconsider revisiting for that , but definitely not for dim sum again .####O O O O O B-ASP O O O O O O O O O O O O O O O O B-ASP I-ASP O O
+the ambiance is minimal the food is not phenomenal , but some dishes are quite good , such as the eggplant parmesan , veal in carozza chicken saltimbocca .####O B-ASP O B-OP O B-ASP O O B-OP O O O B-ASP O O B-OP O O O O B-ASP I-ASP O B-ASP I-ASP I-ASP I-ASP I-ASP O
+a friend from seattle and i went on a thursday night around 8:30 .####O O O O O O O O O O O O O O
+i can not imagine you not rushing out to eat there .####O O O O O O O O O O O O
+i would definitely go back -- if only for some of those exotic martinis on the blackboard .####O O O O O O O O O O O O B-OP B-ASP O O O O
+my roommate and i love this place .####O O O O B-OP O B-ASP O
+when i saw that their website had a link to da ciro in napoli , i knew there was going to be good pizza !####O O O O O O O O O O O O O O O O O O O O O O B-OP B-ASP O
+i had never had edamame pureed before but i thought it was innovative and tasty ( could 've used a bit more salt ) .####O O O O B-ASP I-ASP O O O O O O B-OP O B-OP O O O O O O O O O O
+the sushi was awful !####O B-ASP O B-OP O
+and all the [ female ] servers are cute too , which is always nice .####O O O B-ASP I-ASP I-ASP I-ASP O B-OP O O O O O B-OP O
+very good value####O B-OP O
+the food was average or above including some surprising tasty dishes .####O B-ASP O B-OP I-OP I-OP O O B-OP B-OP B-ASP O
+the crust is thin , the ingredients are fresh and the staff is friendly .####O B-ASP O B-OP O O B-ASP O B-OP O O B-ASP O B-OP O
+in fact , it appears he is going to go postal at any moment .####O O O O O O O O O O O O O O O
+by the time we finished our dinner we still had not received one beverage nor hooka !####O O O O O O O O O O O O O O O O O
+although the place could be a little more eye catching and roomier , at the same time , it does n't really matter .####O O B-ASP O O O O O B-OP I-OP O B-OP O O O O O O O O O O O O
+aside from the sea urchin , the chef recommended an assortment of fish including fatty yellow tail , boton shrimp , blue fin torro ( fatty tuna ) , sea eel , etc .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+however , i think jeckll and hydes t is one of those places that is fun to do once .####O O O O B-ASP I-ASP I-ASP O O O O O O O O B-OP O O O O
+they have waiters on the sidewalk trying to pull you in which made us suspicious .####O O B-ASP O O O O O O O O O O O O O
+we generally like good restaurants and eat out often but kai was way to expensive for what we got .####O O O O O O O O O O O O O O B-OP O O O O O
+the service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .####O B-ASP O B-OP O B-OP O O B-ASP O O B-OP O O O O B-OP B-ASP I-ASP O O O O O O
+the food is reliable and the price is moderate .####O B-ASP O B-OP O O B-ASP O B-OP O
+they have it all -- great price , food , and service .####O O O O O B-OP O O B-ASP O O B-ASP O
+they charge different prices all the time .####O O O O O O O O
+after so many great reviews here , my bf and i went to esca to celebrate my birthday last nite .####O O O O O O O O O O O O O O O O O O O O O
+the service is excellent and always informative without an air .####O B-ASP O B-OP O O B-OP O O O O
+i decided to try out this place after hearing about it in many magazines .####O O O O O O O O O O O O O O O
+i go out to eat and like my courses , servers are patient and never rush courses or force another drink .####O O O O O O O O O O B-ASP O B-OP O O O O O O O O O
+it 's somewhere you can eat and be happy .####O O O O O O O O O O
+all in all the food was good - a little on the expensive side , but fresh .####O O O O B-ASP O B-OP O O O O O B-OP O O O B-OP O
+i 'm not sure why these other reviewers are whining so much .####O O O O O O O O O O O O O
+they 're are better taiwanese restaurants and they are located in flushing , queens .####O O O B-OP O O O O O O O O O O O
+cute place , nice wait staff but would never go there again .####B-OP B-ASP O B-OP B-ASP I-ASP O O O O O O O
+the last time i walked by it looked pretty empty . hmmm .####O O O O O O O O O O O O O
+when you 're sitting in their main dining room ( which has a spectacular , hand-painted high ceiling ) you 'd never know there was a world outside .####O O O O O O B-ASP I-ASP I-ASP O O O O B-OP O B-OP O B-ASP O O O O O O O O O O O
+the place is small and cramped but the food is fantastic .####O B-ASP O B-OP O B-OP O O B-ASP O B-OP O
+mermaid inn is an overall good restaurant with really good seafood .####O O O O O B-OP O O O B-OP B-ASP O
+we ended our great experience by having gulab jamun dessert recommended by the waiter .####O O O B-OP O O O B-ASP I-ASP I-ASP O O O O O
+take a good sense of humor , an american express card with no limit , walk out with a lollipop , gift bag in hand and enough marketing materials for alain to to take the show on the road####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+recommendations , of course , are required !####O O O O O O O O
+my main concern was the sanity of the food that was being sent out to myself and others , but i would be lying is i said that as someone who has worked in restaurants since the age of fifteen i was expecting at least a minimal effort on the part of the restaurant to amend the situation .####O O O O O O O O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+we were wondering why they were there to make our dining experience miserable ?####O O O O O O O O O O B-ASP I-ASP B-OP O
+over 100 different choices to create your own .####O O O O O O O O O
+we will be back .####O O O O O
+the place itself is beautiful the bar scene seems to be happening .####O B-ASP O O B-OP O B-ASP I-ASP O O O B-OP O
+check this place out !####O O B-ASP O O
+the seafood is amazing , there 's a good wine list , and the ever-changing menu always offers some great surprises .####O B-ASP O B-OP O O O O B-OP B-ASP I-ASP O O O B-OP B-ASP O O O B-OP O O
+a little noise but i think that was because of our party !####O O O O O O O O O O O O O
+fish was overdone .####B-ASP O B-OP O
+you have to increase the service a lot .####O O O O O B-ASP O O O
+it has been my first choice ever since i discovered it .####O O O O O O O O O O O O
+they smell like they stuff them with old canned vegetables like the spinach mushroom calzone .####O O O O O O O O O O O O O O O O
+threw my fiance 's surprise 30th birthday dinner here could n't be happier .####O O O O O O O B-ASP O O O O B-OP O
+i never used to be a fan of sakes but am lately experimenting with it a lot more and am acquiring a better taste of it .####O O O O O O O O O O O O O O O O O O O O O O O O O O O
+if you ware looking for korean fusion , i suggest you try some of the places in the east village .####O O O O O O O O O O O O O O O O O O O O O
+every waitress and customer who passed by me bumped into my chair .####O B-ASP O O O O O O O O O O O
+( the asparagus , truffle oil , parmesan bruschetta is a winner ! )####O O B-ASP O B-ASP I-ASP O B-ASP I-ASP O O B-OP O O
+it might have been a little too spicy for my friend , which you can couteract with eat more rice and keeping water on hand .####O O O O O O B-OP I-OP O O O O O O O O O O O B-ASP O O B-ASP O O O
+authentic taiwanese food that 's cheap ... what more could you ask for ?####B-OP B-ASP I-ASP O O B-OP O O O O O O O O
+sometimes i get bad food and bad service , sometimes i get good good and bad service .####O O O B-OP B-ASP O B-OP B-ASP O O O O B-OP I-OP O B-OP B-ASP O
+le pere pinard has a $ 15 pre-theater menu that is outstanding .####O O O O O O O B-ASP I-ASP O O B-OP O
+i like the somosas , chai , and the chole , but the dhosas and dhal were kinda disappointing .####O B-OP O B-ASP O B-ASP O O O B-ASP O O O B-ASP O B-ASP O O B-OP O
+lucky strike is a great casual place to just grab a bite to eat .####O O O O B-OP O B-ASP O O O O O O O O
+a fairly late entry into the haute barnyard sweepstakes , flatbush farm is n't in the same league as the blue hills or even the farm on adderlys of the world , but it 's pretty good , albeit with a somewhat dismal setting .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+easily the worst stir-fried squid i 've ever tasted .####O O B-OP B-ASP I-ASP O O O O O
+i did not try the caviar but i tried their salmon and crab salad ( they are all good )####O O O O O O O O O O B-ASP O B-ASP I-ASP O O O O B-OP O
+so , the menu is written in chalk above your head and it all sounds delicious .####O O O B-ASP O O O O O O O O O O O B-OP O
+the food was not fresh , the sauces were bland and very oily .####O B-ASP O O B-OP O O B-ASP O B-OP O O B-OP O
+but the pizza is way to expensive .####O O B-ASP O O O B-OP O
+while most people can attest to spending over $ 50 on drinks in new york bars and hardly feeling a thing , the drinks here are plentiful and unique .####O O O O O O O O O O O B-ASP O O O B-ASP O O O O O O O B-ASP O O B-OP O B-OP O
+our visit their to say the least , was an unpleasant and costly experience !####O O O O O O O O O O O O O O O
+i went there for lunch and it was not as good as i expected from the reviews i read .####O O O O B-ASP O O O O O B-OP O O O O O O O O O
+when i 'm feeling stressed by the noise and congestion around my office , i head for cafe st. bart 's .####O O O O O O O O O O O O O O O O O O O O O O
+in fact there is only one i 've tried that even compares ( shabu tatsu ) and even then i prefer dokebi .####O O O O O O O O O O O O O O O O O O O O O O O
+you get the sense that the people there care about their restaurant and about your experience and that is very nice .####O O O O O O B-ASP O O O O O O O O O O O O O B-OP O
+i only tried a simple dish of spinach ravioli in a light oil and garlic sauce , but it actually faired better than most nyc italian joints i 've tried similar dishes at .####O O O O O B-ASP O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O O O B-OP O O O O O O O O O B-ASP O O
+consistently good japanese tapas .####O B-OP B-ASP I-ASP O
+the place has a nice fit-out , some attractive furnishings and , from what i could tell , a reasonable wine list ( i was given the food menu when i asked for the carte des vins )####O O O O B-OP B-ASP O O B-OP B-ASP O O O O O O O O O B-OP B-ASP I-ASP O O O O O O O O O O O O O O O O
+would not recommend anyone to go .####O O B-OP O O O O
+pizza and garlic knots are great as well , i order from them quite often and the delivery is always super quick !####B-ASP O B-ASP I-ASP O B-OP O O O O O O O O O O O B-ASP O O O B-OP O
+place should also have a 1,2,3 chili rating to be more authentic ...####O O O O O O O O O O O B-OP O
+the food is outstanding and the service is quick , friendly and very professional .####O B-ASP O B-OP O O B-ASP O B-OP O B-OP O O B-OP O
+we were 10 people celebrtating a birthday , we sat in the tent .####O O O O O O O O O O O O O O
+i must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef 's special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal .####O O O O O O O B-ASP O O O B-OP O O O B-ASP O O O O O O O O O O O O O O O O O O O B-ASP O B-OP O B-ASP O O O O O O O O B-ASP O O B-ASP O O O O O B-ASP O O O O O O O B-ASP I-ASP O O O B-ASP I-ASP O O O O O O O
+went there for a special celebration .####O O O O O O O
+i went at 6:00 pm specifically for the pre-theater menu ( $ 19.95 for roasted tomato soup with chevre , steak frites , creme brulee ) and it was marvelous .####O O O O O O O O B-ASP I-ASP O O O O B-ASP I-ASP I-ASP I-ASP I-ASP O B-ASP I-ASP O B-ASP I-ASP O O O O B-OP O
+for the next hour and a half we stood in the crowded lobby area of this touristy restaurant listening to all types of explanations of why we were not being seated .####O O O O O O O O O O O B-OP B-ASP I-ASP O O O O O O O O O O O O O O O O B-ASP O
+mojitos and the service are the best part in there####B-ASP O O B-ASP O O B-OP O O O
+better than the bagel shop on the corner , but not worth going out of your way for , in my opinion .####B-OP O O O O O O O O O O B-OP O O O O O O O O O O O
+i complete the total bagel experience by having it lightly toasted .####O O O O O O O O O O O O
+i have never eaten in the restaurant , however , upon reading the reviews i got take out last week .####O O O O O O O O O O O O O O O O O O O O O
+after dealing with subpar pizza all over the kensington neighborhood - i 've found little toninos .####O O O B-OP B-ASP O O O O O O O O O O O O
+we will be back .####O O O O O
+the homage to india is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .####O O O O O O B-OP O O B-OP B-ASP I-ASP I-ASP O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-ASP I-ASP O O B-OP I-OP O B-OP O O O O
+not only is this the best thai restaurant i have been to , but it also ranks as one of my favorite places to dine .####O O O O O B-OP O O O O O O O O O O O O O O O B-OP O O O O
+i really recommend the very simple unda egg rolls .####O O B-OP O O B-OP B-ASP I-ASP I-ASP O
+we visited orsay during ny restaurant week and tried their $ 35 menu .####O O O O O O O O O O O O O O
+the noise level was unbearable , conversation impossible .####O B-ASP I-ASP O B-OP O O O O
+we actually gave 10 % tip ( which we have never done despite mediocre food and service ) , because we felt totally ripped off .####O O O O O B-ASP O O O O O O O B-OP B-ASP O B-ASP O O O O O O B-OP I-OP O
+my girlfriend and i just spent our 10 month anniversary at lou lou .####O O O O O O O O O O O O O O
+service is usually pretty good .####B-ASP O O O B-OP O
+at 5 dumplings for $ 1 , you just can not go wrong .####O O B-ASP O O O O O O O O O O O
+from the moment you enter till the moment you walk out the friendly and helpful staff was was just fantastic .####O O O O O O O O O O O O B-OP O B-OP B-ASP O O O B-OP O
+i 've been living in the columbia university area for about 10 years with 3 kids - now in their teens .####O O O O O O O O O O O O O O O O O O O O O O
+we had fun eating in there , we were there like around 3 a.m. in the morning !####O O O O O O O O O O O O O O O O O O
+the only thing more wonderful than the food ( which is exceptional ) is the service .####O O O O B-OP O O B-ASP O O O O O O O B-ASP O
+slightly on the pricey side but worth it !####O O O O O O O O O
+you ca n't go wrong with this place .####O O O O O O O O O
+try the homemade breads .####O O B-ASP I-ASP O
+a guaranteeed delight !####O O O O
+really lovely dining experience in the midst of buzzing midtown area .####O B-OP B-ASP I-ASP O O O O O O O O
+i really loved the different and inovated touch that 's the cheff gives to the food .####O O B-OP O B-OP O B-OP O O O O B-ASP O O O B-ASP O
+i can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was well worth the money .####O O O O O B-ASP O B-ASP O B-ASP O O B-OP O B-OP O O B-ASP I-ASP O O O O B-OP I-OP O O O
+in the summer months , the back garden area is really nice .####O O O O O O B-ASP I-ASP I-ASP O O B-OP O
+the service , wine selection , ambiance are all outstanding and deserve recognition .####O B-ASP O B-ASP I-ASP O B-ASP O O B-OP O B-OP O O
+i have reservations about the all you can eat deal , however -- the choices are fairly limited and you can probably order more food than you can eat for less than $ 18 by just going off the menu .####O O O O O B-ASP I-ASP I-ASP I-ASP I-ASP O O O O O O O B-OP O O O O O O O O O O O O O O O O O O O O O O O
+try the crunchy tuna , it is to die for .####O O B-ASP I-ASP O O O O B-OP I-OP O
+this place is worth an one-hour drive .####O B-ASP O B-OP O O O O
+they are the best bagels i 've had .####O O O B-OP B-ASP O O O O
+the service does sometimes lack focus and it is not ideal if you are in a hurry but i have never been treated rudely .####O B-ASP O O B-OP O O O O O B-OP O O O O O O O O O O O O B-OP O
+esp . during happy hour !####O O O O O O
+you ca n't go wrong here .####O O O O O O O
+i have to say they have one of the fastest delivery times in the city .####O O O O O O O O O B-OP B-ASP I-ASP O O O O
+i took my boyfriend for a dinner on saturday night .####O O O O O O O O O O O
+i look forward to eating here again####O B-OP I-OP O B-ASP O O
+and the bill was outragous .####O O B-ASP O B-OP O
+for my birthday and we had an excellent time .####O O O O O O O B-OP O O
+you 'll pay at least double at any other italian restaurant in the city , and most still do n't compare .####O O O O O O O O O O O O O O O O O O O O O O
+went to cafe spice with 4 of my friends on a saturday night .####O O O O O O O O O O O O O O
+the sake menu should not be overlooked !####O B-ASP I-ASP O O O B-OP O
+it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor .####O O O O O O O O O B-ASP O O B-OP I-OP O O B-ASP O B-OP O O O B-ASP O B-OP I-OP O
+also , top the meal with a delicious and perfect slice of tiramisu .####O O O O B-ASP O O B-OP O B-OP O O B-ASP O
+thank you emilio .####O O B-ASP O
+it 's a basic pizza joint , not much to look at , but the pizza is what i go for .####O O O O B-ASP O O O O O O O O O O B-ASP O O O O O O
+could be pricey without a prix fixe meal .####O O B-OP O O B-ASP I-ASP I-ASP O
+the pizza is yummy and i like the atmoshpere .####O B-ASP O B-OP O O B-OP O B-ASP O
+the music is the best among all the indian restaurants i have visited .####O B-ASP O O B-OP O O O O O O O O O
+great service , great food .####B-OP B-ASP O B-OP B-ASP O
+the bagels are fabulous .####O B-ASP O B-OP O
+always fresh and delicious .####O B-OP O B-OP O
+i hate this .####O B-OP O O
+baluchi 's has solid food and a nice decor at reasonable prices .####O O O B-OP B-ASP O O B-OP B-ASP O B-OP B-ASP O
+maybe the secret was that we went on a sunday night and everything was great .####O O O O O O O O O O O O O O B-OP O
+cute place , nice wait staff but would never go there again .####B-OP B-ASP O B-OP B-ASP I-ASP O O O O O O O
+it is about food and ambiance , and imagine how dreadful it will be it we only had to listen to an idle engine .####O O O B-ASP O B-ASP O O O O B-OP O O O O O O O O O O O O O O
+try sushimi cucumber roll .####O B-ASP I-ASP I-ASP O
+i live a block away and go to patsy 's frequently .####O O O O O O O O O O O O
+the entree was bland and small , dessert was not inspired .####O B-ASP O B-OP O B-OP O B-ASP O O B-OP O
+went on a 3 day oyster binge , with fish bringing up the closing , and i am so glad this was the place it o trip ended , because it was so great !####O O O O O B-ASP O O O B-ASP O O O O O O O O O B-OP O O O B-ASP O O O O O O O O O B-OP O
+aside from the sea urchin , the chef recommended an assortment of fish including fatty yellow tail , boton shrimp , blue fin torro ( fatty tuna ) , sea eel , etc .####O O O B-ASP I-ASP O O B-ASP B-OP O B-ASP I-ASP I-ASP O B-ASP I-ASP I-ASP O B-ASP I-ASP O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O B-ASP I-ASP O O O
+i went there in late afternoon for some bite size food and refleshment with my date .####O O O O O O O O O O O O O O O O O
+better than the bagel shop on the corner , but not worth going out of your way for , in my opinion .####O O O O O O O O O O O O O O O O O O O O O O O
+service is not what one would expect from a joint in this price category .####B-ASP O O O O O B-OP O O O O O O O O
+the best thing i tasted were the lambchops .####O B-OP O O O O O B-ASP O
+the wine and cheese plate are plentiful and ca n't wait to try the fondue or table grilling .####O B-ASP O B-ASP O O B-OP O O O O O O O B-ASP O B-ASP I-ASP O
+taking hot dogs to the next level####O B-ASP I-ASP O O O O
+stuffing yourself with japanese food is a rare thing .####O O O O O O O O O O
+a word to the wise : you ca n't dine here and disturb the maitre-d 's sense of " table turnover " , as whacked as it is , or else .####O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O O O O O O O
+great food , great drinks , nice dining atmosphere .####B-OP B-ASP O B-OP B-ASP O B-OP B-ASP I-ASP O
+they 're also friendlier here , especially the owner , kenny .####O O O B-OP O O O O B-ASP O O O
+even though the restaurant was packed , we were seated promptly and even asked for a table upstairs with no problems .####O O O O O B-OP O O O B-ASP B-OP O O O O O B-ASP O O O O O
+this is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and i can not comp it .####O O O O O O O B-OP O O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+there are so many other great places to go to eat and drink .... . this place is not worth it ...####O O O O O O O O O O O O O O O O O O O O O O
+not pretentious and very economical .####O B-OP O O B-OP O
+it was the first place we ate on our first trip to new york , and it will be the last place we stop as we head out of town on our next trip to new york .####O O O O B-ASP O O O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O O O O O O
+some servers make you feel like they are doing you a favor to bring you the food .####O B-ASP O O O O O O O O O O O O O O B-ASP O
+delicate spices , onions , eggs and a kick-ass roti .####B-OP B-ASP O B-ASP O B-ASP O O O B-ASP O
+personal pans are the perfect size for those hungry nights .####B-ASP I-ASP O O B-OP O O O O O O
+the food here was great , a treat from beginning to end .####O B-ASP O O B-OP O O O O O O O O
+i stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk .####O O O O O B-ASP O O O O B-ASP I-ASP I-ASP O O B-ASP I-ASP O
+good food at the restaurant ( a bit expensive , but great if you want to impress your date ) .####B-OP B-ASP O O O O O O B-OP O O B-OP O O O O O O O O O
+ahhh ...####O O
+i highly recommend to anyone to give this place a try .####O O B-OP O O O O O O O O O
+it 's a great find in astoria .####O O O B-OP O O O O
+but the thai is definitely not great -- bland and indistinguished .####O O B-ASP O O O B-OP O B-OP O B-OP O
+the food is amazing ... especially if you get the chef 's tasting menu and your favourite bottle ( or two ! ) of wine from an extensive selection of wines .####O B-ASP O B-OP O O O O O O B-ASP I-ASP I-ASP I-ASP O O B-OP O O O O O O O O O O B-OP B-ASP I-ASP I-ASP O
+they also have a back garden open in the summer - cute and french with outdoor seating - what more could you ask for ?####O O O O B-ASP I-ASP O O O O O B-OP O O O B-ASP I-ASP O O O O O O O O
+as there were so many to choose from we wandered up and down the street looking in the windows and such noticicing many empty seats , except at taj mahal .####O O O O O O O O O O O O O O O O O O O O O O O O B-ASP O O O O O O
+he has visited thailand and is quite expert on the cuisine .####O O O O O O O O O O O O
+for desserts , we tried the frozen black sesame mousse ( interesting but not extraordinary ) and matcha powdered green tea and blueberry cheesecake , which was phenomenal .####O O O O O O B-ASP I-ASP I-ASP I-ASP O B-OP O O B-OP O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-OP O
+the only positive was the wait staff , which was prompt , knowledgable , and likeable .####O O B-OP O O B-ASP I-ASP O O O B-OP O B-OP O O B-OP O
+this is an amazing place to try some roti rolls .####O O O B-OP O O O O B-ASP I-ASP O
+so rushing us out was absolutely unnecessary !####O O O O O O O O
+i think locals rate this place so high .####O O O O O O O B-OP O
+if the omakase is to showcase technique and variety , serving almost 40 % of items bbq-ed and a spicy tuna roll wrapped with not-so-fresh nori seems to be a rather limp performance .####O O O O O O O O O O B-ASP O O O O O O O O B-ASP I-ASP I-ASP O O B-OP B-ASP O O O O O B-OP O O
+we ate outside at haru 's sake bar because haru 's restaurant next door was overflowing .####O O O O O O O O O O O O O O O O O
+its not curry in a slurry crap , and regular run of the mill food .####O O B-ASP O O O O O O O O O O O B-ASP O
+the new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but i must agree with the person that wrote about their favorite words : no , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .####O B-ASP I-ASP O O O B-OP O O O O O O O O O O O O O O O O O O B-ASP O O O B-ASP O B-OP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+we spent so much time getting elbowed around while we waited we left .####O O O O O O O O O O O O O O
+i have been a longtime fan of holy basil in the east village , and while i do believe their food has slightly slipped in quality , i have been hesitant to be disloyal .####O O O O O O O O O O O O O O O O O O O O B-ASP O O B-OP O B-ASP O O O O O O O O O
+p.s. please do n't tell anyone in my family i eat there .####O O O O O O O O O O O O O
+this is a consistently great place to dine for lunch or dinner .####O O O O B-OP O O B-ASP O B-ASP O B-ASP O
+appetizers took nearly an hour .####O O O O O O
+i asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere !####O O O O O O O O O O B-ASP O O O O O O O O O
+this place has many different styles of pizza and they are all amazing .####O O O O B-OP B-ASP I-ASP I-ASP O O O O B-OP O
+the menu is prix fixe , so be prepared to spend at least $ 60 per person , but it is well worth it superb food .####O B-ASP O B-ASP I-ASP O O O O O O O O O O O O O O O O B-OP I-OP O B-OP B-ASP O
+there is something about their atmosphere that makes me come back nearly every week .####O O O O O B-ASP O O O O O O O O O
+definitely not worth the price !####O O B-OP O B-ASP O
+everyone was cheerfully cooperative and helpful .####O O O O O O O
+the bar is very well stocked with interesting beers and well priced wines .####O B-ASP O O B-OP I-OP O B-OP B-ASP O B-OP B-ASP B-ASP O
+we ordered the special , grilled branzino , that was so infused with bone , it was difficult to eat .####O O O O O B-ASP I-ASP O O O O O O O O O O B-OP O O O
+this without question is one of the worst hotdogs i have ever had .####O O O O O O O B-OP B-ASP O O O O O
+polite acknowledgement is out ;####O O O O O
+the fried calamari was even better !####O B-ASP I-ASP O O B-OP O
+at $ 120 for two people , however , this in no way represents value , unless you 're looking to pay by the hour for passive-aggressive torture .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+i trust the people at go sushi , it never disappoints .####O B-OP O B-ASP O O O O O O B-OP O
+you fellas above says its the best taiwanese restaurant in town .####O O O O O O O O O O O O
+the website and rating makes this place look wonderful but in reality it was very disappointing .####O O O O O O B-ASP O O O O O O O O B-OP O
+during the course of the past 3 months , the chef and staff changed and it was not for the better .####O O O O O O O O O O B-ASP O B-ASP O O O O O O O B-OP O
+i care more about the food and ambience .####O O O O O B-ASP O B-ASP O
+the food is uniformly exceptional , with a very capable kitchen which will proudly whip up whatever you feel like eating , whether it 's on the menu or not .####O B-ASP O O B-OP O O O O B-OP B-ASP O O O O O O O O O O O O O O O O B-ASP O O O
+love this place , every time we are in the city this is one of the places we always go .####B-OP O B-ASP O O O O O O O O O O O O O O O O O O
+nothing better than buying a snapple for $ 3.25 too .####O B-OP O O O B-ASP O O O O O
+the steak is good , the fish is good and the sushi was surprisingly great .####O B-ASP O B-OP O O B-ASP O B-OP O O B-ASP O O B-OP O
+my friend got the mushroom pizza which tasted better .####O O O O B-ASP I-ASP O O B-OP O
+it 's just o.k. pizza .####O O O B-OP B-ASP O
+i would highly recommend this place to anyone who is looking for a fine indian dining experience that is definitely a value for your dollar .####O O O B-OP O O O O O O O O O O B-ASP I-ASP I-ASP O O O O O O O O O
+which lets face it .... at times it 's a good thing .####O O O O O O O O O O O O O
+but when we looked at the menu , there were n't a lot of choices , most of them were dumplings in the appetizer section .####O O O O O O B-ASP O O O O B-OP I-OP I-OP O O O O O O B-ASP O O B-ASP O O
+i have never left a restaurant feeling as if i was abused , and wasted my hard earned money .####O O O O O B-ASP O O O O O B-OP O O O O O O O O
+the food is so good and so popular that waiting can really be a nightmare .####O B-ASP O O B-OP O O B-OP O B-ASP O O O O B-OP O
+this is the perfect date spot for williamsburg couples .####O O O O O O O O O O
+if you are a vegetarian , this really is n't a good place to go .####O O O O O O O O O O O B-OP O O O O
+this is a great place to take out-of-towners , and perfect for watching the sunset .####O O O B-OP O O O O O O B-OP O O O O O
+stick to the gulab jamun .####O O O B-ASP I-ASP O
+love the food .####B-OP O B-ASP O
+we always get a sampling of appetizers and share .####O O O O O O B-ASP O O O
+service was very prompt but slightly rushed .####B-ASP O O B-OP O O B-OP O
+delicious , creative and fun .####O O O O O O
+stay away from the latter since you wo n't go for seconds ( hint hint ) .####O O O O O O O O O O O O O O O O O
+the staff is n't the friendliest or most competent , and i am stickler for service , but everything else about this place makes up for it .####O B-ASP O O O B-OP O O B-OP O O O O O O B-ASP O O O O O O O O O O O O
+not only is the cuisine the best around , the service has always been attentive and charming .####O O O O B-ASP O B-OP O O O B-ASP O O O B-OP O B-OP O
+the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal####O B-ASP O O O B-OP O O O O O O O O O O O O O B-OP O B-OP B-ASP
+i 'm not picky - but it was actually gross .####O O O O O O O O O O O
+a real dissapointment .####O O O O
+leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere .####B-ASP O O O O O O B-OP O B-OP O O B-OP I-OP O B-ASP I-ASP I-ASP O B-OP B-ASP O O B-OP O B-OP B-ASP O
+the food is fresh , delicious , and reasonably priced .####O B-ASP O B-OP O B-OP O O B-OP B-ASP O
+it 's a rather cramped and busy restaurant and it closes early .####O O O O B-OP O B-OP O O O O O O
+it is expensive but well worth the money .####O O O O O O O O O
+i actually feel like i should keep it a secret .####O O O O O O O O O O O
+do n't be put off by another reviewers extremely negative review .####O O O O O O O O O O O O
+best reuben sandwich ever !####B-OP B-ASP I-ASP O O
+the food is definitely good , but i left a bit disappointed .####O B-ASP O O B-OP O O O O O O B-OP O
+i have to highly recommend the lobster roll - not to much mayo ; you can tell it was a fresh lobster .####O O O O B-OP O B-ASP I-ASP O O O O O O O O O O O O B-OP B-ASP O
+granted the space is smaller than most , it is the best service you will find in even the largest of restaurants .####O O B-ASP O B-OP O O O O O O B-OP B-ASP O O O O O O O O O O
+it was a very warm experience .####O O O O B-OP O O
+spice is great thai food , love the inexpensive appetizers .####O O B-OP B-ASP I-ASP O B-OP O B-OP B-ASP O
+a little noise but i think that was because of our party !####O O O O O O O O O O O O O
+i 've had better japanese food at a mall food court .####O O O B-OP B-ASP I-ASP O O O O O O
+no food snobs allowed , this place is for people who appreciate good food .####O B-ASP O O O O O O O O O O B-OP B-ASP O
+service here was great , food was fantastic .####B-ASP O O B-OP O B-ASP O B-OP O
+read all the other review , they 'll confirm it .####O O O O O O O O O O O
+the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .####O B-ASP O B-OP O O O O O O O O O O O O O B-OP O B-OP B-ASP I-ASP O
+the pizza is delicious - they use fresh mozzarella instead of the cheap , frozen , shredded cheese common to most pizzaria 's .####O B-ASP O B-OP O O O B-ASP I-ASP O O O O O O O O O O O O O O O
+immediately after we paid , the waiter took the money and said , okay , you guys are outta here .####O O O O O O B-ASP O O O O O O O O O O O O O O
+i definitely enjoyed the food as well .####O O B-OP O B-ASP O O O
+the only thing that strikes you is the decor ? ( not very pleasant ) .####O O O O B-OP O O O B-ASP O O O O B-OP O O
+awesome####O
+thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up .####B-ASP O O B-OP O O B-OP B-ASP O O O O O B-ASP O O O B-OP I-OP O
+you must try the shrimp appetizers .####O O O O B-ASP I-ASP O
+the wine the service was very good too .####O B-ASP O B-ASP O O B-OP O O
+this place has got to be the best japanese restaurant in the new york area .####O O O O O O O B-OP O O O O O O O O
+so eat fast and order a lot .####O O O O O O O O
+we have gone for dinner only a few times but the same great quality and service is given .####O O O O B-ASP O O O O O O O B-OP I-OP O B-ASP O B-OP O
+there was no ambiance .####O O O B-ASP O
+the food was very good , but not very thai .####O B-ASP O O B-OP O O O O O O
+great sushi experience .####B-OP B-ASP O O
+i have never had cheescake like this .####O O O O B-ASP O O O
+although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .####O B-OP O O O B-OP B-ASP O B-OP B-ASP O O B-ASP O B-OP O O O O O O O O O O O O B-OP B-ASP O
+great neighbhorhood spot .####B-OP O O O
+the setting is casual and romantic .####O B-ASP O B-OP O B-OP O
+once for dinner and once for brunch .####O O O O O O O O
+i wish they had one near my office - i would go everyday .####O O O O O O O O O O O O O O
+the miso soup lacked flavor and the fish was unfortunately not as well prepared as in the past .####O B-ASP I-ASP B-OP B-ASP O O B-ASP O O O O B-OP I-OP O O O O O
+we came here on a crowded saturday night and were seated right away despite being 15 minutes late for our reservation .####O O O O O O O O O O B-ASP O O O O O O B-OP O O B-ASP O
+indoor was very cozy and cute .####B-ASP O O B-OP O B-OP O
+i have walked by this place for eons and finally went thanks to a girls ' night .####O O O O O O O O O O O O O O O O O O
+despite the untasteful previous review ...####O O O O O O
+once you step into cosette , you 're miraculously in a small , off-the-beaten path parisian bistro .####O O O O B-ASP O O O O O O O O B-OP O O O O
+the ambience is pretty and nice for conversation , so a casual lunch here would probably be best .####O B-ASP O B-OP O B-OP O O O O O O O O O O O O O
+last time i went here , the waitress did n't come back after taking our order .####O O O O O O O B-ASP O O O O O O O O O
+i plan on stopping by next week as well .####O O O O O O O O O O
+what a great place !####O O B-OP B-ASP O
+great toppings definitely a place you need to check out for late night munchies or a mid day boost !####B-OP B-ASP O O B-ASP O O O O O O O O O O O O O O O
+the first time the sushi was outstanding , the second time it was a little bland .####O O O O B-ASP O B-OP O O O O O O O O B-OP O
+thius is a must for anyone who loves shabu-shabu .####O O O O O O O B-OP B-ASP O
+a different server enhanced the fun , dumping our entrees in front of us halfway through our appetizer ( which was delicious ) .####O O B-ASP B-OP O O O O O O O O O O O O O B-ASP O O O B-OP O O
+this is the perfect date spot for williamsburg couples .####O O O B-OP B-ASP I-ASP O O O O
+the hot dogs are top notch , and they 're slamwich is amazing !####O B-ASP I-ASP O B-OP I-OP O O O O B-ASP O B-OP O
+i have to agree with the previous reviewer .####O O O O O O O O O
+i would recommend jewel bako if you want to feel like you were kicked in the groin and had to pay for it too .####O O B-OP O O O O O O O O O O O O O O O O O O O O O O
+everything is always cooked to perfection , the service is excellent , the decor cool and understated .####O O O O O O O O B-ASP O B-OP O O B-ASP B-OP O B-OP O
+not cheap , but not that expensive either .####O B-OP O O O O B-OP O O
+my only problem is that you are literally sitting on top of the people next to you !####O O O O O O O O O O O O O O O O O O
+do not try unless you 're just going there to hang out like the rest of the hipsters who apparently have no sense of taste .####O O O O O O O O O O O O O O O O O O O O O O O O O O
+nobody at this restaurant will give firm answers about anything and in the end , not one person takes responsibility for anything .####O O O O O O O O O O O O O O O O O O O O O O O
+buon appetito !####O O O
+the food is so cheap and the waiters are nice .####O B-ASP O O B-OP O O B-ASP O B-OP O
+this is the best secret place in midtown ' , i heard that from the bartender , after having brilliant food ( try steak with portobello mushrooms ) and drinks on the bar last tuesday .####O O O B-OP O O O O O O O O O O O B-ASP O O O B-OP B-ASP O O B-ASP I-ASP I-ASP I-ASP O O B-ASP O O B-ASP O O O
+if i could rate the people this place would be off the charts - unfortunately - the pizza , sorry - not the best in nyc .####O O O O O B-ASP O O O O O O O O O O O B-ASP O O O O O B-OP O O O
+the deco and ambiance was really romantic .####O B-ASP O B-ASP O O B-OP O
+a cool bar with great food , and tons of excellent beer .####O B-OP B-ASP O B-OP B-ASP O O O O B-OP B-ASP O
+overall , a solid restaurant and at less than $ 40pp ( including wine ) , a solid deal as well .####O O O B-OP O O O O O O O O O B-ASP O O O B-OP O O O O
+alias is warm and cozy and you do n't get that squished-in feeling you get at 71 clinton .####O O B-OP O B-OP O O O O O O O O O O O O O O
+just awsome .####O O O
+i think the meatball parm is good .####O O O B-ASP I-ASP O B-OP O
+no plans to return anytime soon .####O O O O O O O
+i ca n't stand this dungeon .####O O O O O O O
+poor service and management####B-OP B-ASP O B-ASP
+the atmosphere was mostly of an older crowd , but there were a few groups of mid 20 's / 30 year olds also .####O O O O O O O O O O O O O O O O O O O O O O O O O
+you are treated just like royality .####O O O O O O O
+the only thing more wonderful than the food ( which is exceptional ) is the service .####O O O O B-OP O O B-ASP O O O B-OP O O O B-ASP O
+each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .####O B-ASP O O B-ASP I-ASP I-ASP I-ASP O O O O O O O O O O B-OP O B-ASP O B-OP B-ASP O O B-ASP O B-ASP I-ASP O
+we were there march 7 and found maison very nice .####O O O O O O O O O B-OP O
+i almost wanted to write a bad review , so no one would ever go here and i could have all the dumplings to myself !####O O O O O O B-OP O O O O O O O O O O O O O O O B-ASP O O O
+the characters really make for an enjoyable experience .####O O O O O O B-OP O O
+wont come back again for sure !####O O O O O O O
+salads are a delicious way to begin the meal .####B-ASP O O B-OP O O O O O O
+i wish they would change back to what it was before .####O O O O O O O O O O O O
+the location and ambience is ok but the food is what makes up for it .####O B-ASP O B-ASP O B-OP O O B-ASP O O B-OP I-OP O O O
+quick and friendly service .####B-OP O B-OP B-ASP O
+the corned beef and pastrami are excellent , much less fatty than those big tourist places around times square .####O B-ASP I-ASP O B-ASP O B-OP O O B-OP I-OP O O O O O O O O O
+not the typical nyc gimmick theme restaurant .####O O B-OP O O O O O
+not sure where the previous reviewer , lonk , dined , but saul is in a great neighborhood and has great food !####O O O O O O O O O O O O O O O O B-OP B-ASP O O B-OP B-ASP O
+salads were fantastic .####B-ASP O B-OP O
+we got most of it back at home with us .####O O O O O O O O O O O
+great wine list ( italian ) , good food , service was initially fine .####B-OP B-ASP I-ASP O O O O B-OP B-ASP O B-ASP O O B-OP O
+the place does get crowded , so i recommend going between 4-5 pm .####O O O O B-OP O O O O O O O O O
+the food here is rather good , but only if you like to wait for it .####O B-ASP O O O B-OP O O O O O O O O O O O
+been going here since it opened have seen the quality value decrease considerably .####O O O O O O O O O B-ASP I-ASP B-OP O O
+conveniently located too , being right on bedford ave.####O O O O O O O O O
+the location is perfect .####O B-ASP O B-OP O
+save yourself the time and trouble and skip this one !####O O O O O O O O O O O
+not a typical pizza joint , but good for a low key and fairly cheap nice sit down dinner .####O O B-OP O O O O B-OP O O O O O O B-OP B-OP O O B-ASP O
+once you step into cosette , you 're miraculously in a small , off-the-beaten path parisian bistro .####O O O O O O O O O O O O O O O O O O
+i 'm looking forward to going back soon and eventually trying most everything on the menu !####O O O O O O O O O O O O O O O B-ASP O
+a wonderful place !####O B-OP B-ASP O
+everything we had was pretty good , but we have only been there once .####O O O O O B-OP O O O O O O O O O
+this is a real gem of a place .####O O O O O O O O O
+i had a late dinner at lucky stike , a great name for a joint if ever i saw one .####O O O O B-ASP O O O O O B-OP O O O O O O O O O O
+i had the salmon dish and while it was fine , for the price paid , i expected it to have some type of flavor .####O O O B-ASP I-ASP O O O O B-OP O O O B-ASP O O O O O O O O O O B-ASP O
+i would highly recommend nina 's to anyone who wants to have a romantic dinner in a heart warming surrounding filled with candles and family pictures .####O O O B-OP O O O O O O O O O B-OP B-ASP O O O B-OP B-ASP O O B-ASP O O B-ASP O
+the two waitress 's looked like they had been sucking on lemons .####O O B-ASP I-ASP O O O O O O O O O
+we shared a bottle of sake , an order of edamames , and she had the sushi plate while i had the sashimi .####O O O B-ASP I-ASP I-ASP O O O O B-ASP O O O O O B-ASP I-ASP O O O O B-ASP O
+overall i would recommend it and go back again .####O O O B-OP O O O O O O
+glechik might be way too tiny for a restaurant by russian standards , but it is cozy and the food is simply great .####O O O O B-OP I-OP O O O O O O O O O O B-OP O O B-ASP O O B-OP O
+the side dishes were passable , and i did get a refill upon request .####O B-ASP I-ASP O B-OP O O O O O O O O O O
+get the pepperoni - yum - and a family style salad .####O O B-ASP O O O O O B-ASP I-ASP I-ASP O
+but the pizza is way to expensive .####O O B-ASP O O O B-OP O
+fabulous decor - makes you feel like you 're in a trendy manhattan restaurant , very very good food , cheaply-priced , generally friendly staff , and if you 're a manhattanite , or spend most of your time in manhattan , rice avenue will make you feel at home ..... very soho/village/upper west side minus the expensive prices and pretentious clientele ..... all on roosevelt avenue !####B-OP B-ASP O O O O O O O O O O O O O O O B-OP B-ASP O B-OP O O B-OP B-ASP O O O O O O O O O O O O O O O O O B-ASP I-ASP O O O O O O O O O O O O O O O O O O O O O O O O
+unique apppetizers .####B-OP B-ASP O
+dakshin is one of the few affordable and tasty indian restaurant in the upper east side .####O O O O O O B-OP O B-OP O O O O O O O O
+so i decide to report back to the waitress because it was completely inedible .####O O O O O O O O O O O O O O O
+compared to ess-a , tal offers a less doughy bagel !####O O O O O O O B-OP I-OP B-ASP O
+what 's the difference between the two ?####O O O O O O O O
+we also had shared a house salad that was fresh .####O O O O O B-ASP I-ASP O O B-OP O
+as a fan of thai , i have tried quite a few different restaurants in nyc and this one was definitely the worst .####O O O O O O O O O O O O O O O O O O O O O O O O
+we left after one drink .####O O O O B-ASP O
+of course this atmosphere is lacking , but what do you expect from a 24 hour bagel place anyways ?####O O O B-ASP O B-OP O O O O O O O O O O B-ASP O O O
+if you like spicy food get the chicken vindaloo .####O O B-OP B-ASP I-ASP O O B-ASP I-ASP O
+as many other reviewers noticed , your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+i come from a family of pizzeria owners , and i 'm almost ashamed to say that the pizza in fornino 's blows my families receipies away .####O O O O O O O O O O O O O B-OP O O O O B-ASP O O O O O O O O O
+do n't miss bloom 's on your next trip to manhatten .####O O B-OP B-ASP I-ASP O O O O O O O
+amazing interior .####B-OP B-ASP O
+even with a relatively inexpensive botle of wine , if you can call $ 70.00 inexpensive , the cost is through the roof for better than average fare .####O O O O B-OP B-ASP I-ASP I-ASP O O O O O O O B-OP O O B-ASP O O O O O B-OP O O O O
+my date and i both ordered the branzini and both felt the fish was very average .####O O O O O O O B-ASP O O O O B-ASP O O B-OP O
+save your money and do n't waste your calories , go to margharita 's on washington street instead , they have amazing food and the best service .####O O O O O O O O O O O O O O O O O O O O O B-OP B-ASP O O B-OP B-ASP O
+possibly the most romantic restaurant in the city####O O B-OP I-OP B-ASP O O O
+i have eaten at many pizza places around nyc and this is hands down the worst .####O O O O O O O O O O O O O O O O O
+also , i personally was n't a fan of the portobello and asparagus mole .####O O O O O O O B-OP O O B-ASP I-ASP I-ASP I-ASP O
+the one up front will smile and say what can i get for you , brother ?####O O O O O O O O O O O O O O O O O
+while there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .####O O O O B-OP B-ASP O O O O O O O O O O B-ASP O O O O B-ASP I-ASP O
+the food was delicious , the atmosphere was relaxed , and we have now adopted plate 347 as our secret on second !####O B-ASP O B-OP O O B-ASP O B-OP O O O O O O O O O O O O O O
+the prices and ambience are especially great considering it 's in the west village .####O B-ASP O B-ASP O O B-OP O O O O O O O O
+on that scale , it 's a world-beater .####O O O O O O O O O
+and where does patis go wrong ; no where .####O O O B-ASP O O O O O O
+a classic !####O O O
+it is set far from the small street it 's on , and there is no traffic noise .####O O O O O O O O O O O O O O O O O O O
+the food was good .####O B-ASP O B-OP O
+i had lobster bisque it has 2 oz . of maine lobster in it .####O O B-ASP I-ASP O O O O O O B-ASP I-ASP O O O
+little tonino 's is just awesome , our favorite delivery place in kennsington , honestly the best gnochi i have ever had !####O O O O O B-OP O O B-OP O O O O O O O B-OP B-ASP O O O O O
+if you are the type of person who likes being scared and entertained , this is a great place to go and eat .####O O O O O O O O O O O O O O O O O B-OP B-ASP O O O O O
+service is excellent , no wait , and you get a lot for the price .####B-ASP O B-OP O O B-ASP O O O O O O O O B-ASP O
+he not only makes his own homemade mozzarella , but every pie is ultra fresh .####O O O O O O B-OP B-ASP O O O B-ASP O O B-OP O
+if you want good authentic thai this place is not the place to go .####O O O B-OP B-OP B-ASP O O O O O O O O O
+open late ( well as late as i ever got there and i 'm a night person )####O O O O O O O O O O O O O O O O O O
+plenty of choices to make your own creation .####B-OP O O O O O O O O
+i found the food to be outstanding , particulary the salmon dish i had .####O O O B-ASP O O B-OP O B-OP O B-ASP I-ASP O O O
+were meeting up with some friends for a drink at lafayette 161 and happened to walk by thai angel famished .####O O O O O O O O B-ASP O O O O O O O O O O O O
+our family never expected such incredible entertainment in a restaurant .####O O O O O B-OP B-ASP O O O O
+nice view of river and nyc .####B-OP B-ASP I-ASP I-ASP I-ASP I-ASP O
+we were on our way back to nj , and since i am in ny , we figured why not grab some food ?####O O O O O O O O O O O O O O O O O O O O O O B-ASP O
+why make a reservation if you are n't going to keep it ?####O O O B-ASP O O O O O O O O O
+the entree was bland and small , dessert was not inspired .####O B-ASP O B-OP O B-OP O B-ASP O O B-OP O
+that place was awesome , , , sally !####O O O O O O O O O
+food is great and inexpensive .####B-ASP O B-OP O B-OP O
+i had the thai style fried sea bass ... which was very good .####O O O B-ASP I-ASP I-ASP I-ASP I-ASP O O O O B-OP O
+the omlette for brunch is great ...####O B-ASP I-ASP I-ASP O B-OP O
+what a hassle !####O O O O
+in any event , even though its a bit on the pricey side , we still love this restaurant and will definitely go back .####O O O O O O O O O O O B-OP O O O O B-OP O O O O O O O O
+do n't dine at tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .####O O O O O O O B-ASP I-ASP O O O O O B-OP I-OP I-OP O O B-ASP I-ASP O
+the decor however seems to be the distraction so you wo n't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come !!!!####O B-ASP O O O O O B-OP O O O O O O O O O O O O O B-OP B-ASP O O O O O O O O
+i 'd highly recommend it for a special occasion -- it provides and intimate setting and nice service .####O O O B-OP O O O O O O O O O B-OP B-ASP O B-OP B-ASP O
+though the spider roll may look like a challenge to eat , with soft shell crab hanging out of the roll , it is well worth the price you pay for them .####O O B-ASP I-ASP O O O O B-OP O O O O O B-ASP I-ASP O O O O O O O O B-OP I-OP O B-ASP O O O O O
+but dinner here is never disappointing , even if the prices are a bit over the top .####O B-ASP O O O B-OP O O O O B-ASP O O O B-OP I-OP I-OP O
+after really enjoying ourselves at the bar we sat down at a table and had dinner .####O O B-OP O O O B-ASP O O O O O O O O O O
+the wine list is also really nice .####O B-ASP I-ASP O O O B-OP O
+to be honest we only ever eat the shabu shabu .####O O O O O O O O O O O
+sapphire is the only indian restaurant i go to when i 'm in nyc .####O O O O O O O O O O O O O O O
+food was good not great not worth the wait or another visit####B-ASP O B-OP O B-OP O B-OP O B-ASP O O O
+the photos of the restaurant in its web site are way better than the real look .####O O O O O O O O O O O B-OP O O O B-ASP O
+p.s. please do n't tell anyone in my family i eat there .####O O O O O O O O O O O O O
+incredibly poor service an food quality at exorbitant prices .####O B-OP B-ASP O B-ASP I-ASP O B-OP B-ASP O
+the sushi is amazing !!!####O B-ASP O B-OP O
+the pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .####O B-ASP O B-OP O O B-ASP O O O B-ASP O O B-OP O O B-ASP I-ASP O B-OP O
+this place , which is only a few months old , is perhaps queens ' biggest secret !####O O O O O O O O O O O O O O O O O O
+if you can handle that , it 's a great place for a business dinner , fun with friends or simply a table for 2 .####O O O O O O O O O B-OP O O O B-ASP I-ASP O B-OP O O O O O B-ASP O O O
+the decor is what initially got me in the door .####O B-ASP O O O O O O O O O
+the food was authentic .####O B-ASP O B-OP O
+also a little more expensive than your average bagel place .####O O O O O O O O O O O
+i 've been coming here on and off for the past five years and i have to say that la lanterna has never , ever dissapointed me .####O O O O O O O O O O O O O O O O O O O O O O O O O B-OP O O
+best drumsticks over rice and sour spicy soup in town !####B-OP B-ASP I-ASP I-ASP O B-ASP I-ASP I-ASP O O O
+be sure to try the smoked trout ... lamb chops , veal chops , rabbit , the potato gratin , on and on and on ...####O O O O O B-ASP I-ASP O B-ASP I-ASP O B-ASP I-ASP O B-ASP O O B-ASP I-ASP O O O O O O O
+i often find myself with time to kill in times square , which is a shame since i do n't love this area .####O O O O O O O O O O O O O O O O O O O O O O O O
+if celebrities make you sweat , then your in for a ride , but if your like most around these parts then you 'll just yawn and wonder whats with all the hype .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+try it side by side and there 's no comparison .####O O O O O O O O O O O
+the desserts are more appealing then stuffy overpriced french restaurants .####O B-ASP O O B-OP O B-OP B-OP O O O
+the waitstaffs are nice though .####O B-ASP O B-OP O O
+the bar is very well stocked with interesting beers and well priced wines .####O B-ASP O O B-OP I-OP O B-OP B-ASP O B-OP I-OP B-ASP O
+but when you are seated the waitresses are great , they explain everything on the menu , and the price of the food is really cheap for the service you get .####O O O O O O B-ASP O B-OP O O O O O O B-ASP O O O B-ASP O O B-ASP O O B-OP O O B-ASP O O O
+i just had my first visit to this place and ca n't wait to go back and slowly work my way through the menu .####O O O O O O O O O O O O O O O O O O O O O O O B-ASP O
+the zucchini and mashed potatoes are a blend of garlic and butter which simply melts in your mouth .####O B-ASP O B-ASP I-ASP O O O O B-ASP O B-ASP O O O O O O O
+horrible .####B-OP O
+with the theater 2 blocks away we had a delicious meal in a beautiful room .####O O O O O O O O O B-OP B-ASP O O B-OP B-ASP O
+too bad latin quarters closed .####O B-OP O O O O
+at first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+just went here for my girlfriends 23rd bday .####O O O O O O O O O
+we do not need to go to a four-star restaurant anymore .####O O O O O O O O O O O O
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening .####O O O B-OP B-ASP O B-OP B-ASP O O B-OP B-ASP O O O O O O O O B-OP O O
+for the location , the prices are very reasonable .####O O B-ASP O O B-ASP O O B-OP O
+if you want good authentic thai this place is not the place to go .####O O O B-OP B-OP B-ASP O O O O O O O O O
+i love it .####O O O O
+we ordered the chicken casserole , but what we got were a few small pieces of chicken , all dark meat and on the bone .####O O O B-ASP I-ASP O O O O O O O B-OP O O O B-ASP O O B-OP B-ASP O O O O O
+great vibe , lots of people .####B-OP B-ASP O O O O O
+just an odd group .####O O O O O
+nice value .####B-OP O O
+i do n't get it either .####O O O O O O O
+the food is great .####O B-ASP O B-OP O
+please be aware that it 's cash or amex only !####O O O O O O O O O O O
+great people watching as others do the same to you .####B-OP O O O O O O O O O O
+the lobster knuckles ( special of the day ) were ok , but pretty tasteless .####O B-ASP I-ASP O O O O O O O B-OP O O O B-OP O
+authentic pakistani food .####B-OP B-ASP I-ASP O
+the food was absolutely amazing !!####O B-ASP O O B-OP O
+personally i say save your money .####O O O O O O O
+lucky strike is a great casual place to just grab a bite to eat .####B-ASP I-ASP O O B-OP B-OP O O O O O O O O O
+when we arrived at 6:00 pm , the restaurant was practically empty .####O O O O O O O O O O O O O
+we even had a visit from the manager who wanted to make sure we were enjoying ourselves .####O O O O O O O B-ASP O O O O O O O B-OP O O
+chef vincenzo , always there if you need him , is a real talent and a real roman .####B-ASP O O O O O O O O O O O O O O O O O O
+they are located off the beaten path but are certainly worth the trip .####O O O O O O O O O O B-OP O O O
+while this is a pretty place in that overly cute french way , the food was insultingly horrible .####O O O O B-OP B-ASP O O O B-OP O O O O B-ASP O B-OP I-OP O
+this is such a lovely , peaceful place to eat outside .####O O O O B-OP O B-OP B-ASP O O O O
+i 've rarely had a problem with slow staff in the 10 years i 've been going .####O O O O O O O B-OP B-ASP O O O O O O O O O
+toons has recently been redone , so it 's now a very attractive space .####B-ASP O O O O O O O O O O O B-OP O O
+bleecker st pizza is the best !####O O O O O B-OP O
+the food is average : breakfast food , soups , salads , sandwiches , etc .####O B-ASP O B-OP O B-ASP I-ASP O B-ASP O B-ASP O B-ASP O O O
+both are delicious , the cooks are friendly and are willing to take a moment and speak to you and shake your hand .####O O B-OP O O B-ASP O B-OP O O O O O O O O O O O O O O O O
+never fails to please .####O O O O O
+although we were looking for regular lettuce and some walnuts the salads we got were great .####O O O O O O O O O O O B-ASP O O O B-OP O
+it 's to die for !####O O O B-OP I-OP O
+the people in the restaurant were pretty obnoxious and loud .####O B-ASP O O O O O B-OP O B-OP O
+waiters are slow but sweet .####B-ASP O B-OP O B-OP O
+i in all reality felt as if i had just gotten off air france and was in the 8th district in paris .####O O O O O O O O O O O O O O O O O O O O O O O
+avoid at all costs .####O O O O O
+service was prompt , friendly and great .####B-ASP O B-OP O B-OP O B-OP O
+an awesome organic dog , and a conscious eco friendly establishment .####O B-OP B-OP B-ASP O O O O B-OP I-OP B-ASP O
+go to any corned indian restaurant , and the little india strip along east 6 st rules supreme !####O O O O O O O O O O O O O O O O O O O
+but regulars know that the sandwiches are the real star here .####O O O O O B-ASP O O O B-OP O O
+it 's a really great deal , considering we got full off of four dollars .####O O O O B-OP O O O O O O O O O O O
+however , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .####O O O O O B-OP B-ASP O O B-OP B-ASP O O O O O B-ASP O O O O O O O O
+you do n't go to mizu for excellent service , you go for the large amounts of food , the amiable atmosphere , and the hole-in-the-wall feeling of the place .####O O O O O O O B-OP B-ASP O O O O O B-OP O O B-ASP O O B-OP B-ASP O O O O O O O O O
+when we stumbled on leon , we thought that we had found quite the gem but , we were certainly wrong .####O O O O O O O O O O O O O O O O O O O O O O
+great bagels , spreads and a good place to hang out in .####O O O O O O O O O O O O O
+the thai ice tea was amazingly smooth and yummy !####O B-ASP I-ASP I-ASP O O B-OP O B-OP O
+the food was delicious but do not come here on a empty stomach .####O B-ASP O B-OP O O O O O O O O O O
+get there before 7 pm .####O O O O O O
+while sapphire is certainly not lacking in ambiance , and probably has the best decor of any indian restaurant i have been to in new york city , the food was not what i had hoped for .####O O O O O B-OP O B-ASP O O O O O B-OP B-ASP O O O O O O O O O O O O O O B-ASP O O O O O O O O
+very good breads as well .####O B-OP B-ASP O O O
+i think that it is absolutely brilliant and well runned business operation .####O O O O O O O O O O O O O
+beef noodle soup is good as well .####B-ASP I-ASP I-ASP O B-OP O O O
+the fries are yummy .####O B-ASP O B-OP O
+our waitress was n't mean , but not especially warm or attentive either .####O B-ASP O O B-OP O O O O B-OP O B-OP O O
+i live in the west village and i 've been to a lot of restaurants .####O O O O O O O O O O O O O O O O
+we were then shooed inside .####O O O O O O
+traditional french decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .####B-ASP I-ASP I-ASP O B-OP O O B-ASP O O B-OP O O O O B-OP O O O O O O O O O O O O O O O
+i love margherita pizza - i love east village pizza####O B-OP B-ASP I-ASP O O B-OP B-ASP I-ASP I-ASP
+nothing special about this place .####O B-OP O O O O
+late nite omelletes are not good here , there is no variety !####O O B-ASP O O B-OP O O O O O O O
+price no more than a jersey deli but way better .####B-ASP O O O O O O O O B-OP O
+the appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion ( maybe 3 of each ) .####O O O O O O O O O O O B-ASP I-ASP I-ASP I-ASP O B-OP O O B-OP O O O O O O O O
+this is my favorite italian restaurant in all of new york city .####O O O B-OP O O O O O O O O O
+no pizza 33 for me !####O B-ASP I-ASP O O O
+i have eaten a lot of pizza here .####O O O O O O O O O
+i must give it yon out of yon stars !####O O O O O O O O O O
+they tell me they are going to cover the garden in glass for the winter , so i 'm looking forward to going there on a snowy night to enjoy it .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+try everything for that matter , it is all good .####O O O O O O O O O O O
+it is kinda nosiy and the tables are close together but it 's still a beautiful place to enjoy a nice dinner .####O O O B-OP O O B-ASP O B-OP O O O O O O B-OP B-ASP O B-OP O B-OP B-ASP O
+the sangria 's - watered down .####O B-ASP O O O O O
+everytime my husband and i go there , we are never disappointed .####O O O O O O O O O O O B-OP O
+great place to go for a drink too because they have 100 kinds of beer .####B-OP O O O O O B-ASP O O O O O B-ASP I-ASP I-ASP O
+it is also extremely well priced .####O O O O B-OP B-ASP O
+honestly the worst sushi my husband and i had in our entire lives .####O O B-OP B-ASP O O O O O O O O O O
+the food was definitely good , but when all was said and done , i just could n't justify it for the price ( including 2 drinks , $ 100/person ) ...####O B-ASP O O B-OP O O O O O O O O O O O O O O O O O B-ASP O O O B-ASP O O O O O
+the service is ok , some of the people did n't get what they asked for .####O B-ASP O B-OP O O O O O O O O O O O O O
+i hate hate hate this place .####O B-OP I-OP I-OP O O O
+great food and the prices are very reasonable .####B-OP B-ASP O O O O O O O
+all we received was an apology as we left to see our show without dinner .####O O O O O O O O O O O O O O B-ASP O
+we were not dissappointed in the least bit by this little gem .####O O O B-OP O O O O O O O O O
+good , dark atmosphere and the music is a nice touch .####B-OP O B-OP B-ASP O O B-ASP O O B-OP O O
+any if you have a reservation you 'll wait for max 5 minutes - so have a drink at the bar .####O O O O O B-ASP O O O O O O O O O O O B-ASP O O B-ASP O
+my wife and i always enjoy the young , not always well trained but nevertheless friendly , staff , all of whom have a story .####O O O O O B-OP O O O O O O O O O B-OP O B-ASP O O O O O O O O
+i have n't been to the other locations .####O O O O O O O O O
+great food , good size menu , great service and an unpretensious setting .####B-OP B-ASP O B-OP I-OP B-ASP O B-OP B-ASP O O B-OP B-ASP O
+i have never eaten in the restaurant , however , upon reading the reviews i got take out last week .####O O O O O O O O O O O O O O O O O O O O O
+okay-i do n't mind the oily part ( cause most are cooked that way ) but it was way too bland .####O O O O O O O O O O O O O O O O O O O O O O
+but trust me it is so worth it .####O O O O O O B-OP O O
+as we were leaving , the couple standing by the door said to another waiter , we 're not in a hurry .####O O O O O O O O O O O O O O B-ASP O O O O O O O O
+subtle food and service####B-OP B-ASP O B-ASP
+the tables are crammed way too close , the menu is typical of any italian restaurant , and the wine list is simply overpriced .####O B-ASP O O O O B-OP O O B-ASP O B-OP O O O O O O O B-ASP I-ASP O O B-OP O
+i 've been to sapphire twice and both times the food was fine , if not good .####O O O O O O O O O O B-ASP O B-OP O O O B-OP O
+skip this restaurant , it 's a big disappointment .####O O O O O O O O B-OP O
+the manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .####O B-ASP O O O O O O O O B-ASP O O O O O O O O O B-OP O O B-ASP O O O O O O O O O O O O
+my friends and i have been going here regularly for two years .####O O O O O O O O O O O O O
+they have a very diverse menu so its something for everybody .####O O O O B-OP B-ASP O O O O O O
+everything at sala thai is tasty and well-portioned .####O O O O O B-OP O B-OP O
+their eggplant is so delicate , sweet tender !####O B-ASP O O B-OP O B-OP O O
+i really like both the scallops and the mahi mahi on saffron risotto .####O O B-OP O O B-ASP O O B-ASP I-ASP I-ASP I-ASP I-ASP O
+if you are in the area try the bagel shoppe on 74th street which is 3 blocks away on 2nd ave.####O O O O O O O O O O O O O O O O O O O O O
+this place has got to be the best japanese restaurant in the new york area .####O B-ASP O O O O O B-OP O O O O O O O O
+the rice was poor quality and was cooked so badly it was hard .####O B-ASP O B-OP B-ASP O O B-ASP O B-OP O O B-OP O
+the atmosphere is relaxed and casual .####O B-ASP O B-OP O B-OP O
+i would not expect this for a $ 55 dinner .####O O O O O O O O O B-ASP O
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded .####O O O O O O O O O O O O O O B-ASP I-ASP O O B-OP O
+only complaint would be that at an average cost of $ 12 - $ 15 per meal , i 'd like not to have to worry about finding a seat !####O B-OP O O O O O B-OP B-ASP O O O O O O O B-ASP O O O O O O O O B-OP I-OP O O B-ASP O
+as we waited i watched 3 seperate groups of diners discuss how dissapointed they also were .####O O O O O O O O O O O O B-OP O O O O
+in fact , this was not a nicoise salad and was barely eatable .####O O O O O O O B-ASP I-ASP O O B-OP I-OP O
+while the room is not particularly comfortable , once you 're seated you 'll forget about everything except what 's on your plate .####O O B-ASP O O O B-OP O O O O O O O O O O O O O O O B-ASP O
+food is great .####B-ASP O B-OP O
+i love this place####O B-OP O B-ASP
+would n't recomend it for dinner !####O O B-OP O O B-ASP O
+it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice .####O O B-OP O O O O O O O B-ASP O O O O O O O O O B-OP O
+here the hot dog is elevated to the level of a real entree with numerous variations available .####O O B-ASP I-ASP O B-OP O O O O O O O O O O O O
+waitstaff are very friendly .####B-ASP O O B-OP O
+i 've had pizza both times and the caprese salad appetizer .####O O O B-ASP O O O O B-ASP I-ASP I-ASP O
+it was raining , and we figured why not ?####O O O O O O O O O O
+i just read mocaramel 's review and felt compelled to respond .####O O O O O O O O O O O O
+probably would not go again ...####O O O O O O
+loved it####O O
+their margarita is best i 've had since i 've returned from naples !####O B-ASP O B-OP O O O O O O O O O O
+it is quite a spectacular scene i 'll give them that .####O O O O B-OP B-ASP O O O O O O
+apparently , the good cook works then .####O O O B-OP B-ASP O O O
+i need at least three rolls to be full , and that 's at least $ 14.00 !####O O O O O B-ASP O O O O O O O O O O O O
+gigino 's in wagner park is so enjoyable .####O O O O O O O B-OP O
+since it literally is a complete hole in the wall , it 's a bit intimidating at first , but you get over that very quickly as soon as the friendly staff welcomes you - do n't hesitate to ask for help with what to get .####O O O O O O O O O O O O O O O B-OP O O O O O O O O O O O O O O B-OP B-ASP O O O O O O O O O O O O O O O
+from the terrible service , to the bland food , not to mention the unaccommodating managers , the overall experience was horrible .####O O B-OP B-ASP O O O B-OP B-ASP O O O O O B-OP B-ASP O O O O O B-OP O
+nice atmosphere , the service was very pleasant and the desert was good .####B-OP B-ASP O O B-ASP O O B-OP O O B-ASP O B-OP O
+the atmosphere is unheralded , the service impecible , and the food magnificant .####O B-ASP O B-OP O O B-ASP B-OP O O O B-ASP B-OP O
+will never be back .####O O O O O
+instead ordered an ice cold beer which to me works with indian .####O O O O O B-ASP O O O O O O O
+our friends have not arrived yet .####O O O O O O O
+you 're going to drop some coin , but completely worth it , especially if you are looking to impress someone .####O O O O O O O O O O B-OP O O O O O O O O O O O
+okay , so i never write but there does n't seem to fair balance of positive to negative reviews concerning green bo and it 's time to speak up - i live in chinatown .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+it saves walking in and waiting for a table in the often noisy , crowded bar at dinnertime .####O O O O O B-ASP O O B-ASP O O O B-OP O B-OP B-ASP O O O
+i know , you were too busy showing off your vintage tee shirt and looking bored , but my agenda is i 'm here to eat and enjoy the company of friends , seeking a pleasant experience .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+i complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .####O O O O B-ASP O O O O B-ASP O O O B-OP I-OP I-OP O O O O O O
+it will be on my to do list the next visit to nyc .####O O O O O O O O O O O O O O
+the prices can not be beat for the quality , quantity , freshness and taste .####O B-ASP O O O O O O B-ASP O B-ASP O B-ASP O B-ASP O
+dessert : pure disaster .####B-ASP O O B-OP O
+the staff has been nice , but they seemed really stressed and the unisex bathroom needs to be cleaned more often .####O B-ASP O O B-OP O O O O O B-OP O O O B-ASP O O O B-OP O O O
+we order a bit of everything on the menu .####O O O O O O O O O O
+they are located in the middle of chinatown !####O O O O O O O O O
+very , very nice####O O O O
+steamed fresh so brought hot hot hot to your table .####O O O O O O O O O O O
+i 've never had bad service and the fish is fresh and delicious .####O O O O B-OP B-ASP O O B-ASP O B-OP O B-OP O
+after i paid for my purchase , i noticed they had not given me utensils so i could eat my pie .####O O O O O O O O O O O O O O B-ASP O O O O O B-ASP O
+staff is very accomodating .####B-ASP O O B-OP O
+friendly and informative staff , very attentive and prompt raw bar service .####B-OP O B-OP B-ASP O O B-OP O B-OP O B-ASP I-ASP O
+stick to dimsum , not super overpriced noodles .####O O B-ASP O O O B-OP B-ASP O
+i have been to roth 's twice and both times were very disappointing .####O O O O B-ASP I-ASP O O O O O O B-OP O
+i was n't impressed and it was n't spicey ????####O O O B-OP O O O O O O
+i took my girlfriend there for her birthday last night and we had a relaxing , really good meal .####O O O O O O O O O O O O O O B-OP O O B-OP B-ASP O
+bagels are ok , but be sure not to make any special requests !####B-ASP O B-OP O O O O O O O O O O O
+if you 've ever been along the river in weehawken you have an idea of the top of view the chart house has to offer .####O O O O O O O O O O O O O O O O O O B-ASP O O O O O O O
+i was on jury duty , rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade .####O O O O O O O O O O O O O O O O O O O O B-OP O B-ASP O B-OP B-ASP I-ASP O B-ASP I-ASP O
+the service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .####O B-ASP O O O B-OP O O B-ASP O O O B-OP O O O O O O O O O O O O O O O O O O
+i would never recommend this place to anybody even for a casual dinner .####O O O B-OP O B-ASP O O O O O O O O
+amma is nothing special .####B-ASP O B-OP I-OP O
+and it was quick which is very important .####O O O B-OP O O O O O
+i went this past saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .####O O O O O O O O B-OP B-ASP O O O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O
+thius is a must for anyone who loves shabu-shabu .####O O O O O O O B-OP B-ASP O
+but the food was delicious .####O O B-ASP O B-OP O
+for being number 1 , this place has alot of work to do in order to truly earn its so called reputation .####O O O O O O O O O O O O O O O O O O O O O O O
+the pesto pizza was excellent , thin-crust pizza with a nice amount of spicy italian cheese that i 'd never heard of before .####O B-ASP I-ASP O B-OP O O O O O B-OP O O B-ASP I-ASP I-ASP O O O O O O O O
+the service was dreadfully slow ( the place was only half full ) and a smile would have been nice ...####O B-ASP O B-OP I-OP O O O O O O O O O O O O O O O O
+go hungry and enjoy .####O O O B-OP O
+considering you will spend at least $ 60 a head , i expect better service .####O O O O O O O O O O O O O B-OP B-ASP O
+it looked like shredded cheese partly done - still in strips .####O O O B-ASP I-ASP B-OP I-OP O O O O O
+sea has become so popular that they 've let it go to their heads .####O O O O O O O O O O O O O O O
+( i hang out , and live , in the neighborhood . . )####O O O O O O O O O O O O O O
+great restaurant , and even greater food !####B-OP O O O O B-OP B-ASP O
+i always find myself sitting next to someone in the theatre industry - interesting to hear ideas hashed out while having a quick bite to eat .####O O O O O O O O O O O O O O O O O O O O O O O O O O O
+a great place to meet up for some food and drinks ...####O B-OP B-ASP O O O O O O O O O
+pizza is terrific , as is homemade pasta .####B-ASP O B-OP O O O B-ASP I-ASP O
+and these are not small , wimpy fast food type burgers - these are real , full sized patties .####O O O O O O O O O O B-ASP O O O O O B-OP I-OP B-ASP O
+if it seemed possible to do so while there i would have fought my bill since my dinner portion of my meal was inedible !####O O O O O O O O O O O O O O O O O O O O O B-ASP O B-OP O
+definately check it out !!!####O O O O O
+two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .####O O O O B-ASP I-ASP B-OP O O O O B-OP O O O B-ASP I-ASP O O B-ASP O
+i noted it was crossed off on the bill .####O O O O O O O O B-ASP O
+in summer-eat outside on a terrace ( another great feature of suan ) !!!####O O O O O B-ASP O O B-OP O O O O O
+conveniently located too , being right on bedford ave.####B-OP O O O O O O O O
+i could n't reccommend their godmother pizza any higher .####O O O B-OP O B-ASP I-ASP O O O
+i work around the corner and tried it with a colleague for the first time .####O O O O O O O O O O O O O O O O
+my family ate here last weekend .####O O O O O O O
+my boyfriend and i recently had an early dinner at artisanal and was satisfied with our experience .####O O O O O O O O B-ASP O O O O B-OP O O O O
+hands down the best pizza on the planet .####B-OP I-OP O O B-ASP O O O O
+kudos to po !####O O O O
+try the congee and the donut like deep fried dough they call ow ley soh , a delicious and sweet tasting bread .####O O B-ASP O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O B-OP O B-OP I-OP B-ASP O
+all the food was hot tasty .####O O B-ASP O B-OP B-OP O
+i recently tried suan and i thought that it was great .####O O O O O O O O O O B-OP O
+the food was well prepared and the service impecable .####O B-ASP O B-OP I-OP O O B-ASP B-OP O
+owner is pleasant and entertaining .####B-ASP O B-OP O B-OP O
+you will not be dissapointed by any of the choices in the menu .####O O O O B-OP O O O O O O O B-ASP O
+even with the prix fixe pricing , this restaurant is not worth it .####O O O B-ASP I-ASP I-ASP O O O O O B-OP O O
+it could have been handled better .####O O O O O B-OP O
+i do not think dinner in manhattan should cost $ 400.00 where i am not swept off my feet .####O O O O B-ASP O O O O O O O O O O O O O O O
+there are a few italian employees who may not speak the best english but for me that adds to the experience .####O O O O O B-ASP O O O O O B-OP O O O O O O O O O O
+and cheap !####O B-OP O
+we were planning to get dessert but the waitress basically through the bill at us before we had a chance to order .####O O O O O O O O B-ASP O O O O O O O O O O O O O O
+the entertainment was great they have shows that go on through out the dinner .####O B-ASP O B-OP O O O O O O O O O O O
+we got a little tipsy from the sake but is n't that what saturday nights with the girlfriends are all about ?####O O O O B-OP O O B-ASP O O O O O O O O O O O O O O
+this is the kind of place you 'd like to take all your friends to and still keep a secret .####O O O O O B-ASP O O B-OP O O O O O O O O O O O O
+the kitchen however , is almost always slow .####O B-ASP O O O O O B-OP O
+oh , but wait , we were out of drinks ( which were also delightfully overpriced ) .####O O O O O O O O O B-ASP O O O O O B-OP O O
+got club soda , filled with ice , no lime .####O B-ASP I-ASP O B-ASP I-ASP I-ASP O B-ASP I-ASP O
+if you want to save some money , do n't go here .####O O O O O O O O O O O O O
+this place is great .####O B-ASP O B-OP O
+jimmy 's is hands down the hottest night spot in the bronx .####O O O O O O B-OP O B-ASP O O O O
+try ordering from the regular menu , then you would not regret !####O O O O O B-ASP O O O O O B-OP O
+off the beaten path , this jewel of a restaurant shines just one block away from the plethora of 6th street indian restaurants .####O O O O O O O O O O O O O O O O O O O O O O O O
+fantastic !####O O
+there 's nice and quiet , small but enough for 6 ( or more ) .####O O O O O O O O O O O O O O O O
+i do n't live in ny but my best friend does .####O O O O O O O O O O O O
+no gimmicks here -- the food speaks for itself in its freshness and preparation .####O O O O O B-ASP O O O O O O O O O
+being from the south , there are n't any good delis in my area and while watching foods across america on pbs i found out about katz 's deli .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the dishes came out around 5 minutes apart .####O O O O O O O O O
+i found the food to be outstanding , particulary the salmon dish i had .####O O O B-ASP O O B-OP O O O B-ASP I-ASP O O O
+not only is the cuisine the best around , the service has always been attentive and charming .####O O O O B-ASP O B-OP O O O B-ASP O O O B-OP O B-OP O
+service is not exactly five star , but thats not really a big deal .####B-ASP O O O B-OP I-OP O O O O O O O O O
+everything is very cheap .####O O O B-OP O
+however , i do not understand the extraordinary hype about this restaurant .####O O O O O O O O O O O O O
+the sushi seemed pretty fresh and was adequately proportioned .####O B-ASP O O B-OP O O B-OP I-OP O
+the sashimi portion are big enough to appease most people , but i did n't like the fact they used artifical lobster meat .####O B-ASP I-ASP O B-OP O O O O O O O O O O O O O O O B-OP I-ASP I-ASP O
+we ordered dosut bibimbap and nakgi-bokum .####O O O O O O O
+she just nodded and walked off .####O O O O O O O
+i had to flag down a third staff person for a fork ... so now it 's goodbye little rude pie company .####O O O O O O O B-ASP I-ASP O O B-ASP O O O O O O O B-OP O O O
+i recently tried suan and i thought that it was great .####O O O B-ASP O O O O O O B-OP O
+kudos haru####O O
+they 're rude at times , and not very friendly .####O O B-OP O O O O O O B-OP O
+however , i think this place is a good hang out spot .####O O O O O B-ASP O O B-OP O O O O
+don pedro 's is one of my favorite restaurants .####O O O O O O O B-OP O O
+i was with a party of 7 ( close but not next the the front doors ) and we were eating with our coats on .####O O O O O O O O O O O O O O B-ASP I-ASP O O O O O O O O O O
+it was really good pizza .####O O O B-OP B-ASP O
+this place has been around for a few years .####O O O O O O O O O O
+i am a die hard peep lover .####O O O O O O O O
+the turkey burgers are scary !####O B-ASP I-ASP O B-OP O
+what a great place .####O O B-OP B-ASP O
+i will be out with friends and all of a sudden i am hungry and i only crave one thing ... their pizza .####O O O O O O O O O O O O O O O O O B-OP O O O O B-ASP O
+great for large groups and celebrations - our super happy waiter was the entertainment of the evening .####B-OP O O O O O O O O B-OP B-ASP O O O O O O O
+it 's also attached to angel 's share , which is a cool , more romantic bar ...####O O O O O O O O O O O O O O O O O O
+i would definitely recommend sea if you like thai cuisine !####O O O O O O O B-OP B-ASP I-ASP O
+and that 's no mean feat ...####O O O O O O O
+i recommend any of their salmon dishes ......####O B-OP O O O B-ASP I-ASP O
+such a disappointment ...####O O O O
+i do n't usually order wine with indian so i ca n't comment on their wine list or their wines .####O O O O O B-ASP O B-ASP O O O O O O O B-ASP I-ASP O O B-ASP O
+eat at your own risk .####O O O O O O
+drawbacks : service is slow and they do n't toast !####O O B-ASP O B-OP O O O O O O
+my chow fun and chow see was really bland and oily .####O B-ASP I-ASP I-ASP I-ASP I-ASP O O B-OP O B-OP O
+this place ... god where do i begin .####O B-ASP O O O O O O O
+perhaps this food is considered extreme to an upper east side resident , but for the rest of us who 've actually eaten ethnic food , this is simply dull .####O O B-ASP O O B-OP O O O O O O O O O O O O O O O O O B-ASP I-ASP O O O O B-OP O
+the service is awful -- the last time i was there ( and i do mean the last time ) we were told that they needed our table so we would have to leave .####O B-ASP O B-OP O O O O O O O O O O O O O O O O O O O O O O O B-ASP O O O O O O O
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .####O O O O O B-ASP I-ASP O O O O B-ASP O O O O O O O O O B-ASP O O B-OP O O B-OP O
+it 's the conversations that make this a fun place to be .####O O O O O O O O B-OP B-ASP O O O
+yakitori bbq meats is tasty too .####B-ASP I-ASP I-ASP O B-OP O O
+what a great place .####O O B-OP O O
+the food is alright - some stuff is good - some is not ( like the steak dish which tends to be dry ) .####O B-ASP O B-OP O O O O B-OP O O O O O O O B-ASP I-ASP O O O O B-OP O O
+i am not a vegetarian but , almost all the dishes were great .####O O O O O O O O O O B-ASP O B-OP O
+i found the food , service and value exceptional everytime i have been there .####O O O B-ASP O B-ASP O B-ASP B-OP O O O O O O
+i had the tuna tartare with sake , mushroom ravioli with pinot noir , and the chocolate sampler with a dessert wine for $ 49 .####O O O B-ASP I-ASP O B-ASP O B-ASP I-ASP O B-ASP I-ASP O O O B-ASP I-ASP O O B-ASP I-ASP O O O O
+the environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts .####O B-ASP O O B-OP O O O O O O O O O O O O O O O O O O
+service is friendly , prices are good - delivery time was a little slow , but for the way this pizza tastes , i 'm willing to overlook it .####B-ASP O B-OP O B-ASP O B-OP O B-ASP I-ASP O O O B-OP O O O O O O B-ASP O O O O O O O O O
+service was quick .####B-ASP O B-OP O
+bartender was unable to tear himself away from friends at bar .####B-ASP O B-OP O O O O O O O B-ASP O
+prices are very good .####O O O O O
+overall the restaurant is more expensive than our other sushi favorites , but everything was delicious .####O O O O O B-OP O O O B-ASP O O O O O B-OP O
+my gf 's duck confitte was very solid as well , although i have little base of reference .####O O O B-ASP I-ASP O O B-OP O O O O O O O O O O O
+however , once i received my predictably mediocre order of what dokebi thinks passes as korean fair , ( sometimes you have to settle when it 's your only option ) , i got through about half my kimchee before i found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .####O O O O O O O B-OP O O O O O O O B-ASP I-ASP O O O O O O O O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O O O B-OP O O O O O O O O O O
+my chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin .####O B-ASP O B-OP O O O O O O O O O O O O O O O O O O
+but now that it 's under new ownership and has been renovated , it looks great .####O O O O O O O O O O O O O O O B-OP O
+( besides that there should be more restaurants like it around the city ) .####O O O O O O O O O O O O O O O
+the large selection of bruschettas , paninis , tramezzinis keep the palate from stagnating .####O B-OP O O B-ASP O B-ASP O B-ASP O O O O O O
+my husband had the mesclun , salmon , and ice cream and he enjoyed all 3 courses .####O O O O B-ASP O B-ASP O O B-ASP I-ASP O O B-OP O O B-ASP O
+the bibimbap was average , but the stone bowl was n't even close to sizzling .####O B-ASP O B-OP O O O B-ASP I-ASP O O O O O B-OP O
+the ambiance was pretty cool , but not worth the hassle .####O B-ASP O O B-OP O O O B-OP O O O
+usually 3 vs. 4 items per dish .####O O O O O O B-ASP O
+great survice####B-OP B-ASP
+as always we had a great glass of wine while we waited .####O O O O O B-OP B-ASP I-ASP I-ASP O O O O
+do yourself a favor and walk the extra avenue from joe 's to eat here .####O O O O O O O O O O O O O O O O
+but their mac cheese was yummy !####O O B-ASP I-ASP O B-OP O
+and they provided a delicious dessert on the house !####O O O O B-OP B-ASP O O O O
+i highly recommend this restaurant !!####O O B-OP O O O
+cozy romantic atomosphere with only around 15 tables at most .####B-OP B-OP B-ASP O O O O B-ASP O O O
+the fish was not fresh and the rice tasted old and stale .####O B-ASP O O B-OP O O B-ASP O B-OP O B-OP O
+and as soon as one person is done , she asked to pick up the plate immediately .####O O O O O O O O O O O O O O O O O O
+check it out .####O O O O
+great food , great prices , great service .####B-OP B-ASP O B-OP B-ASP O B-OP B-ASP O
+a little pricey but it really hits the spot on a sunday morning !####O O O O O O O O O O O O O O
+i 've always been seated propmtly .####O O O O O B-OP O
+your friends will thank you for introducing them to this gem !####O O O O O O O O O O O O
+good , fast service .####B-OP O B-OP B-ASP O
+this staff should be fired .####O B-ASP O O B-OP O
+awsome pizza especially the margheritta slice .####B-OP B-ASP O O B-ASP O O
+my friend is 100 % right in the experience we had .####O O O O O O O O O O O O
+have never had a problem with service save a missing rice once .####O O O O B-OP O B-ASP O O O O O O
+solid wine list , knowledgeable staff , friendly owners and an adventurous , ever-changing menu keep us coming back .####B-OP B-ASP I-ASP O B-OP B-ASP O B-OP B-ASP O O B-OP O B-OP B-ASP O O O O O
+the pizza here is delicious .####O B-ASP O O B-OP O
+the waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet , we were told no ...####O B-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the place is so cool and the service is prompt and curtious .####O B-ASP O O B-OP O O B-ASP O B-OP O B-OP O
+i recommend getting a reservation even though we saw people seated without one .####O B-OP O O B-ASP O O O O O O O O O
+go with the specials , and stay away from the salmon .####O O O B-ASP O O B-OP I-OP O O B-ASP O
+i took one bite from the $ 24 salmon , and i have never , in the 17 years i have been going to restaurants tasted salmon as fishy , as dry , and as bland as the one in flatbush farms .####O O O O O O O O B-ASP O O O O O O O O O O O O O O O O O B-ASP O B-OP O O B-OP O O O B-OP O O O O O O O
+my fiance took me to scopa last week for my birthday and i could n't believe the food .####O O O O O O O O O O O O O O O O O B-ASP O
+again , the waitress was awesome .####O O O B-ASP O B-OP O
+- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the peter 's favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad .####O O B-ASP O O O O O B-OP O O O O O O O B-ASP O B-OP O O O O O O O O O O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-ASP O
+great eats , good times .####B-OP B-ASP O B-OP O O
+this place is amazingly bad .####O O O O B-OP O
+sometimes i get good food and ok service .####O O O B-OP B-ASP O B-OP B-ASP O
+guacamole + shrimp appetizer was really great , we both had the filet , very good , did n't much like the frites that came with , but the filet was so good , neither of us cared .####B-ASP I-ASP I-ASP I-ASP O O B-OP O O O O O B-ASP O O B-OP O O O O O O B-ASP O O O O O O B-ASP O O B-OP O O O O O O
+the only problem is that the manager is a complete incompetent .####O O O O O O B-ASP O O O B-OP O
+and how many times can you pick up the same perfectly aligned set of napkins , inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent ?####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+a one women show !####O O O O O
+a touch more jalapeno heat for contrast and it would have been very good indeed .####O O O B-ASP O O O O O O O O O B-OP O O
+i book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot .####O O O B-OP B-ASP I-ASP I-ASP O O O B-ASP I-ASP I-ASP I-ASP I-ASP O O B-OP O O O
+while their kitchen food is delicious , their sushi is out of this world .####O O B-ASP I-ASP O B-OP O O B-ASP O B-OP I-OP I-OP I-OP O
+i thought this place was totally overrated .####O O O O O O B-OP O
+our tiny table for two ( dinner plates hung over edge ) was right in the middle of one of the lanes of waiter traffic .####O B-OP B-ASP O O O B-ASP I-ASP O O O O O O O O O O O O O O O B-ASP I-ASP O
+if you like the food and the value you get from some of chinatown restaurants , this is not the place for you .####O O B-OP O B-ASP O O B-ASP O O O O O O O O O O O O O O O O
+it is the best hidden spot there and i rave about it to everyone .####O O O B-OP O O O O O O O O O O O
+it can be a little confusing as to where one goes to order , but once the food is ordered , you are in for a treat .####O O O O O B-OP O O O O O O O O O O O B-ASP O O O O O O O O O O
+and it was quick which is very important .####O O O O O O O O O
+the decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall , which are great for a date .####O B-ASP O B-OP O B-OP O O B-ASP I-ASP O O O O O O O O O O O B-OP O O O O
+great indian food !####B-OP B-ASP I-ASP O
+this was one of the best restaurants i 've ever been to .####O O O O O B-OP O O O O O O O
+two people in our party felt like something else , and volare immediately obliged with two great dishes that were not in their regular menu .####O O O O O O O O O O O O O O O O B-OP B-ASP O O O O O O B-ASP O
+if you are looking for a good quality , cheap eats - this is the place .####O O O O O O B-OP I-OP O B-OP B-ASP O O O O O O
+and the tom kha soup was pathetic .####O O B-ASP I-ASP I-ASP O B-OP O
+lexicographers take note : a new and fascinating definition of rudeness is alive and flourishing right here in brooklyn .####O O O O O O O O O O O O O O O O O O O O
+my girlfriend and i stumbled onto this hopping place the other night and had a great time !####O O O O O O O O O O O O O O O B-OP O O
+ciao bella####O O
+i tend to judge a sushi restaurant by its sea urchin , which was heavenly at sushi rose .####O O O O O O O O O B-ASP I-ASP O O O B-OP O O O O
+the prix fixe menu is worth every penny and you get more than enough ( both in quantity and quality ) .####O B-ASP I-ASP I-ASP O B-OP O O O O O O O O O O O O O O O O
+by dinner time , they turn it around and mount a huge comeback !!####O O O O O O O O O O O O O O
+she was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about indian food .####O O O O O O O O O O O O O O O O B-OP B-ASP O O O O O O O O
+the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .####O B-ASP O B-OP O O B-ASP O O O O O O O B-OP O O O O
+i highly recommend it .####O O B-OP O O
+the atmosphere is warm , comfortable , artsy and sexy .####O B-ASP O B-OP O B-OP O B-OP O B-OP O
+the pad thai is excellent here , as well .####O B-ASP I-ASP O B-OP O O O O O
+the whole experience was satisfying .####O O O O B-OP O
+the place is a lot of fun .####O O O O O O B-OP O
+my husband and i ate here after reading reviews here as well as hobokeni.com ,####O O O O O O O O O O O O O O O
+i have been in nyc for over 10 years and could not find this delicacy east of the hudson .####O O O O O O O O O O O O O O O O O O O O
+the sicilian is my favorite it is moist not dry like most places but all their pizza is great !####O B-ASP O O B-OP O O O O O O O O O O O B-ASP O B-OP O
+the food was not very tasty , the portioins were tiny even for such a high quality restaurant .####O B-ASP O O O B-OP O O B-ASP O B-OP O O O O B-OP O O O
+who said go when the place is quiet during the day ?####O O O O O B-ASP O O O O O O
+the unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .####O B-OP B-ASP O O O O O O O B-ASP O B-OP O O O O O B-OP B-ASP I-ASP I-ASP O O B-ASP O O O O O O O O O
+they wouldnt even let me finish my glass of wine before offering another .####O O O O O O O B-ASP I-ASP I-ASP O O O O
+i almost hesititate to write a review because the atmosphere was so great and i would hate for it too become to crowded .####O O O O O O O O O B-ASP O O B-OP O O O O O O O O O O O
+we had champagne and caviar and felt like princesses !####O O B-ASP O B-ASP O O O O O
+well ... they can run but they ca n't hide .####O O O O O O O O O O O
+you order from a menu , so you leave feeling like you missed the full experience .####O O O O B-ASP O O O O O O O O O O O O
+the all-u-can-eat sushi is definitely in very poor quality .####O B-ASP I-ASP O O O O B-OP I-OP O
+maybe it 's that most of dumont 's patrons are younger and have lower expectations , but i can not recommend dumont .####O O O O O O O O O O O O O O O O O O O O B-OP O O
+the bruscetta is a bit soggy , but the salads were fresh , included a nice mix of greens ( not iceberg ) all dishes are served piping hot from the kitchen .####O B-ASP O O O B-OP O O O B-ASP O B-OP O O O B-OP B-ASP I-ASP I-ASP O O B-ASP O O B-ASP O B-ASP O B-OP O O O O
+first of all dal bukhara rocks .####O O O B-ASP I-ASP O O
+the steak melted in my mouth .####O B-ASP O O O O O
+best italian food i ever had ( and being italian , that means alot ) .####B-OP B-ASP I-ASP O O O O O O O O O O O O O
+the food here does a great service to the name ( cantonese that is ... ) .####O B-ASP O O O B-OP O O O O O O O O O O O
+the food was great - sushi was good , but the cooked food amazed us .####O B-ASP O B-OP O B-ASP O B-OP O O O B-ASP I-ASP B-OP O O
+as soon as my father lifted his pen from the check a chef appeared to usher us out .####O O O O O O O O O O B-ASP O B-ASP O O O O O O
+and comparing it to the chinatown restaurants is simply not fair .####O O O O O O O O O O B-OP O
+try everything for that matter , it is all good .####O O O O O O O O O B-OP O
+the staff is very kind and well trained , they 're fast , they are always prompt to jump behind the bar and fix drinks , they know details of every item in the menu and make excelent recomendations .####O B-ASP O O B-OP O B-OP I-OP O O O B-OP O O O O B-OP O O O O B-ASP O O B-ASP O O O O O O O O O B-ASP O O B-OP O O
+the sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable .####O B-ASP I-ASP O B-OP O O O B-ASP I-ASP O O B-ASP I-ASP O O B-ASP O B-OP O
+the flavors are amazing and the value is phenomenal .####O O O O O O O O O O
+taxan delicious !####B-ASP B-OP O
+everyone was more then happy with his choices .####O O O O O O O O O
+will never be back .####O O O O O
+this is the perfect spot for meeting friends , having lunch , dinner , pre-theatre or after-theatre drinks !####O O O B-OP B-ASP O O O O O B-ASP O B-ASP O B-ASP I-ASP I-ASP I-ASP O
+speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .####B-OP B-ASP O B-OP B-ASP O B-OP B-ASP O O B-OP B-ASP O O O O B-OP B-ASP O
+i felt as though i were eating in paris .####O O O O O O O O O O
+their calzones are horrific , bad , vomit-inducing , yuck .####O B-ASP O B-OP O B-OP O B-OP O O O
+and they have these home made potato chips at the bar that are the most delicious things in the world !####O O O O O O B-ASP I-ASP O O B-ASP O O O O B-OP O O O O O
+and amazingly cheap .####O O O O
+i would definitely recommend mary 's and am making it one of my regular neighborhood haunts .####O O O B-OP O O O O O O O O O O O O O
+as we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were .####O O O O O O B-OP B-ASP O B-ASP O O O O O O O B-ASP O O O O B-OP B-ASP I-ASP I-ASP O O O O O B-OP O B-ASP O O
+authentic shanghai style and i can not recommend a better shanghai place in new york .####O O O O O O O O O O O O O O O O
+they are opening two more places as i saw a flyer there one in yonkers which is a restraunt and banquet hall and another one in parsipanny new jersey .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the setting is casual and romantic .####O B-ASP O B-OP O B-OP O
+- for dessert we split chocolate cake and vanilla gelato ( with espresso ) , which were tasty , but i thought a bit overpriced .####O O B-ASP O O B-ASP I-ASP O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-OP O O O O O O B-OP O
+great bagels , spreads and a good place to hang out in .####B-OP B-ASP O B-ASP O O B-OP O O O O O O
+ive been to many thai restaurants in manhattan before , and toons is by far the best thai food ive had ( except for my mom 's of course ) .####O O O O O O O O O O O O O O O O B-OP B-ASP I-ASP O O O O O O O O O O O O
+check it out , it wo n't hurt your stomach or your wallet .####O O O O O O O O O B-ASP O O B-ASP O
+on a recent saturday night , i was with a group of 5 at the bread bar .####O O O O O O O O O O O O O O O O O O
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !####O B-ASP I-ASP I-ASP O O B-OP O O B-ASP I-ASP I-ASP O B-OP O B-OP O O O O
+it 's the perfect restaurant for ny life style , it got cool design , awsome drinks and food and lot 's of good looking people eating and hanging at the pink bar ...####O O O B-OP O O O O O O O O B-OP B-ASP O B-OP B-ASP O B-ASP O O O O B-OP I-OP O O O O O O O B-ASP O
+i usually go there later at night when i get off work so i do n't have to deal with crowds or lines .####O O O O O O O O O O O O O O O O O O O O B-ASP O B-ASP O
+decor is nice and minimalist , food simple yet very well presented and cooked , and the wine list matches the food very well .####B-ASP O B-OP O B-OP O B-ASP B-OP O O B-OP O O O O O O B-ASP I-ASP O O B-ASP O B-OP O
+i consider the best grand sichuan restaurant in nyc .####O O O B-OP O O O O O O
+i did n't complain , i liked the atmosphere so much .####O O O O O O B-OP O B-ASP O O O
+steamed fresh so brought hot hot hot to your table .####O O O O B-OP I-OP I-OP O O O O
+with the great variety on the menu , i eat here often and never get bored .####O O B-OP O O O B-ASP O O O O O O O O O O
+great food but the service was dreadful !####B-OP B-ASP O O B-ASP O B-OP O
+if presentation and service is your thing , then this magic show works .####O O O B-ASP O O O O O O O O O O
+we usually just get some of the dinner specials and they are very reasonably priced and very tasty .####O O O O O O O B-ASP I-ASP O O O O B-OP B-ASP O O B-OP O
+get over it !####O O O O
+i have eaten here on a different occasion - the food is mediocre for the prices .####O O O O O O O O O O B-ASP O B-OP O O B-ASP O
+trust me .####O O O
+what 's the difference between the two ?####O O O O O O O O
+the waiter was attentive .####O B-ASP O B-OP O
+casa la femme is to middle eastern dining what chuckie cheeze is to italian .####O O O O O O O O O O O O O O O
+the portions are huge , so it might be good to order three things to split ( rather than one appetizer and entree per person ) for two people .####O B-ASP O B-OP O O O O O B-OP O O O O O O O O O O B-ASP O B-ASP O O O O O O O
+i choose to go with one of the special , the braised lamb shank in red wine , which was excellent .####O O O O O O O O B-ASP O O B-ASP I-ASP I-ASP I-ASP I-ASP I-ASP O O O B-OP O
+i had the black cod with yuzu sauce , which was wonderful .####O O O B-ASP I-ASP I-ASP I-ASP I-ASP O O O B-OP O
+so so so so so good !####O O O O O B-OP O
+drawbacks : service is slow and they do n't toast !####O O B-ASP O B-OP O O O O O O
+wait staff is blantently unappreciative of your business but its the best pie on the uws !####B-ASP I-ASP O O B-OP O O O O O O B-OP B-ASP O O O O
+after dinner i heard music playing and discovered that there is a lounge downstairs .####O B-ASP O O B-ASP O O O O O O O B-ASP O O
+when asked about how a certain dish was prepared in comparison to a similar at other thai restaurants , he replied this is not mcdonald 's , every place makes things differently####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+after hearing a lot of great things about the restaurant , and passing by it on a daily basis , we decided to try .####O O O O O O O O O O O O O O O O O O O O O O O O O
+i have to say that i am pleasantly suprised and i will most likely stop in again if i am in the neighborhood .####O O O O O O O O O O O O O O O O O O O O O O O O
+i have been doing all of the above at the heartland brewery for over 5 years now and i have never been disappointed !####O O O O O O O O O O B-ASP I-ASP O O O O O O O O O O B-OP O
+no dress codes , no attitudes , plenty of comfort companionship , a great place to relax in an always busy midtown .####O B-ASP I-ASP O O B-ASP O O O O O O O B-OP B-ASP O O O O O O O O
+the only friendly staff member was the guy at the bar .####O O B-OP B-ASP I-ASP O O B-ASP O O B-ASP O
+will have to return to try the chocolate !####O O O O O O O B-ASP O
+yes , i ate the food , but i certainly would not have if i had seen the maggot before eating , and i was at this point fairly sick to my stomach .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+everyone who works there ( the host , the bartender , the servers ) is so helpful .####O O O O O O B-ASP O O B-ASP O O B-ASP O O O B-OP O
+not impressed with the food .####O B-OP O O B-ASP O
+my boyfriend and i went here last night and loved it !####O O O O O O O O O B-OP O O
+but ive heard a lot about this for the past 2 yrs and finally decided to eat here .####O O O O O O O O O O O O O O O O O O O
+do n't go with a larger group than 4 !####O O O O O O O O O O
+perhaps .####O O
+the combination of fresh tomato sauce , fresh mozz cheese , basil and the dough they make with imported flour , makes this is one of the better pizza 's in ny .####O O O B-OP I-ASP I-ASP O B-OP I-ASP I-ASP O B-ASP O O B-ASP O O O O B-ASP O O O O O O O B-OP B-ASP O O O O
+next time , we would n't dare ordering anything else other than some simple asian appetizers and drinks .####O O O O O O O O O O O O O B-OP B-ASP I-ASP O B-ASP O
+we were fans of the half-price saturday night option until some inedible squid during a recent visit .####O O O O O B-ASP I-ASP I-ASP I-ASP O O B-OP B-ASP O O O O O
+will not be back .####O O O O O
+if you 're craving some serious indian food and desire a cozy ambiance , this is quite and exquisite choice .####O O O O O B-OP B-ASP I-ASP O O O B-OP B-ASP O O O B-OP O B-OP O O
+we were very disappointed .####O O O O O
+i ordered the chu chu curry and my friend ordered the pad thai chicken .####O O O B-ASP I-ASP I-ASP O O O O O B-ASP I-ASP I-ASP O
+the only thing i could get attention from was one of at least two cats running around that kept batting at my table .####O O O O O O O O O O O O O O O O O O O O O O O O
+the dishes are remarkably tasty and such a cozy and intimate place !####O B-ASP O O B-OP O O O B-OP O B-OP B-ASP O
+went to village last night for my birthday .####O O O O O O O O O
+you must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .####O O O O B-ASP I-ASP O O B-OP I-OP I-OP I-OP O O B-ASP I-ASP I-ASP O B-ASP O
+the food is okay and the prices here are mediocre .####O B-ASP O B-OP O O O O O O O
+i was here a few weeks back and we had the worst customer service experience at a restaurant ever .####O O O O O O O O O O O B-OP B-ASP I-ASP O O O O O O
+the entertainment was great they have shows that go on through out the dinner .####O B-ASP O O O O B-ASP O O O O O O B-ASP O
+the two star chefs left quite some time ago to open their own place .####O O O B-ASP O O O O O O O O O O O
+the scallion pancakes and fried dumplings were nothing out of the ordinary .####O B-ASP I-ASP O B-ASP I-ASP O B-OP I-OP I-OP I-OP I-OP O
+best indian food i have ever eaten .####B-OP B-ASP I-ASP O O O O O
+want to impress ?####O O O O
+i have n't been to the other locations .####O O O O O O O O O
+one of the best hot dogs i have ever eaten .####O O O O O O O O O O O
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary , and to our surprise it was fantastic .####O O O O O O O O B-OP O O O O B-ASP I-ASP I-ASP I-ASP O O O O O O O O O O B-OP O
+i ordered tamarind duck and my wife ordered noodles with ground beef , and we were both delighted by the way the dishes evoked thai flavors in unexpected ways .####O O B-ASP I-ASP O O O O B-ASP I-ASP I-ASP I-ASP O O O O O B-OP O O O O B-ASP O B-ASP I-ASP O O O O
+i 'm in love with the lobster ravioli !####O O O B-OP O O B-ASP I-ASP O
+nice family owned traditional restaurant .####B-OP O O O O O
+perfect for a quick meal .####B-OP O O B-OP B-ASP O
+the atmosphere was nice but it was a little too dark .####O B-ASP O B-OP O O O O O O B-OP O
+this is undoubtedly my favorite modern japanese brasserie ( that do n’t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !####O O O O B-OP B-ASP I-ASP I-ASP O O O O O O O O O O O O O O O O B-OP I-OP O O O O O
+i have never been disappointed in the red eye .####O O O O B-OP O O O O O
+the wine is always good , the tapas are always yummy , especially with the warm pita bread .####O B-ASP O O B-OP O O B-ASP O O B-OP O O O O B-OP B-ASP I-ASP O
+however , i think jeckll and hydes t is one of those places that is fun to do once .####O O O O O O O O O O O O O O O B-OP O O O O
+service was wonderful ;####B-ASP O B-OP O
+casablanca servces delicious falafel , tabouleh , humus and other mediterranean delights , which are all very inexpensive .####O O B-OP B-ASP O B-ASP O B-ASP O O B-ASP I-ASP O O O O O B-OP O
+beef noodle soup is good as well .####B-ASP I-ASP I-ASP O B-OP O O O
+i just wonder how you can have such a delicious meal for such little money .####O O O O O O O O O B-OP B-ASP O O B-OP B-ASP O
+i have eaten at many pizza places around nyc and this is hands down the worst .####O O O O O O O O O O O O O O O B-OP O
+in the evening , this place attracted a well dressed , with it , ny crowd .####O O O O O O O O O O O O O O O O O
+pizza was a little soggy .####B-ASP O O O B-OP O
+the cream cheeses are out of this world and i love that coffee !!####O B-ASP I-ASP O B-OP I-OP I-OP I-OP O O B-OP O B-ASP O
+we always go there on the weekends and leave extremely full and satisfied .####O O O O O O O O O O B-OP O B-OP O
+the food is very good and the service is great .####O B-ASP O O B-OP O O B-ASP O B-OP O
+the four seasons has history and it is a sort of landmark of new york city restaurants , but trust me , they will charge you through the nose just so that you can say " i 've been to the four seasons restaurant " .####B-ASP I-ASP I-ASP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ASP I-ASP I-ASP O O O
+i know real indian food and this was n't it .####O O O B-ASP I-ASP O O O O O O
+there was no tap beer that evening , which was a disappointment .####O O O O B-ASP O O O O O O B-OP O
+do n't look down your nose at me like that ...####O O O O O O O O O O O
+big thumbs up !####O O O O
+the service is awful .####O B-ASP O B-OP O
+too many other good places to have to settle .####O O O O O O O O O O
+sushi so fresh that it crunches in your mouth .####B-ASP O B-OP O O O O O O O
+the wait staff was very attentive and polite .####O B-ASP I-ASP O O B-OP O B-OP O
+also , specify if you like your food spicy - its rather bland if you do n't .####O O O O O O O B-ASP O O O O B-OP O O O O O
+everything on the menu is great .####O O O B-ASP O B-OP O
+during busy hrs , i recommend that you make a reservation .####O O O O O B-OP O O O O B-ASP O
+i stumbled upon this great pizzeria as i explored my new neighborhood .####O O O O B-OP B-ASP O O O O O O O
+great wine list and great cocktail menu .####B-OP B-ASP I-ASP O B-OP B-ASP I-ASP O
+we were still sitting at the bar while we drank the sangria , but facing away from the bar when we turned back around , the $ 2 was gone the people next to us said the bartender took it .####O O O O O O B-ASP O O O O B-ASP O O O O O O B-ASP O O O O O O O O O O O O O O O O O O B-ASP O O O
+do n’t go to this place !####O O O O O B-ASP O
+stick with the chicken , beef , and lamb dishes .####B-OP O O B-ASP O B-ASP O O B-ASP I-ASP O
+the pizza and wine were excellent - the service too -- but what really made this place was the backyard dining area .####O B-ASP O B-ASP O B-OP O O B-ASP O O O O O O O O O O B-ASP I-ASP I-ASP O
+their sake martini is wonderful .####O B-ASP I-ASP O B-OP O
+i 've been a regular customer at juice generation for the last 3 months - my office moved to the film center on ninth avenue and they are on the next block .####O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+if you want something really different than try jekyll and hyde .####O O O O O B-OP O O B-ASP I-ASP I-ASP O
+the sangria was pretty tasty and good on a hot muggy day .####O B-ASP O O B-OP O B-OP O O O O O O
+people are always friendly .####B-ASP O O B-OP O
+southern indian cuisine is still there , too .####B-ASP I-ASP I-ASP O O O O O O
+if you love wine and cheese and delicious french fare , you 'll love artisanal !####O O B-OP B-ASP O B-ASP O B-OP B-ASP I-ASP O O O B-OP O O
+and , atlhough tables opened up next to us and we asked for a slightly larger space , they left us awkardly seated .####O O O B-ASP O O O O O O O O O O O B-OP B-ASP O O O O O O O
+yeah , sometimes the service can be slow .####O O O O B-ASP O O B-OP O
+i sometimes see the waiters do n't have enough knowledge of their dishes .####O O O O O O O O O O O O O O
+great pizza for lunch place .####B-OP B-ASP O O O O
+monday nights are a bargain at the $ 28 prix fix - this includes a three course meal plus * three * glasses of wine paired with each course .####O O O O O O O O O B-ASP I-ASP O O O O B-ASP I-ASP I-ASP O O O O B-ASP I-ASP I-ASP O O O B-ASP O
+all of the pizzas are terrific and the price is even better !####O O O B-ASP O B-OP O O B-ASP O O B-OP O
+even though it is a little loud , you do n't have to yell at each other to talk .####O O O O O O B-OP O O O O O O O O O O O O O
+one special roll and one regular roll is enough to fill you up , but save room for dessert !####O B-ASP I-ASP O O B-ASP I-ASP O B-OP O O O O O O B-OP I-OP O B-ASP O
+we saw them heating up at least one frozen item though i 'm not sure which dim sum dish it was .####O O O O O O O O O O O O O O O O B-ASP I-ASP I-ASP O O O
+the waitress was very patient with us and the food is phenomenal !####O B-ASP O O B-OP O O O O B-ASP O B-OP O
+if you are the type of person who likes being scared and entertained , this is a great place to go and eat .####O O O O O O O O O O B-OP O B-OP O O O O B-OP O O O O O O
+el nidos one of the best restaurants in new york which i 've ever been to , has a great variety of tasty , mouth watering pizza 's .####O O O O O B-OP O O O O O O O O O O O O O B-OP O O B-OP O B-OP I-OP B-ASP I-ASP O
+i love and i know gourmet food by excellence !####O B-OP O O O B-ASP I-ASP O O O
+i asked for seltzer with lime , no ice .####O O O B-ASP I-ASP I-ASP O O O O
+all the money went into the interior decoration , none of it went to the chefs .####O O O O O O B-ASP I-ASP O O O O O O O B-ASP O
+joe 's pizza used to have the best slice until this pizzeria opened up .####O O O O O O O B-OP B-ASP O O O O O O
+i knew upon visiting nyc that i wanted to try an orginal deli .####O O O O O O O O O O O O O O
+which of course is not real kobe but wagyu beef .####O O O O O O O O O O O
+best chinese on the upper east , prompt delivery , good value .####B-OP O O O O O O B-OP B-ASP O B-OP B-ASP O
+they never brought us complimentary noodles , ignored repeated requests for sugar , and threw our dishes on the table .####O O O O O O O O O O O O O O O O O O O O O
+nicky the nose at the bar is a treat .####O O O O O B-ASP O O O O
+it 's convenient .####O O B-OP O
+meanwhile , the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil , gratis .####O O O B-ASP O O O B-ASP O O O O O O O O O O O B-OP O O O B-ASP I-ASP I-ASP I-ASP I-ASP O O O
+the portions are large and the servers always surprise us with a different starter .####O B-ASP O B-OP O O B-ASP O B-OP O O O B-OP B-ASP O
+i keep my fingers crossed the whole subway ride hoping that there will be a table i can sit at by myself and not have to share with the rice congee soup people .####O O O O O O O O O O O O O O O B-ASP O O O O O O O O O O O O O B-ASP I-ASP I-ASP O O
+i came here with my boyfriend for our anniversary because it was highly recommended to him by a friend .####O O O O O O O O O O O O O O O O O O O O
+the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can .####O B-ASP O B-OP O O B-ASP O O O O O O O B-OP O O O O
+also , they do not take credit card so come with cash !####O O O O O O O O O O O O O
+the restaurant looks out over beautiful green lawns to the hudson river and the statue of liberty .####O O O O O B-OP O B-ASP O O O O O O O O O O
+if you ’re planning to come here , make sure that your date is someone whom you really like since you ’ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .####O O O O O O O O O O O O O O O O O O O O O O O B-OP O B-ASP I-ASP O O O O O O O O O O O O O O O O O O O B-ASP I-ASP O O O O O O O O O O O O
