@@ -10,7 +10,7 @@ do
         then
             
             
-            python gener_new_mask_random-small.py \
+            python ungram.py \
                 --source_domain ${src_domain} \
                 --target_domain ${tar_domain} \
                 --dataset_split 3
