@@ -9,6 +9,8 @@ We follow the previous work and remove the sentences that have no aspects and op
 
 The in-domain corpus(used for training BERT-E) come from [yelp](https://www.yelp.com/dataset/challenge) and [amazon reviews](http://jmcauley.ucsd.edu/data/amazon/links.html). 
 
+Click here to get [BERT-E](https://pan.baidu.com/s/1hNyNCyfOHzznuPbxT1LNFQ) (BERT-Extented) , and the extraction code is by0i. (Please specify the directory where BERT is stored in modelconfig.py.)
+
 ## environment
 transformers==4.2.2  
 pytorch==1.10.0  
