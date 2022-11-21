@@ -1077,13 +1077,10 @@ class BartModel(BartPretrainedModel):
         super().__init__(config)
 
         padding_idx, vocab_size = config.pad_token_id, config.vocab_size
-        # print(padding_idx,'........')
         self.shared = nn.Embedding(vocab_size, config.d_model, padding_idx)
-        # self.shared_t = nn.Embedding(vocab_size, config.d_model, padding_idx)
 
         self.encoder = BartEncoder(config, self.shared)
         self.decoder = BartDecoder(config, self.shared)
-        # self.decoder_t = BartDecoder(config, self.shared_t)
         self.init_weights()
         
 
@@ -1095,7 +1092,6 @@ class BartModel(BartPretrainedModel):
         self.encoder.embed_tokens = self.shared
         self.decoder.embed_tokens = self.shared
 
-        # self.decoder_t.embed_tokens = self.shared_t
 
     def get_encoder(self):
         return self.encoder
@@ -1126,19 +1122,16 @@ class BartModel(BartPretrainedModel):
         output_attentions=None,
         output_hidden_states=None,
         return_dict=None,
-        istarget=None,
         de_labels_ids=None,
         en_labels=None,
     ):
 
         # different to other models, Bart automatically creates decoder_input_ids from
         # input_ids if no decoder_input_ids are provided
-        # print(input_ids,de_labels_ids,'...')
         if decoder_input_ids is None and decoder_inputs_embeds is None:
             decoder_input_ids = shift_tokens_right(
                 input_ids, self.config.pad_token_id, self.config.decoder_start_token_id
             )
-        # print(decoder_input_ids.size(),de_labels_ids.size(),'333')
         output_attentions = output_attentions if output_attentions is not None else self.config.output_attentions
         output_hidden_states = (
             output_hidden_states if output_hidden_states is not None else self.config.output_hidden_states
@@ -1215,10 +1208,8 @@ class BartForConditionalGeneration(BartPretrainedModel):
         super().__init__(config)
         self.model = BartModel(config)
         self.register_buffer("final_logits_bias", torch.zeros((1, self.model.shared.num_embeddings)))
-        # self.register_buffer("final_logits_bias_t", torch.zeros((1, self.model.shared.num_embeddings)))
         self.lm_head = nn.Linear(config.d_model, self.model.shared.num_embeddings, bias=False)
         self.lm_head_l = nn.Linear(config.d_model, 5, bias=False)
-        # self.lm_head_t = nn.Linear(config.d_model, self.model.shared.num_embeddings, bias=False)
         self.init_weights()
         
 
@@ -1235,7 +1226,6 @@ class BartForConditionalGeneration(BartPretrainedModel):
 
     def _resize_final_logits_bias(self, new_num_tokens: int) -> None:
         old_num_tokens = self.final_logits_bias.shape[-1]
-        # old_num_tokens_t = self.final_logits_bias_t.shape[-1]
         if new_num_tokens <= old_num_tokens:
             new_bias = self.final_logits_bias[:, :new_num_tokens]
         else:
@@ -1243,20 +1233,11 @@ class BartForConditionalGeneration(BartPretrainedModel):
             new_bias = torch.cat([self.final_logits_bias, extra_bias], dim=1)
         self.register_buffer("final_logits_bias", new_bias)
 
-        # if new_num_tokens <= old_num_tokens_t:
-        #     new_bias = self.final_logits_bias_t[:, :new_num_tokens]
-        # else:
-        #     extra_bias = torch.zeros((1, new_num_tokens - old_num_tokens_t), device=self.final_logits_bias_t.device)
-        #     new_bias = torch.cat([self.final_logits_bias_t, extra_bias], dim=1)
-        # self.register_buffer("final_logits_bias_t", new_bias)
-
     def get_output_embeddings(self):
-        # print('12312313123')
         return self.lm_head
 
     def set_output_embeddings(self, new_embeddings):
         self.lm_head = new_embeddings
-        # self.lm_head_t = new_embeddings
 
     @add_start_docstrings_to_model_forward(BART_INPUTS_DOCSTRING)
     @replace_return_docstrings(output_type=Seq2SeqLMOutput, config_class=_CONFIG_FOR_DOC)
@@ -1293,24 +1274,16 @@ class BartForConditionalGeneration(BartPretrainedModel):
         """
         
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
-        # print(labels.size())
-        # labels=labels[:,1:]
-        # print(decoder_input_ids,'2.4')
+
         if labels is not None:
             if decoder_input_ids is None:
-                # print('...')
                 decoder_input_ids = shift_tokens_right(
                     labels, self.config.pad_token_id, self.config.decoder_start_token_id
                 )
                 de_labels_ids = shift_tokens_right(
                     de_labels, 5, 4
                 )
-        # print(decoder_input_ids.size(),'2.5')
-                # print(self.config.decoder_start_token_id,decoder_input_ids[0],labels[0])
-        #源领域 decoder
-        # if labels is not None:
-        # print(input_ids)
-        # print(decoder_input_ids.size(),de_labels_ids.size(),'222')
+
         outputs = self.model(
             input_ids,
             attention_mask=attention_mask,
@@ -1326,55 +1299,19 @@ class BartForConditionalGeneration(BartPretrainedModel):
             output_attentions=output_attentions,
             output_hidden_states=output_hidden_states,
             return_dict=return_dict,
-            istarget=0,
             de_labels_ids=de_labels_ids,
             en_labels=en_labels,
         )
         lm_logits = self.lm_head(outputs[0]) + self.final_logits_bias
         lm_logits_l = self.lm_head_l(outputs[0])
-        # 目标领域 decoder
-        
-        # outputs_t = self.model(
-        #     input_ids,
-        #     attention_mask=attention_mask,
-        #     decoder_input_ids=decoder_input_ids,
-        #     decoder_attention_mask=decoder_attention_mask,
-        #     head_mask=head_mask,
-        #     decoder_head_mask=decoder_head_mask,
-        #     encoder_outputs=encoder_outputs,
-        #     inputs_embeds=inputs_embeds,
-        #     decoder_inputs_embeds=decoder_inputs_embeds,
-        #     use_cache=use_cache,
-        #     output_attentions=output_attentions,
-        #     output_hidden_states=output_hidden_states,
-        #     return_dict=return_dict,
-        #     istarget=1
-        # )
-        # # print(len(outputs),outputs)
-        # # print(outputs[0].size(),self.lm_head(outputs[0]).size(),self.final_logits_bias.size())
-        
-        # lm_logits_t = self.lm_head(outputs_t[0]) + self.final_logits_bias
 
         masked_lm_loss = None
         if labels is not None:
-            # print(labels)
             loss_fct = CrossEntropyLoss(ignore_index=-100)
-            sent_idx = torch.arange(0, labels.size(0), dtype=torch.long)
-            # print(labels[:,1])
-            # target = (labels[:,1] == 50266).cpu().data
-            # target_index = sent_idx.masked_select(target)
-            # lm_logits[target_index,:,:]=lm_logits_t[target_index,:,:]
-            # outputs[target_index,:,:]=outputs_t[target_index,:,:]
-            # print(decoder_input_ids[0],labels[0])
-            # print(lm_logits.size(-1),self.config.vocab_size)
             masked_lm_loss = loss_fct(lm_logits.view(-1, self.config.vocab_size), labels.view(-1))
             label_loss=loss_fct(lm_logits_l.view(-1, 5), de_labels.view(-1))
             return masked_lm_loss,label_loss
-        else:
-            sent_idx = torch.arange(0, lm_logits.size(0), dtype=torch.long)
 
-            # lm_logits=lm_logits_t
-            # outputs=outputs_t
         if not return_dict:
             output = (lm_logits,) + outputs[1:]
             return ((masked_lm_loss,) + output) if masked_lm_loss is not None else output

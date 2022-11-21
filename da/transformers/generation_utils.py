@@ -1163,11 +1163,10 @@ class GenerationMixin:
         new_aspect_category=torch.empty(input_ids.size(0),1, dtype=torch.long).fill_(-1).cuda()
         aspect_level=torch.empty(input_ids.size(0),1, dtype=torch.long).fill_(0).cuda()
         
-
+        label_dict_reserve={0:'B-OP',1:'I-OP',2:'B-ASP',3:'I-ASP',4:'O'}
         label_index_list={0,1,2,3}
         asp_label_index_list=[[2,3],[0,1]]
-        label_dict_reserve={0:'B-OP',1:'I-OP',2:'B-ASP',3:'I-ASP',4:'O'}
-        begin_label_index=[2,0]
+        begin_label_index=[0,2]
         inside_label_index=[1,3]
 
         de_inputs_labels_=de_inputs_labels
@@ -1197,11 +1196,12 @@ class GenerationMixin:
             next_tokens=torch.empty(input_ids.size(0),1, dtype=torch.long).fill_(1).cuda()
             next_tokens_scores = logits_processor(input_ids, next_token_logits)
 
-            # label constraint generation, the current label generation depends on the previous label
-            # aspects and opinions will be sampled on distribution while others will be generated greedily
+            
+            
             for index,i in enumerate(input_ids[:,-1]):
 
                 if cur_len >= 2:
+                    # label constraint generation, the current label generation depends on the previous label
                     if aspect_level[index]==0 and (decoder_output_label[index].item() in begin_label_index):
                         
                         next_label[index]=   decoder_output_label[index]  
@@ -1222,8 +1222,9 @@ class GenerationMixin:
                     else:
                         next_label[index]=   decoder_output_label[index] 
                 else:
-                    next_label[index]=   decoder_output_label[index] 
-
+                    next_label[index]=   decoder_output_label[index]
+                     
+                # aspects and opinions will be sampled on distribution while others will be generated greedily
                 if next_label[index].item() in label_index_list:       
 
                     for j,index_list in enumerate(asp_label_index_list):
@@ -1234,18 +1235,12 @@ class GenerationMixin:
                             new_aspect_category[index]=j
                     
                     aspect_level[index]+= 1
-
- 
                     probs = F.softmax(next_tokens_scores[index], dim=-1)
                     next_tokens[index] = torch.multinomial(probs, num_samples=1)
-                          
                 else:
                       
                     new_aspect_category[index]=-1
                     aspect_level[index]=0
-                    
-
-                    # # argmax
                     next_tokens[index] = torch.argmax(next_tokens_scores[index], dim=-1)
 
 
@@ -1264,13 +1259,6 @@ class GenerationMixin:
                         if self.config.is_encoder_decoder
                         else (outputs.hidden_states,)
                     )
-
-            
-
-            
-            # next_tokens=next_tokens[:,index]
-            
-  
 
             # add code that transfomers next_tokens to tokens_to_add
             if eos_token_id is not None:

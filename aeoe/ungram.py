@@ -4,11 +4,18 @@ import torch
 import numpy as np
 import random
 import os
+import sys
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+import numpy as np
+from nltk import ngrams
+from tqdm import tqdm
+
 torch.manual_seed(42)
 random.seed(42)
 np.random.seed(42)           # 为CPU设置随机种子
 torch.cuda.manual_seed(42)       # 为当前GPU设置随机种子
 torch.cuda.manual_seed_all(42)
+
 def build_args(parser):
     """Build arguments."""
     parser.add_argument("--source_domain", type=str, default="device")
@@ -16,7 +23,7 @@ def build_args(parser):
     parser.add_argument("--dataset_split", type=int, default=1)
     return parser.parse_args()
 
-def max_match(text,tags,attributes,aspect_terms):
+def max_match(text,tags,attributes):
     '''
     text: list(list(str)) 句子列表
     vocab: 词典
@@ -35,47 +42,16 @@ def max_match(text,tags,attributes,aspect_terms):
 
         for end in range(len(line) - 1, start - 1, -1):
             if ' '.join(line[start: end + 1]).lower() in attributes:
-                # print(' '.join(line[start: end + 1]))
-                # if end != start:
-                    # muliti_ += 1
                 if any([i in covered | covered2 for i in range(start, end + 1)]):
                     continue
-                # prop=random.randint(0,1)
-                
-                
-                # if prop>0.8 and set(tags[start:end + 1])==set(['O']):
-                #     continue
                 prop=random.random()
                 
-                # set(tags[start:end + 1]).issubset(set(['O','B-OP','I-OP']))
                 if prop>0.6 and set(tags[start:end + 1])==set(['O']):
-                    # covered2.update([i for i in range(start, end + 1)])
                     continue
                 covered.update([i for i in range(start, end + 1)])
                 break
         
-        # if start in covered2:
-        #     continue
-        # # private mask
 
-        # for end in range(len(line) - 1, start - 1, -1):
-        #     if ' '.join(line[start: end + 1]).lower() in aspect_terms:
-        #         # print(' '.join(line[start: end + 1]))
-        #         # if end != start:
-        #             # muliti_ += 1
-        #         if any([i in covered2 for i in range(start, end + 1)]):
-        #             continue
-        #         covered2.update([i for i in range(start, end + 1)])
-        #         break
-        # if start not in covered and not line[start].startswith('##'):
-        #     end = start
-        #     while end + 1 < len(line):
-        #         if not line[end + 1].startswith('##'):
-        #             break
-        #         end += 1
-        #     if ' '.join(line[start: end + 1]) in opinions:
-
-        #         line[start: end + 1] = ['<pad>' for i in range(start, end + 1)]
     for i in covered:
         line[i] = '<pad>'
 
@@ -112,7 +88,7 @@ def max_match(text,tags,attributes,aspect_terms):
             for i in l:
                 line[i]='<pad>'
 
-def max_match_no_random(text,tags,attributes,aspect_terms,seed):
+def max_match_no_random(text,tags,attributes):
     '''
     text: list(list(str)) 句子列表
     vocab: 词典
@@ -131,42 +107,16 @@ def max_match_no_random(text,tags,attributes,aspect_terms,seed):
 
         for end in range(len(line) - 1, start - 1, -1):
             if ' '.join(line[start: end + 1]).lower() in attributes:
-                # print(' '.join(line[start: end + 1]))
-                # if end != start:
-                    # muliti_ += 1
+
                 if any([i in covered | covered2 for i in range(start, end + 1)]):
                     continue
                 prop=random.random()
                 
-                # set(tags[start:end + 1]).issubset(set(['O','B-OP','I-OP']))
                 if prop>0.6 and set(tags[start:end + 1])==set(['O']):
-                    # covered2.update([i for i in range(start, end + 1)])
                     continue
                 covered.update([i for i in range(start, end + 1)])
                 break
         
-        # if start in covered2:
-        #     continue
-        # # private mask
-    
-        # for end in range(len(line) - 1, start - 1, -1):
-        #     if ' '.join(line[start: end + 1]).lower() in aspect_terms:
-        #         # print(' '.join(line[start: end + 1]))
-        #         # if end != start:
-        #             # muliti_ += 1
-        #         if any([i in covered2 for i in range(start, end + 1)]):
-        #             continue
-        #         covered2.update([i for i in range(start, end + 1)])
-        #         break
-        # if start not in covered and not line[start].startswith('##'):
-        #     end = start
-        #     while end + 1 < len(line):
-        #         if not line[end + 1].startswith('##'):
-        #             break
-        #         end += 1
-        #     if ' '.join(line[start: end + 1]) in opinions:
-
-        #         line[start: end + 1] = ['<pad>' for i in range(start, end + 1)]
     for i in covered:
         line[i] = '<pad>'
 
@@ -226,18 +176,38 @@ def ot2bio_absa(ts_tag_sequence):
         pre_tag = cur_tag
     return new_ts_sequence
 
-"""
-python make_ngram_attribute_vocab.py [vocab] [corpus1] [corpus2] r
+def max_match_op(line, label,dict_list,muliti_):
+    '''
+    text: list(list(str)) 句子列表
+    vocab: 词典
+    基于词典的最大匹配: 找到text中所包含的来自于aspects的词
+    '''
+    
+    
+    covered = set()
+    
+    for start in range(len(line)):
+        if start in covered:
+            continue
 
-subsets a [vocab] file by finding the words most associated with
-one of two corpuses. threshold is r ( # in corpus_a  / # in corpus_b )
-uses ngrams
-"""
-import sys
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-import numpy as np
-from nltk import ngrams
-from tqdm import tqdm
+        # private mask
+        for end in range(len(line) - 1, start - 1, -1):
+            if ' '.join(line[start: end + 1]).lower() in dict_list:
+                # print(' '.join(line[start: end + 1]))
+                # if end != start:
+                #     muliti_ += 1
+                if any([i in covered for i in range(start, end + 1)]):
+                    continue
+                covered.update([i for i in range(start, end + 1)])
+                if label[start]=='O':
+                    if start>=1 and label[start-1][2:]=='OP':
+                        label[start]='I-OP'
+                    else:
+                        label[start]='B-OP'
+                    muliti_+=1
+                    
+                break
+    return muliti_  
 
 class NgramSalienceCalculator(object):
     def __init__(self, pre_corpus, post_corpus, tokenize):
@@ -274,9 +244,6 @@ class NgramSalienceCalculator(object):
         #     return ((pre_count + lmbda)/self.pre_counts_all) / ((post_count + lmbda)/self.post_counts_all)
         # else:
         #     return ((post_count + lmbda)/self.post_counts_all) / ((pre_count + lmbda)/self.pre_counts_all)
-
-
-
 
 def tokenize(text):
     text = text.split()
@@ -315,165 +282,6 @@ def calculate_attribute_markers(corpus):
                     else:
                         Attributes_dict[gram]=-max(negative_salience, positive_salience)
 
-
-
-
-    
-            
-    
-
-args = build_args(argparse.ArgumentParser())
-source_domain = args.source_domain
-target_domain = args.target_domain
-dataset_split = args.dataset_split
-print(source_domain, "====================================", target_domain)
-
-count=0
-
-texts_t=[]
-texts_t_dp=[]
-texts_s=[]
-tags_t=[]
-tags_t_dp=[]
-tags_s=[]
-
-
-with open('./splited_data_acl/' + source_domain + '_'+str(dataset_split)+'/train.txt','r')as fout:
-    for line in fout:
-        linear_data=[]
-        tokens=[]
-        tags=[]
-        text,label=line.strip().split("####")
-        tokens=text.split()
-        tags=label.split()
-        if source_domain=='device':
-            if set(tags)==set(['O']):
-                continue
-        assert len(tokens)==len(tags)
-        texts_s.append(' '.join(tokens))
-        tags_s.append(' '.join(tags))
-
-
-# with open('./splited_data_dp_iter_all/' + target_domain + '_'+str(split_index+1)+'.txt','r')as fout:
-#     for line in fout:
-#         linear_data=[]
-#         tokens=[]
-#         tags=[]
-#         text,label=line.strip().split("####")
-#         tokens=text.split()
-#         tags=label.split()
-#         assert len(tokens)==len(tags)
-#         texts_t.append(' '.join(tokens))
-#         tags_t.append(' '.join(tags))
-
-# with open('./raw_data/%s_train.txt'%target_domain,'r')as fout:
-#     for line in fout:
-#         linear_data=[]
-#         tokens=[]
-#         tags=[]
-#         _,text=line.strip().split("####")
-#         words=text.split()
-#         for word in words:
-#             if len(word.split("="))>2:
-#                 tokens.append('=')
-#                 tags.append('O')
-#             else:
-#                 token,label=word.split("=")
-#                 # token = normalize_tok(token)
-#                 tokens.append(token.lower())
-#                 tags.append(label)
-#         tags=ot2bio_absa(tags)
-#         assert len(tokens)==len(tags)
-#         texts_t.append(' '.join(tokens))
-#         tags_t.append(' '.join(tags))
-
-# with open('./co_guess_data52/%s_%s.txt'%(source_domain,target_domain),'r')as fout:
-#     for line in fout:
-#         tok_list, tag_list = [], []
-#         tokens,labels = line.strip().split('####')
-#         tokens=tokens.split()
-#         labels=labels.split()
-#         for i in range(len(tokens)):
-#             if tokens[i].startswith("##"):
-#                 tok_list[-1]=tok_list[-1]+tokens[i][2:]
-#             else:
-#                 tok_list.append(tokens[i])
-#                 tag_list.append(labels[i])
-#         texts_t.append(' '.join(tok_list))
-#         tags_t.append(' '.join(tag_list))
-
-def max_match_op(line, label,dict_list,muliti_):
-    '''
-    text: list(list(str)) 句子列表
-    vocab: 词典
-    基于词典的最大匹配: 找到text中所包含的来自于aspects的词
-    '''
-    
-    
-    covered = set()
-    
-    for start in range(len(line)):
-        if start in covered:
-            continue
-
-        # private mask
-        for end in range(len(line) - 1, start - 1, -1):
-            if ' '.join(line[start: end + 1]).lower() in dict_list:
-                # print(' '.join(line[start: end + 1]))
-                # if end != start:
-                #     muliti_ += 1
-                if any([i in covered for i in range(start, end + 1)]):
-                    continue
-                covered.update([i for i in range(start, end + 1)])
-                if label[start]=='O':
-                    if start>=1 and label[start-1][2:]=='OP':
-                        label[start]='I-OP'
-                    else:
-                        label[start]='B-OP'
-                    muliti_+=1
-                    
-                break
-    return muliti_  
-# base_lexicons = positive_lexicon, negative_lexicon, neutral_lexicon = read('./double_prop_tag-aeoe/opinion-lexicon-English/positive_opinions.txt'),  read('./double_prop_tag-aeoe/opinion-lexicon-English/negative_opinions.txt'), set()
-# # base_lexicons = positive_lexicon, negative_lexicon, neutral_lexicon = get_base_lexicons('./double_prop/lexicon.txt')
-# base_lexicons = set.union(*base_lexicons)
-# base_lexicons=dict.fromkeys(base_lexicons, 0)
-muliti_=0
-with open('./split'+str(dataset_split)+'_sl/%s-%s/pre.txt'%(source_domain,target_domain),'r')as fout:
-    for line in fout:
-        tok_list, tag_list = [], []
-        tokens,labels,_ = line.strip().split('***')
-        tokens=tokens.split()
-        labels=labels.split()
-        for i in range(len(tokens)):
-            if tokens[i].startswith("##"):
-                tok_list[-1]=tok_list[-1]+tokens[i][2:]
-            else:
-                tok_list.append(tokens[i])
-                tag_list.append(labels[i])
-        # muliti_=max_match_op(tok_list,tag_list,base_lexicons,muliti_)
-        # if set(tag_list)==set(['O']):
-        #     continue
-        texts_t.append(' '.join(tok_list))
-        tags_t.append(' '.join(tag_list))
-
-# with open('./splited_data_small-100/' + target_domain + '_'+str(dataset_split)+'/train.txt','r')as fout:
-#     for line in fout:
-#         linear_data=[]
-#         tokens=[]
-#         tags=[]
-#         text,label=line.strip().split("####")
-#         tokens=text.split()
-#         tags=label.split()
-#         # if source_domain=='device':
-#         #     if set(tags)==set(['O']):
-#         #         continue
-#         assert len(tokens)==len(tags)
-#         texts_t.append(' '.join(tokens))
-#         tags_t.append(' '.join(tags))
-
-
-# print(muliti_)
 def get_features(text_list, labels_list):
     # 从标注样例中抽取属性词
     aspects = set()
@@ -497,141 +305,107 @@ def get_features(text_list, labels_list):
                 aspects.add(' '.join(line[left: right + 1]))
                 covered.update([i for i in range(left, right + 1)])
     return aspects
+
+args = build_args(argparse.ArgumentParser())
+source_domain = args.source_domain
+target_domain = args.target_domain
+dataset_split = args.dataset_split
+print(source_domain, "====================================", target_domain)
+
+count=0
+
+texts_t=[]
+texts_t_dp=[]
+texts_s=[]
+tags_t=[]
+tags_t_dp=[]
+tags_s=[]
+
+with open('./splited_data_acl/' + source_domain + '_'+str(dataset_split)+'/train.txt','r')as fout:
+    for line in fout:
+        linear_data=[]
+        tokens=[]
+        tags=[]
+        text,label=line.strip().split("####")
+        tokens=text.split()
+        tags=label.split()
+        if source_domain=='device':
+            if set(tags)==set(['O']):
+                continue
+        assert len(tokens)==len(tags)
+        texts_s.append(' '.join(tokens))
+        tags_s.append(' '.join(tags))
+
+with open('./split'+str(dataset_split)+'_sl/%s-%s/pre.txt'%(source_domain,target_domain),'r')as fout:
+    for line in fout:
+        tok_list, tag_list = [], []
+        tokens,labels,_ = line.strip().split('***')
+        tokens=tokens.split()
+        labels=labels.split()
+        for i in range(len(tokens)):
+            if tokens[i].startswith("##"):
+                tok_list[-1]=tok_list[-1]+tokens[i][2:]
+            else:
+                tok_list.append(tokens[i])
+                tag_list.append(labels[i])
+
+        texts_t.append(' '.join(tok_list))
+        tags_t.append(' '.join(tag_list))
+
+
+
+## extract the domain-specific segments
+
 # the salience ratio
 r = float(10)
-
 
 sc = NgramSalienceCalculator(texts_s, texts_t, tokenize)
 
 print("marker", "negative_score", "positive_score")
-
-
 calculate_attribute_markers(texts_s)
 calculate_attribute_markers(texts_t)
-# 
-#     fin.write('\n'.join(list(set(Attributes))))
+
 os.makedirs('./attribute_balance/', exist_ok=True)
 with open('./attribute_balance/%s_%s_attributes_dict.txt'%(source_domain,target_domain),'w')as fin:
     for k,v in Attributes_dict.items():
         fin.write('%s'%(k))
         fin.write('\n')
 
-
-
-
 target_features=get_features(texts_t, tags_t)
-
 
 with open('./attribute_balance/%s_%s_attributes_dict.txt'%(source_domain,target_domain),'r')as fin:
     attributes =set(fin.read().lower().splitlines())
 
-# aspect_terms=private_target_features|private_source_features
-aspect_terms=''
-# private_target_features=[]
-# private_source_features=[]
-
-# target raw_data dp+bert-e
-# raw_data_t=[]
+## match and mask
 raw_data_t_noli=[]
 for j in range(len(texts_t)):
     tokens=texts_t[j].split()
     tags=tags_t[j].split()
     raw_data_t_noli.append(' '.join(tokens)+'####'+' '.join(tags))
-    # linear_data=[]
     
-    # for i in range(len(tokens)):
-    #     if tags[i]!='O':
-
-    #         linear_data+=[tags[i],tokens[i]]
-    #     else:
-    #         linear_data+=[tokens[i]]
-    # raw_data_t.append(linear_data)
-
-# for j in range(len(texts_t_dp)):
-#     tokens=texts_t_dp[j].split()
-#     tags=tags_t_dp[j].split()
-    
-#     linear_data=[]
-    
-#     for i in range(len(tokens)):
-#         if tags[i]!='O':
-
-#             linear_data+=[tags[i],tokens[i]]
-#         else:
-#             linear_data+=[tokens[i]]
-#     raw_data_t.append(linear_data)
-
-# target mask_data dp+bert-e
-# mask_data_t=[]
 mask_data_t_noli=[]
 for j in range(len(texts_t)):
     tokens=texts_t[j].split()
     tags=tags_t[j].split()
     
-    max_match(tokens,tags,attributes,aspect_terms)
+    max_match(tokens,tags,attributes)
     mask_data_t_noli.append(' '.join(tokens)+'####'+' '.join(tags))
-    # linear_data=[]
-    
-    # for i in range(len(tokens)):
-    #     if tags[i]!='O':
 
-    #         linear_data+=[tags[i],tokens[i]]
-    #     else:
-    #         linear_data+=[tokens[i]]
-    # mask_data_t.append(linear_data)
-
-# for j in range(len(texts_t_dp)):
-#     tokens=texts_t_dp[j].split()
-#     tags=tags_t_dp[j].split()
-    
-#     max_match(tokens,tags,attributes,aspect_terms)
-#     linear_data=[]
-    
-#     for i in range(len(tokens)):
-#         if tags[i]!='O':
-
-#             linear_data+=[tags[i],tokens[i]]
-#         else:
-#             linear_data+=[tokens[i]]
-#     mask_data_t.append(linear_data)
-
-# source raw_data 
-
-# raw_data_s=[]
 raw_data_s_noli=[]
 for j in range(len(texts_s)):
     tokens=texts_s[j].split()
     tags=tags_s[j].split()
     linear_data=[]
     raw_data_s_noli.append(' '.join(tokens)+'####'+' '.join(tags))
-    # for i in range(len(tokens)):
-    #     if tags[i]!='O':
 
-    #         linear_data+=[tags[i],tokens[i]]
-    #     else:
-    #         linear_data+=[tokens[i]]
-    # raw_data_s.append(linear_data)
-
-# source mask_data
-
-# mask_data_s=[]
 mask_data_s_noli=[]
 for j in range(len(texts_s)):
     tokens=texts_s[j].split()
     tags=tags_s[j].split()
     
-    max_match(tokens,tags,attributes,aspect_terms)
-    # linear_data=[]
+    max_match(tokens,tags,attributes)
     mask_data_s_noli.append(' '.join(tokens)+'####'+' '.join(tags))
-    # for i in range(len(tokens)):
-    #     if tags[i]!='O':
 
-    #         linear_data+=[tags[i],tokens[i]]
-    #     else:
-    #         linear_data+=[tokens[i]]
-    # mask_data_s.append(linear_data)
-    
-# mask_data_s_random=[]
 mask_data_s_noli_random=[]
 times=5
 for time in range(times):
@@ -639,44 +413,8 @@ for time in range(times):
         tokens=texts_s[j].split()
         tags=tags_s[j].split()
         
-        max_match_no_random(tokens,tags,attributes,aspect_terms,time)
-        # linear_data=[]
+        max_match_no_random(tokens,tags,attributes)
         mask_data_s_noli_random.append(' '.join(tokens)+'####'+' '.join(tags))
-        # for i in range(len(tokens)):
-        #     if tags[i]!='O':
-
-        #         linear_data+=[tags[i],tokens[i]]
-        #     else:
-        #         linear_data+=[tokens[i]]
-        # mask_data_s_random.append(linear_data)
-
-
-
-# raw_data_s_3times=[]
-raw_data_s_noli_3times=[]
-times=5
-for time in range(times):
-    
-    for j in range(len(texts_s)):
-        tokens=texts_s[j].split()
-        tags=tags_s[j].split()
-        # linear_data=[]
-        raw_data_s_noli_3times.append(' '.join(tokens)+'####'+' '.join(tags))
-        # for i in range(len(tokens)):
-        #     if tags[i]!='O':
-
-        #         linear_data+=[tags[i],tokens[i]]
-        #     else:
-        #         linear_data+=[tokens[i]]
-        # raw_data_s_3times.append(linear_data)
-
-
-# os.makedirs('./lin_data-raw_data-noli-3times/', exist_ok=True)
-# with open('./lin_data-raw_data-noli-3times/'+source_domain+'_'+target_domain+'_'+str(dataset_split)+'_lin.txt','w')as fin:
-#     for line in raw_data_s_noli_3times:
-#         fin.write(line)
-#         fin.write('\n')
-
 
 os.makedirs('./masked_target_pseudo_label/', exist_ok=True)
 with open('./masked_target_pseudo_label/'+source_domain+'_'+target_domain+'_'+str(dataset_split)+'_lin.txt','w')as fin:
@@ -706,34 +444,3 @@ with open('./source_label-random/'+source_domain+'_'+target_domain+'_'+str(datas
     for line in mask_data_s_noli_random:
         fin.write(line)
         fin.write('\n')
-
-
-
-
-
-
-# os.makedirs('./mask_data-dp+bert-e-iter_all/', exist_ok=True)
-# with open('./mask_data-dp+bert-e-iter_all/'+source_domain+'_'+target_domain+'_'+str(dataset_split)+'_lin.txt','w')as fin:
-#     for line in mask_data_t:
-#         fin.write(' '.join(line))
-#         fin.write('\n')
-# os.makedirs('./mask_data-raw_data/', exist_ok=True)
-# with open('./mask_data-raw_data/'+source_domain+'_'+target_domain+'_'+str(dataset_split)+'_lin.txt','w')as fin:
-#     for line in mask_data_s:
-#         fin.write(' '.join(line))
-#         fin.write('\n')
-# os.makedirs('./lin_data-raw_data/', exist_ok=True)
-# with open('./lin_data-raw_data/'+source_domain+'_'+target_domain+'_'+str(dataset_split)+'_lin.txt','w')as fin:
-#     for line in raw_data_s:
-#         fin.write(' '.join(line))
-#         fin.write('\n')
-
-# os.makedirs('./lin_data-dp+bert-e-iter_all/', exist_ok=True)
-# with open('./lin_data-dp+bert-e-iter_all/'+source_domain+'_'+target_domain+'_'+str(dataset_split)+'_lin.txt','w')as fin:
-#     for line in raw_data_t:
-#         fin.write(' '.join(line))
-#         fin.write('\n')
-
-
-
-
