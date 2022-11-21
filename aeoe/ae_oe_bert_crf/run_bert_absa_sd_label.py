@@ -49,46 +49,13 @@ logger = logging.getLogger(__name__)
 log_format = '%(asctime)-10s: %(message)s'
 logging.basicConfig(level=logging.INFO, format=log_format)
 
-
-
-class BertForTokenClassification(BertPreTrainedModel):
-    def __init__(self, config):
-        super(BertForTokenClassification, self).__init__(config)
-        self.num_labels = config.num_labels
-        self.bert = BertModel(config)
-        self.dropout = torch.nn.Dropout(config.hidden_dropout_prob)
-        self.classifier = torch.nn.Linear(config.hidden_size, config.num_labels)
-
-    def forward(self, input_ids, token_type_ids=None, attention_mask=None, labels=None):
-        outputs = self.bert(input_ids, token_type_ids=token_type_ids, attention_mask=attention_mask)
-        sequence_output = outputs[0]
-        sequence_output = self.dropout(sequence_output)
-        logits = self.classifier(sequence_output)  # attention_mask size (batch, seq_len)
-
-        if labels is not None:
-            
-            loss_fct = torch.nn.CrossEntropyLoss(ignore_index=-1)
-            loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
-            # m = torch.nn.LogSoftmax(dim=-1)
-            # n = torch.nn.Softmax(dim=-1)
-            # i=m(logits.view(-1, self.num_labels))
-            # t=n(logits.view(-1, self.num_labels))
-            # mask=(labels.view(-1)==-1)
-            # loss2=-torch.mul(torch.mul(i,t).sum(-1),mask).sum(-1)/mask.sum(-1)
-            return loss
-        else:
-            return logits
-
-
 def train(args):
     processor = data_utils.ABSAProcessor()
     label_list = processor.get_labels(args.task_type)
-    # model = BertForTokenClassification.from_pretrained(modelconfig.MODEL_ARCHIVE_MAP[args.bert_model],
-    #                                                 num_labels=len(label_list))
+
     model = Bert_CRF.from_pretrained(modelconfig.MODEL_ARCHIVE_MAP[args.bert_model],
               num_tag = len(label_list))
-    # domain=args.output_dir.split('/')[3]
-    # model = torch.load(os.path.join('./run_out/source-52-small/'+domain, "model.pt"))
+
     model.cuda()
 
     tokenizer = ABSATokenizer.from_pretrained(modelconfig.MODEL_ARCHIVE_MAP[args.bert_model])
@@ -214,21 +181,6 @@ def train(args):
                                 else:
                                     preds = np.append(preds, logits.detach().cpu().numpy(), axis=0)
                                 out_label_ids = np.append(out_label_ids, label_ids.detach().cpu().numpy(), axis=0)
-
-                        # all_mask.append(input_mask)
-                        # logits = [[np.argmax(i) for i in l.detach().cpu().numpy()] for l in logits]
-                        # if preds is None:
-                        #     if type(logits) == list:
-                        #         preds = logits
-                        #     else:
-                        #         preds = logits.detach().cpu().numpy()
-                        #     out_label_ids = label_ids.detach().cpu().numpy()
-                        # else:
-                        #     if type(logits) == list:
-                        #         preds = np.append(preds, np.asarray(logits), axis=0)
-                        #     else:
-                        #         preds = np.append(preds, logits.detach().cpu().numpy(), axis=0)
-                        #         out_label_ids = np.append(out_label_ids, label_ids.detach().cpu().numpy(), axis=0)
 
                         out_label_ids = out_label_ids.tolist()
                         preds = preds.tolist()
